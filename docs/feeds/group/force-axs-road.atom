@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SRAM Force AXS (road)</title>
+  <subtitle>All generations of Force AXS road groupsets — derailleurs, shifters, Force power meter.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/force-axs-road.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/force-axs-road.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2026-03-04T19:43:15Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>FORCE RD XPLR MAX 46T (RD-FRC-1E-E1) — firmware 2.54.9</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-E1.atom#2.54.9</id>
+    <updated>2026-03-04T19:43:15Z</updated>
+    <published>2026-03-04T19:43:15Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1138/2.54.9"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-E1&lt;/code&gt; — firmware 2.54.9&lt;/p&gt;&lt;p&gt;Part: FIVAL FORCE RD 1x&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version  before installing this Device Firmware Update.
+     - Minor Bugfix and reliability improvement.&lt;/p&gt;&lt;p&gt;Released: 2026-03-04&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 46T (RD-FRC-1E-E1) — firmware 2.54.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-E1.atom#2.54.6</id>
+    <updated>2025-12-15T14:37:58Z</updated>
+    <published>2025-12-15T14:37:58Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1138/2.54.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-E1&lt;/code&gt; — firmware 2.54.6&lt;/p&gt;&lt;p&gt;Part: FIVAL FORCE RD 1x&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version before installing this Device Firmware Update.
+
+  - This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-15&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-E1) — firmware 2.54.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-E1.atom#2.54.4</id>
+    <updated>2025-12-09T21:13:37Z</updated>
+    <published>2025-12-09T21:13:37Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1136/2.54.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-E1&lt;/code&gt; — firmware 2.54.4&lt;/p&gt;&lt;p&gt;Part: FIVAL FORCE RD 2x&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+- This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.  
+
+- Future Product Support&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-E1) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-E1.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:54Z</updated>
+    <published>2025-12-09T20:58:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1134/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-E1&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: FIVAL FORCE FD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:54Z</updated>
+    <published>2025-12-09T20:58:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1106/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE WIDE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D2&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD WIDE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D2) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D2.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:54Z</updated>
+    <published>2025-12-09T20:58:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1105/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D2&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC-1E-D2) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-D2.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:54Z</updated>
+    <published>2025-12-09T20:58:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1104/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-D2&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD XPLR&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD MAX 36T (RD-FRC-E-D2) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D2.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:54Z</updated>
+    <published>2025-12-09T20:58:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1103/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD MAX 36T&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D2&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD MAX 36&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:53Z</updated>
+    <published>2025-12-09T20:58:53Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD WIDE (FD-FRC-EW-D1) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D1.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:53Z</updated>
+    <published>2025-12-09T20:58:53Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1045/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD WIDE&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D1&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: FORCE EXPANSION FD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D1) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D1.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:52Z</updated>
+    <published>2025-12-09T20:58:52Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1003/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D1&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: FD FORCE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-D1) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D1.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:52Z</updated>
+    <published>2025-12-09T20:58:52Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1001/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D1&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: RD FORCE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 46T (RD-FRC-1E-E1) — firmware 2.53.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-E1.atom#2.53.8</id>
+    <updated>2025-09-19T12:09:01Z</updated>
+    <published>2025-09-19T12:09:01Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1138/2.53.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-E1&lt;/code&gt; — firmware 2.53.8&lt;/p&gt;&lt;p&gt;Part: FIVAL FORCE RD 1x&lt;/p&gt;&lt;p&gt;This firmware update contains platform updates.&lt;/p&gt;&lt;p&gt;Released: 2025-09-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (EB-FRC-D1) — firmware 2.53.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-FRC-D1.atom#2.53.2</id>
+    <updated>2025-09-17T20:44:40Z</updated>
+    <published>2025-09-17T20:44:40Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.53.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-FRC-D1&lt;/code&gt; — firmware 2.53.2&lt;/p&gt;&lt;p&gt;Part: EB R FORCE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements. 
+
+This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (ED-FRC-D1) — firmware 2.53.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-D1.atom#2.53.2</id>
+    <updated>2025-09-17T20:44:40Z</updated>
+    <published>2025-09-17T20:44:40Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1006/2.53.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-FRC-D1&lt;/code&gt; — firmware 2.53.2&lt;/p&gt;&lt;p&gt;Part: ED R FORCE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements. 
+
+This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (L) (ED-FRC-E1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-E1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:13Z</updated>
+    <published>2025-09-17T20:39:13Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1177/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (L)&lt;/strong&gt; &lt;code&gt;ED-FRC-E1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FIVAL Force ED (L)&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 46T (RD-FRC-1E-E1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-E1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:10Z</updated>
+    <published>2025-09-17T20:39:10Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1138/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-E1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FIVAL FORCE RD 1x&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-E1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-E1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:10Z</updated>
+    <published>2025-09-17T20:39:10Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1136/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-E1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FIVAL FORCE RD 2x&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-E1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-E1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:10Z</updated>
+    <published>2025-09-17T20:39:10Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1134/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-E1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FIVAL FORCE FD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:09Z</updated>
+    <published>2025-09-17T20:39:09Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1106/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE WIDE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D2&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD WIDE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D2) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D2.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:09Z</updated>
+    <published>2025-09-17T20:39:09Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1105/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D2&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC-1E-D2) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-D2.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:09Z</updated>
+    <published>2025-09-17T20:39:09Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1104/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-D2&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD XPLR&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD MAX 36T (RD-FRC-E-D2) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D2.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:09Z</updated>
+    <published>2025-09-17T20:39:09Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1103/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD MAX 36T&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D2&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD MAX 36&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (L) (ED-FRC-D2) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-D2.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:07Z</updated>
+    <published>2025-09-17T20:39:07Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1090/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (L)&lt;/strong&gt; &lt;code&gt;ED-FRC-D2&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: Force Reignition ED (L)&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:06Z</updated>
+    <published>2025-09-17T20:39:06Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD WIDE (FD-FRC-EW-D1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:05Z</updated>
+    <published>2025-09-17T20:39:05Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1045/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD WIDE&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FORCE EXPANSION FD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:02Z</updated>
+    <published>2025-09-17T20:39:02Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1003/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FD FORCE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-D1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:02Z</updated>
+    <published>2025-09-17T20:39:02Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1001/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: RD FORCE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC-1E-D2) — firmware 2.49.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-D2.atom#2.49.6</id>
+    <updated>2024-10-05T00:23:58Z</updated>
+    <published>2024-10-05T00:23:58Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1104/2.49.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-D2&lt;/code&gt; — firmware 2.49.6&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD XPLR&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements. 
+FW 2.49.6 contains improvements in the support and verification of the Firmware during the factory production of the Rear Derailleur.&lt;/p&gt;&lt;p&gt;Released: 2024-10-05&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD MAX 36T (RD-FRC-E-D2) — firmware 2.49.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D2.atom#2.49.6</id>
+    <updated>2024-10-05T00:23:57Z</updated>
+    <published>2024-10-05T00:23:57Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1103/2.49.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD MAX 36T&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D2&lt;/code&gt; — firmware 2.49.6&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD MAX 36&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements. 
+FW 2.49.6 contains improvements in the support and verification of the Firmware during the factory production of the Rear Derailleur.&lt;/p&gt;&lt;p&gt;Released: 2024-10-05&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.49.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.49.6</id>
+    <updated>2024-10-05T00:23:55Z</updated>
+    <published>2024-10-05T00:23:55Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.49.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.49.6&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements. 
+FW 2.49.6 contains improvements in the support and verification of the Firmware during the factory production of the Rear Derailleur.&lt;/p&gt;&lt;p&gt;Released: 2024-10-05&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-D1) — firmware 2.49.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D1.atom#2.49.6</id>
+    <updated>2024-10-05T00:23:52Z</updated>
+    <published>2024-10-05T00:23:52Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1001/2.49.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D1&lt;/code&gt; — firmware 2.49.6&lt;/p&gt;&lt;p&gt;Part: RD FORCE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements. 
+FW 2.49.6 contains improvements in the support and verification of the Firmware during the factory production of the Rear Derailleur.&lt;/p&gt;&lt;p&gt;Released: 2024-10-05&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC-1E-D2) — firmware 2.49.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-D2.atom#2.49.4</id>
+    <updated>2024-08-14T22:31:37Z</updated>
+    <published>2024-08-14T22:31:37Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1104/2.49.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-D2&lt;/code&gt; — firmware 2.49.4&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD XPLR&lt;/p&gt;&lt;p&gt;Minor Bug Fixes, Platform updates, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2024-08-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD MAX 36T (RD-FRC-E-D2) — firmware 2.49.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D2.atom#2.49.4</id>
+    <updated>2024-08-14T22:31:37Z</updated>
+    <published>2024-08-14T22:31:37Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1103/2.49.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD MAX 36T&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D2&lt;/code&gt; — firmware 2.49.4&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD MAX 36&lt;/p&gt;&lt;p&gt;Minor Bug Fixes, Platform updates, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2024-08-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.49.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.49.4</id>
+    <updated>2024-08-14T22:31:35Z</updated>
+    <published>2024-08-14T22:31:35Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.49.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.49.4&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Minor Bug Fixes, Platform updates, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2024-08-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-D1) — firmware 2.49.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D1.atom#2.49.4</id>
+    <updated>2024-08-14T22:31:34Z</updated>
+    <published>2024-08-14T22:31:34Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1001/2.49.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D1&lt;/code&gt; — firmware 2.49.4&lt;/p&gt;&lt;p&gt;Part: RD FORCE&lt;/p&gt;&lt;p&gt;Minor Bug Fixes, Platform updates, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2024-08-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 46T (RD-FRC-1E-E1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-E1.atom#2.49.1</id>
+    <updated>2024-05-29T21:00:05Z</updated>
+    <published>2024-05-29T21:00:05Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1138/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-E1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FIVAL FORCE RD 1x&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-E1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-E1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:58Z</updated>
+    <published>2024-05-29T20:59:58Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1136/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-E1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FIVAL FORCE RD 2x&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (L) (ED-FRC-E1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-E1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:51Z</updated>
+    <published>2024-05-29T20:59:51Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1177/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (L)&lt;/strong&gt; &lt;code&gt;ED-FRC-E1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FIVAL Force ED (L)&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC-1E-D2) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-D2.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:46Z</updated>
+    <published>2024-05-29T20:59:46Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1104/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-D2&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD XPLR&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD MAX 36T (RD-FRC-E-D2) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D2.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:46Z</updated>
+    <published>2024-05-29T20:59:46Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1103/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD MAX 36T&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D2&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD MAX 36&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:44Z</updated>
+    <published>2024-05-29T20:59:44Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:41Z</updated>
+    <published>2024-05-29T20:59:41Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1001/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: RD FORCE&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-E1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-E1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:39Z</updated>
+    <published>2024-05-29T20:59:39Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1134/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-E1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FIVAL FORCE FD&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:38Z</updated>
+    <published>2024-05-29T20:59:38Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1106/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE WIDE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D2&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD WIDE&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D2) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D2.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:38Z</updated>
+    <published>2024-05-29T20:59:38Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1105/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D2&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD WIDE (FD-FRC-EW-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:37Z</updated>
+    <published>2024-05-29T20:59:37Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1045/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD WIDE&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FORCE EXPANSION FD&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:36Z</updated>
+    <published>2024-05-29T20:59:36Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1003/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FD FORCE&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (EB-FRC-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-FRC-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:33Z</updated>
+    <published>2024-05-29T20:59:33Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-FRC-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: EB R FORCE&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (ED-FRC-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:32Z</updated>
+    <published>2024-05-29T20:59:32Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1006/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-FRC-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: ED R FORCE&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (L) (ED-FRC-D2) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-D2.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:18Z</updated>
+    <published>2024-05-29T20:59:18Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1090/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (L)&lt;/strong&gt; &lt;code&gt;ED-FRC-D2&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: Force Reignition ED (L)&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC-1E-D2) — firmware 2.48.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-D2.atom#2.48.2</id>
+    <updated>2024-04-19T01:13:25Z</updated>
+    <published>2024-04-19T01:13:25Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1104/2.48.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-D2&lt;/code&gt; — firmware 2.48.2&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD XPLR&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-04-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD MAX 36T (RD-FRC-E-D2) — firmware 2.48.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D2.atom#2.48.2</id>
+    <updated>2024-04-19T01:13:25Z</updated>
+    <published>2024-04-19T01:13:25Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1103/2.48.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD MAX 36T&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D2&lt;/code&gt; — firmware 2.48.2&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD MAX 36&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-04-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.48.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.48.2</id>
+    <updated>2024-04-19T01:13:23Z</updated>
+    <published>2024-04-19T01:13:23Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.48.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.48.2&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-04-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-D1) — firmware 2.48.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D1.atom#2.48.2</id>
+    <updated>2024-04-19T01:13:22Z</updated>
+    <published>2024-04-19T01:13:22Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1001/2.48.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D1&lt;/code&gt; — firmware 2.48.2&lt;/p&gt;&lt;p&gt;Part: RD FORCE&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-04-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware 2.48.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom#2.48.0</id>
+    <updated>2024-02-20T00:31:41Z</updated>
+    <published>2024-02-20T00:31:41Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1106/2.48.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE WIDE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D2&lt;/code&gt; — firmware 2.48.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD WIDE&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-02-20&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D2) — firmware 2.48.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D2.atom#2.48.0</id>
+    <updated>2024-02-20T00:31:41Z</updated>
+    <published>2024-02-20T00:31:41Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1105/2.48.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D2&lt;/code&gt; — firmware 2.48.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-02-20&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD WIDE (FD-FRC-EW-D1) — firmware 2.48.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D1.atom#2.48.0</id>
+    <updated>2024-02-20T00:31:40Z</updated>
+    <published>2024-02-20T00:31:40Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1045/2.48.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD WIDE&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D1&lt;/code&gt; — firmware 2.48.0&lt;/p&gt;&lt;p&gt;Part: FORCE EXPANSION FD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-02-20&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D1) — firmware 2.48.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D1.atom#2.48.0</id>
+    <updated>2024-02-20T00:31:39Z</updated>
+    <published>2024-02-20T00:31:39Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1003/2.48.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D1&lt;/code&gt; — firmware 2.48.0&lt;/p&gt;&lt;p&gt;Part: FD FORCE&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-02-20&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC-1E-D2) — firmware 2.46.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-D2.atom#2.46.5</id>
+    <updated>2023-10-03T15:02:06Z</updated>
+    <published>2023-10-03T15:02:06Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1104/2.46.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-D2&lt;/code&gt; — firmware 2.46.5&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD XPLR&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-10-03&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD MAX 36T (RD-FRC-E-D2) — firmware 2.46.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D2.atom#2.46.5</id>
+    <updated>2023-10-03T15:02:06Z</updated>
+    <published>2023-10-03T15:02:06Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1103/2.46.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD MAX 36T&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D2&lt;/code&gt; — firmware 2.46.5&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD MAX 36&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-10-03&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.46.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.46.5</id>
+    <updated>2023-10-03T15:02:05Z</updated>
+    <published>2023-10-03T15:02:05Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.46.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.46.5&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-10-03&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-D1) — firmware 2.46.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D1.atom#2.46.5</id>
+    <updated>2023-10-03T15:02:03Z</updated>
+    <published>2023-10-03T15:02:03Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1001/2.46.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D1&lt;/code&gt; — firmware 2.46.5&lt;/p&gt;&lt;p&gt;Part: RD FORCE&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-10-03&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (L) (ED-FRC-D2) — firmware 2.46.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-D2.atom#2.46.2</id>
+    <updated>2023-09-21T13:57:57Z</updated>
+    <published>2023-09-21T13:57:57Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1090/2.46.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (L)&lt;/strong&gt; &lt;code&gt;ED-FRC-D2&lt;/code&gt; — firmware 2.46.2&lt;/p&gt;&lt;p&gt;Part: Force Reignition ED (L)&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements. Shifter AXS button indicates state of charge (SoC).&lt;/p&gt;&lt;p&gt;Released: 2023-09-21&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware 2.46.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom#2.46.0</id>
+    <updated>2023-08-02T16:35:00Z</updated>
+    <published>2023-08-02T16:35:00Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1106/2.46.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE WIDE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D2&lt;/code&gt; — firmware 2.46.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD WIDE&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-08-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D2) — firmware 2.46.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D2.atom#2.46.0</id>
+    <updated>2023-08-02T16:34:59Z</updated>
+    <published>2023-08-02T16:34:59Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1105/2.46.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D2&lt;/code&gt; — firmware 2.46.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-08-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD WIDE (FD-FRC-EW-D1) — firmware 2.46.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D1.atom#2.46.0</id>
+    <updated>2023-08-02T16:34:59Z</updated>
+    <published>2023-08-02T16:34:59Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1045/2.46.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD WIDE&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D1&lt;/code&gt; — firmware 2.46.0&lt;/p&gt;&lt;p&gt;Part: FORCE EXPANSION FD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-08-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D1) — firmware 2.46.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D1.atom#2.46.0</id>
+    <updated>2023-08-02T16:34:58Z</updated>
+    <published>2023-08-02T16:34:58Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1003/2.46.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D1&lt;/code&gt; — firmware 2.46.0&lt;/p&gt;&lt;p&gt;Part: FD FORCE&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-08-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (L) (ED-FRC-D2) — firmware 2.7.7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-D2.atom#2.7.7</id>
+    <updated>2023-03-07T17:41:48Z</updated>
+    <published>2023-03-07T17:41:48Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1090/2.7.7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (L)&lt;/strong&gt; &lt;code&gt;ED-FRC-D2&lt;/code&gt; — firmware 2.7.7&lt;/p&gt;&lt;p&gt;Part: Force Reignition ED (L)&lt;/p&gt;&lt;p&gt;Supports regular SRAM production changes, contains no functional alterations or enhancements.&lt;/p&gt;&lt;p&gt;Released: 2023-03-07&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD WIDE (FD-FRC-EW-D1) — firmware 2.42.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D1.atom#2.42.1</id>
+    <updated>2023-01-23T20:43:44Z</updated>
+    <published>2023-01-23T20:43:44Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1045/2.42.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD WIDE&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D1&lt;/code&gt; — firmware 2.42.1&lt;/p&gt;&lt;p&gt;Part: FORCE EXPANSION FD&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-01-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D1) — firmware 2.42.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D1.atom#2.42.1</id>
+    <updated>2023-01-23T20:43:44Z</updated>
+    <published>2023-01-23T20:43:44Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1003/2.42.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D1&lt;/code&gt; — firmware 2.42.1&lt;/p&gt;&lt;p&gt;Part: FD FORCE&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-01-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (EB-FRC-D1) — firmware 2.42.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-FRC-D1.atom#2.42.0</id>
+    <updated>2023-01-12T21:06:52Z</updated>
+    <published>2023-01-12T21:06:52Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.42.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-FRC-D1&lt;/code&gt; — firmware 2.42.0&lt;/p&gt;&lt;p&gt;Part: EB R FORCE&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-01-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (ED-FRC-D1) — firmware 2.42.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-D1.atom#2.42.0</id>
+    <updated>2023-01-12T21:06:51Z</updated>
+    <published>2023-01-12T21:06:51Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1006/2.42.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-FRC-D1&lt;/code&gt; — firmware 2.42.0&lt;/p&gt;&lt;p&gt;Part: ED R FORCE&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-01-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom#2.41.0</id>
+    <updated>2023-01-11T20:10:24Z</updated>
+    <published>2023-01-11T20:10:24Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1106/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE WIDE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D2&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD WIDE&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.&lt;/p&gt;&lt;p&gt;Released: 2023-01-11&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D2) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D2.atom#2.41.0</id>
+    <updated>2023-01-11T20:10:24Z</updated>
+    <published>2023-01-11T20:10:24Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1105/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D2&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.&lt;/p&gt;&lt;p&gt;Released: 2023-01-11&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD WIDE (FD-FRC-EW-D1) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D1.atom#2.41.0</id>
+    <updated>2022-12-14T03:48:27Z</updated>
+    <published>2022-12-14T03:48:27Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1045/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD WIDE&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D1&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: FORCE EXPANSION FD&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.&lt;/p&gt;&lt;p&gt;Released: 2022-12-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D1) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D1.atom#2.41.0</id>
+    <updated>2022-12-14T03:48:26Z</updated>
+    <published>2022-12-14T03:48:26Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1003/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D1&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: FD FORCE&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.&lt;/p&gt;&lt;p&gt;Released: 2022-12-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC-1E-D2) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-1E-D2.atom#2.41.0</id>
+    <updated>2022-12-14T03:46:00Z</updated>
+    <published>2022-12-14T03:46:00Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1104/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC-1E-D2&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD XPLR&lt;/p&gt;&lt;p&gt;Initial Public Release&lt;/p&gt;&lt;p&gt;Released: 2022-12-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD MAX 36T (RD-FRC-E-D2) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D2.atom#2.41.0</id>
+    <updated>2022-12-14T03:45:59Z</updated>
+    <published>2022-12-14T03:45:59Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1103/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD MAX 36T&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D2&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION RD MAX 36&lt;/p&gt;&lt;p&gt;Initial Public Release&lt;/p&gt;&lt;p&gt;Released: 2022-12-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.41.0</id>
+    <updated>2022-12-14T03:45:58Z</updated>
+    <published>2022-12-14T03:45:58Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.&lt;/p&gt;&lt;p&gt;Released: 2022-12-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-D1) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D1.atom#2.41.0</id>
+    <updated>2022-12-14T03:45:55Z</updated>
+    <published>2022-12-14T03:45:55Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1001/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D1&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: RD FORCE&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.&lt;/p&gt;&lt;p&gt;Released: 2022-12-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD WIDE (FD-FRC-EW-D1) — firmware 2.32.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D1.atom#2.32.0</id>
+    <updated>2022-02-09T16:16:10Z</updated>
+    <published>2022-02-09T16:16:10Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1045/2.32.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD WIDE&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D1&lt;/code&gt; — firmware 2.32.0&lt;/p&gt;&lt;p&gt;Part: FORCE EXPANSION FD&lt;/p&gt;&lt;p&gt;- Improve connection reliability with the AXS App and third-party head units.  - Idle time before component enters sleep-mode increased to 5 minutes.  - New Configure Controls logic allows available shift/actuation actions to be assigned in any arrangement.  - Bug Fix - Mismatched road controller upshift/downshift settings are no longer reset when the derailleur/seat post battery is removed.  - Bug Fix - Resolved conditions where sequential shift could come out of sequence unexpectedly.&lt;/p&gt;&lt;p&gt;Released: 2022-02-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D1) — firmware 2.32.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D1.atom#2.32.0</id>
+    <updated>2022-02-09T16:16:10Z</updated>
+    <published>2022-02-09T16:16:10Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1003/2.32.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D1&lt;/code&gt; — firmware 2.32.0&lt;/p&gt;&lt;p&gt;Part: FD FORCE&lt;/p&gt;&lt;p&gt;- Improve connection reliability with the AXS App and third-party head units.  - Idle time before component enters sleep-mode increased to 5 minutes.  - New Configure Controls logic allows available shift/actuation actions to be assigned in any arrangement.  - Bug Fix - Mismatched road controller upshift/downshift settings are no longer reset when the derailleur/seat post battery is removed.  - Bug Fix - Resolved conditions where sequential shift could come out of sequence unexpectedly.&lt;/p&gt;&lt;p&gt;Released: 2022-02-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.32.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.32.0</id>
+    <updated>2022-02-09T16:15:19Z</updated>
+    <published>2022-02-09T16:15:19Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.32.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.32.0&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;- Improve connection reliability with the AXS App and third-party head units.  - Idle time before component enters sleep-mode increased to 5 minutes.  - New Configure Controls logic allows available shift/actuation actions to be assigned in any arrangement.  - Bug Fix - Mismatched road controller upshift/downshift settings are no longer reset when the derailleur/seat post battery is removed.  - Bug Fix - Resolved conditions where sequential shift could come out of sequence unexpectedly.&lt;/p&gt;&lt;p&gt;Released: 2022-02-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-D1) — firmware 2.32.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D1.atom#2.32.0</id>
+    <updated>2022-02-09T16:15:16Z</updated>
+    <published>2022-02-09T16:15:16Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1001/2.32.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D1&lt;/code&gt; — firmware 2.32.0&lt;/p&gt;&lt;p&gt;Part: RD FORCE&lt;/p&gt;&lt;p&gt;- Improve connection reliability with the AXS App and third-party head units.  - Idle time before component enters sleep-mode increased to 5 minutes.  - New Configure Controls logic allows available shift/actuation actions to be assigned in any arrangement.  - Bug Fix - Mismatched road controller upshift/downshift settings are no longer reset when the derailleur/seat post battery is removed.  - Bug Fix - Resolved conditions where sequential shift could come out of sequence unexpectedly.&lt;/p&gt;&lt;p&gt;Released: 2022-02-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (EB-FRC-D1) — firmware 2.29.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-FRC-D1.atom#2.29.6</id>
+    <updated>2022-02-07T20:00:51Z</updated>
+    <published>2022-02-07T20:00:51Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.29.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-FRC-D1&lt;/code&gt; — firmware 2.29.6&lt;/p&gt;&lt;p&gt;Part: EB R FORCE&lt;/p&gt;&lt;p&gt;* Fixed bug: rapidly pressing Clics or Blips prevents derailleur(s) from actuating * Fixed bug: pressing and holding a brake-shift lever AXS button for an extended period can unpair shifter from system&lt;/p&gt;&lt;p&gt;Released: 2022-02-07&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (ED-FRC-D1) — firmware 2.29.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-D1.atom#2.29.6</id>
+    <updated>2022-02-07T20:00:50Z</updated>
+    <published>2022-02-07T20:00:50Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1006/2.29.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-FRC-D1&lt;/code&gt; — firmware 2.29.6&lt;/p&gt;&lt;p&gt;Part: ED R FORCE&lt;/p&gt;&lt;p&gt;* Fixed bug: rapidly pressing Clics or Blips prevents derailleur(s) from actuating * Fixed bug: pressing and holding a brake-shift lever AXS button for an extended period can unpair shifter from system&lt;/p&gt;&lt;p&gt;Released: 2022-02-07&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (ED-FRC-D1) — firmware 2.29.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-D1.atom#2.29.4</id>
+    <updated>2021-12-02T17:34:32Z</updated>
+    <published>2021-12-02T17:34:32Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1006/2.29.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-FRC-D1&lt;/code&gt; — firmware 2.29.4&lt;/p&gt;&lt;p&gt;Part: ED R FORCE&lt;/p&gt;&lt;p&gt;Battery life improvements – LED illuminates for a shorter period of time when shifter powers up with a low battery. eTap 11-speed derailleur compatibility added – RED and Force eTap AXS 12-speed shift-brake levers and eTap AXS BlipBox can now be paired with legacy eTap 11-speed front and rear derailleurs.&lt;/p&gt;&lt;p&gt;Released: 2021-12-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (EB-FRC-D1) — firmware 2.29.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-FRC-D1.atom#2.29.4</id>
+    <updated>2021-12-02T17:32:34Z</updated>
+    <published>2021-12-02T17:32:34Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.29.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-FRC-D1&lt;/code&gt; — firmware 2.29.4&lt;/p&gt;&lt;p&gt;Part: EB R FORCE&lt;/p&gt;&lt;p&gt;Battery life improvements – LED illuminates for a shorter period of time when shifter powers up with a low battery. eTap 11-speed derailleur compatibility added – RED and Force eTap AXS 12-speed shift-brake levers and eTap AXS BlipBox can now be paired with legacy eTap 11-speed front and rear derailleurs.&lt;/p&gt;&lt;p&gt;Released: 2021-12-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.7.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.7.6</id>
+    <updated>2021-08-09T22:26:31Z</updated>
+    <published>2021-08-09T22:26:31Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.7.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.7.6&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Additional product support.&lt;/p&gt;&lt;p&gt;Released: 2021-08-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (EB-FRC-D1) — firmware 2.3.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-FRC-D1.atom#2.3.6</id>
+    <updated>2020-06-12T21:21:16Z</updated>
+    <published>2020-06-12T21:21:16Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.3.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-FRC-D1&lt;/code&gt; — firmware 2.3.6&lt;/p&gt;&lt;p&gt;Part: EB R FORCE&lt;/p&gt;&lt;p&gt;Resolved issue with high battery consumption in some units.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (ED-FRC-D1) — firmware 2.3.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-D1.atom#2.3.6</id>
+    <updated>2020-06-12T21:21:15Z</updated>
+    <published>2020-06-12T21:21:15Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1006/2.3.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-FRC-D1&lt;/code&gt; — firmware 2.3.6&lt;/p&gt;&lt;p&gt;Part: ED R FORCE&lt;/p&gt;&lt;p&gt;Resolved issue with high battery consumption in some units.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (EB-FRC-D1) — firmware 2.3.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-FRC-D1.atom#2.3.2</id>
+    <updated>2020-06-12T21:21:02Z</updated>
+    <published>2020-06-12T21:21:02Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.3.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-FRC-D1&lt;/code&gt; — firmware 2.3.2&lt;/p&gt;&lt;p&gt;Part: EB R FORCE&lt;/p&gt;&lt;p&gt;Initial release.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE CONTROLLER (R) (ED-FRC-D1) — firmware 2.3.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-FRC-D1.atom#2.3.2</id>
+    <updated>2020-06-12T21:21:01Z</updated>
+    <published>2020-06-12T21:21:01Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1006/2.3.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-FRC-D1&lt;/code&gt; — firmware 2.3.2&lt;/p&gt;&lt;p&gt;Part: ED R FORCE&lt;/p&gt;&lt;p&gt;Initial release.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD (RD-FRC-E-D1) — firmware 2.7.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC-E-D1.atom#2.7.3</id>
+    <updated>2020-06-12T21:14:29Z</updated>
+    <published>2020-06-12T21:14:29Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1001/2.7.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD&lt;/strong&gt; &lt;code&gt;RD-FRC-E-D1&lt;/code&gt; — firmware 2.7.3&lt;/p&gt;&lt;p&gt;Part: RD FORCE&lt;/p&gt;&lt;p&gt;Communication of gear and trim position to AXS app. Update sequential and compensating shift modes and persist across power cycle. Optimize motion control.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD WIDE (FD-FRC-EW-D1) — firmware 2.3.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D1.atom#2.3.3</id>
+    <updated>2020-06-12T21:04:11Z</updated>
+    <published>2020-06-12T21:04:11Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1045/2.3.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD WIDE&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D1&lt;/code&gt; — firmware 2.3.3&lt;/p&gt;&lt;p&gt;Part: FORCE EXPANSION FD&lt;/p&gt;&lt;p&gt;Optimize motion control.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D1) — firmware 2.3.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D1.atom#2.3.3</id>
+    <updated>2020-06-12T21:04:11Z</updated>
+    <published>2020-06-12T21:04:11Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1003/2.3.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D1&lt;/code&gt; — firmware 2.3.3&lt;/p&gt;&lt;p&gt;Part: FD FORCE&lt;/p&gt;&lt;p&gt;Optimize motion control.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD WIDE (FD-FRC-EW-D1) — firmware 2.3.7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D1.atom#2.3.7</id>
+    <updated>2020-06-12T20:43:12Z</updated>
+    <published>2020-06-12T20:43:12Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1045/2.3.7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD WIDE&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D1&lt;/code&gt; — firmware 2.3.7&lt;/p&gt;&lt;p&gt;Part: FORCE EXPANSION FD&lt;/p&gt;&lt;p&gt;Resolved issue with memory corruption. Optimize motion control.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE FD (FD-FRC-E-D1) — firmware 2.3.7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-E-D1.atom#2.3.7</id>
+    <updated>2020-06-12T20:43:12Z</updated>
+    <published>2020-06-12T20:43:12Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1003/2.3.7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-E-D1&lt;/code&gt; — firmware 2.3.7&lt;/p&gt;&lt;p&gt;Part: FD FORCE&lt;/p&gt;&lt;p&gt;Resolved issue with memory corruption. Optimize motion control.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE POWER METER (FC-FRC-1P-D2) — firmware 10</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FC-FRC-1P-D2.atom#10</id>
+    <updated>2019-07-01T19:43:21Z</updated>
+    <published>2019-07-01T19:43:21Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/74/10"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE POWER METER&lt;/strong&gt; &lt;code&gt;FC-FRC-1P-D2&lt;/code&gt; — firmware 10&lt;/p&gt;&lt;p&gt;Part: FORCE POWER METER&lt;/p&gt;&lt;p&gt;Magic Zero auto-calibration, bux fixes&lt;/p&gt;&lt;p&gt;Released: 2019-07-01&lt;/p&gt;</summary>
+  </entry>
+</feed>

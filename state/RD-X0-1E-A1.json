@@ -1,0 +1,78 @@
+{
+  "model_code": "RD-X0-1E-A1",
+  "model_id": 1014,
+  "display_name": "X01 RD",
+  "part_description": "RD X01",
+  "history": [
+    {
+      "version": "2.54.2",
+      "release_date": "2025-12-09",
+      "release_ts": 1765314413.873,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version before installing this Device Firmware Update. \n  - This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1014/2.54.2"
+    },
+    {
+      "version": "2.53.8",
+      "release_date": "2025-09-19",
+      "release_ts": 1758283740.609,
+      "release_notes": "This firmware update contains platform updates.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1014/2.53.8"
+    },
+    {
+      "version": "2.53.1",
+      "release_date": "2025-09-09",
+      "release_ts": 1757424889.832,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1014/2.53.1"
+    },
+    {
+      "version": "2.48.0",
+      "release_date": "2024-02-20",
+      "release_ts": 1708389109.169,
+      "release_notes": "Platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1014/2.48.0"
+    },
+    {
+      "version": "2.46.5",
+      "release_date": "2023-10-03",
+      "release_ts": 1696345328.097,
+      "release_notes": "Platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1014/2.46.5"
+    },
+    {
+      "version": "2.43.2",
+      "release_date": "2023-03-01",
+      "release_ts": 1677688113.081,
+      "release_notes": "General bug fixes and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1014/2.43.2"
+    },
+    {
+      "version": "2.41.1",
+      "release_date": "2022-12-14",
+      "release_ts": 1670990434.661,
+      "release_notes": "General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting. Added support for MicroAdjust using the AXS App.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1014/2.41.1"
+    },
+    {
+      "version": "2.35.0",
+      "release_date": "2022-04-21",
+      "release_ts": 1650564430.066,
+      "release_notes": "- Improve connection reliability with the AXS App and third-party head units.  - Support for MicroAdjust using the AXS App on MTB RD\u00b4s  - Idle time before component enters sleep-mode increased to 5 minutes.  - Minor improvements to battery life",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1014/2.35.0"
+    },
+    {
+      "version": "2.19.5",
+      "release_date": "2021-10-19",
+      "release_ts": 1634648942.995,
+      "release_notes": "Required update for Flight Attendant equipped bikes.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1014/2.19.5"
+    },
+    {
+      "version": "2.8.1",
+      "release_date": "2020-06-12",
+      "release_ts": 1591997220.261,
+      "release_notes": "Added support for showing gear and micro adjust in AXS App",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1014/2.8.1"
+    }
+  ]
+}

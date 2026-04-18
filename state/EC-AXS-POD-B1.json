@@ -1,0 +1,36 @@
+{
+  "model_code": "EC-AXS-POD-B1",
+  "model_id": 1072,
+  "display_name": "POD",
+  "part_description": "EC AXS POD",
+  "history": [
+    {
+      "version": "2.53.1",
+      "release_date": "2025-09-17",
+      "release_ts": 1758141546.452,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1072/2.53.1"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016400.65,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1072/2.49.1"
+    },
+    {
+      "version": "2.46.2",
+      "release_date": "2023-08-24",
+      "release_ts": 1692909534.753,
+      "release_notes": "Platform updates, future product support, and reliability improvements. Shifter AXS button indicates state of charge (SoC).",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1072/2.46.2"
+    },
+    {
+      "version": "2.37.1",
+      "release_date": "2022-02-25",
+      "release_ts": 1645803332.816,
+      "release_notes": "General bug fixes and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1072/2.37.1"
+    }
+  ]
+}

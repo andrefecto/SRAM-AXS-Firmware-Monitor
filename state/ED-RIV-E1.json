@@ -1,0 +1,22 @@
+{
+  "model_code": "ED-RIV-E1",
+  "model_id": 1179,
+  "display_name": "RIVAL CONTROLLER (L)",
+  "part_description": "FIVAL Rival ED (L)",
+  "history": [
+    {
+      "version": "2.53.1",
+      "release_date": "2025-09-17",
+      "release_ts": 1758141554.241,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1179/2.53.1"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016391.738,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1179/2.49.1"
+    }
+  ]
+}

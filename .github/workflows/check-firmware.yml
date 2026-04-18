@@ -1,0 +1,101 @@
+name: Check SRAM firmware
+
+on:
+  schedule:
+    # daily at 14:00 UTC = 08:00 America/Denver (avoid the top-of-hour cron herd)
+    - cron: "0 14 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: firmware-check
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Poll SRAM firmware API
+        run: python3 scripts/check_firmware.py
+
+      - name: Regenerate Atom feeds + index
+        run: python3 scripts/generate_feeds.py
+
+      - name: Commit changes (and cut release on firmware drops)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_NUMBER: ${{ github.run_number }}
+        run: |
+          set -euo pipefail
+
+          git config user.name  "firmware-monitor-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "no changes — nothing to commit"
+            exit 0
+          fi
+
+          SEED=$(python3 -c "import json; print(json.load(open('/tmp/firmware-changes.json'))['seed_run'])")
+          CHANGE_COUNT=$(python3 -c "import json; print(len(json.load(open('/tmp/firmware-changes.json'))['changes']))")
+
+          git add state docs
+
+          if [ "$SEED" = "True" ]; then
+            git commit -m "Seed state from SRAM firmware API"
+            git push
+            echo "seed commit pushed — no release cut"
+            exit 0
+          fi
+
+          if [ "$CHANGE_COUNT" = "0" ]; then
+            git commit -m "Refresh feeds / metadata (no new firmware)"
+            git push
+            echo "metadata-only commit — no release cut"
+            exit 0
+          fi
+
+          # New firmware detected — commit + tag a release.
+          SUMMARY=$(python3 - <<'PY'
+          import json
+          s = json.load(open("/tmp/firmware-changes.json"))
+          parts = [f"{c['model_code']} {c['from_version']}→{c['to_version']}" for c in s["changes"][:4]]
+          if len(s["changes"]) > 4:
+              parts.append(f"+{len(s['changes']) - 4} more")
+          print("; ".join(parts))
+          PY
+          )
+
+          python3 - <<'PY' > /tmp/release-body.md
+          import json, datetime as dt
+          s = json.load(open("/tmp/firmware-changes.json"))
+          now = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+          print(f"Firmware update batch polled at {now}. {len(s['changes'])} model(s) advanced.\n")
+          print("| Model | Name | From | To | Released |")
+          print("|---|---|---|---|---|")
+          for c in s["changes"]:
+              name = c.get("display_name") or ""
+              print(f"| `{c['model_code']}` | {name} | {c['from_version'] or '—'} | {c['to_version']} | {c['release_date']} |")
+          print()
+          print("Subscribe to per-model or curated-group feeds at https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/")
+          PY
+
+          DATE=$(date -u +%Y-%m-%d)
+          TAG="updates-${DATE}-${RUN_NUMBER}"
+
+          git commit -m "Firmware updates: ${SUMMARY}"
+          git push
+
+          gh release create "$TAG" \
+            --title "Firmware updates — ${DATE}" \
+            --notes-file /tmp/release-body.md
+          echo "cut release $TAG"

@@ -1,0 +1,22 @@
+{
+  "model_code": "EC-BLIP-B1",
+  "model_id": 1055,
+  "display_name": "WIRELESS BLIP",
+  "part_description": "Wireless Blip",
+  "history": [
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016396.573,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1055/2.49.1"
+    },
+    {
+      "version": "2.42.0",
+      "release_date": "2023-01-12",
+      "release_ts": 1673557624.448,
+      "release_notes": "General bug fixes and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1055/2.42.0"
+    }
+  ]
+}

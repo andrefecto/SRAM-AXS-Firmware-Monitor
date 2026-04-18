@@ -1,0 +1,15 @@
+{
+  "model_code": "RS-SDLX-ULT-C1",
+  "model_id": 1065,
+  "display_name": "ROCKSHOX SDLX AIRWIZ",
+  "part_description": "TREKWIZ SUPER DELUXE ULTIMATE",
+  "history": [
+    {
+      "version": "2.38.0",
+      "release_date": "2022-04-14",
+      "release_ts": 1649935558.871,
+      "release_notes": "Corrects AXS app connectivity issue",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1065/2.38.0"
+    }
+  ]
+}

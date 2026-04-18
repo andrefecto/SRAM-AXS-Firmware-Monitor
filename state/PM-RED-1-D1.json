@@ -1,0 +1,29 @@
+{
+  "model_code": "PM-RED-1-D1",
+  "model_id": 71,
+  "display_name": "RED POWER METER",
+  "part_description": "RED POWER METER",
+  "history": [
+    {
+      "version": "10",
+      "release_date": "2019-07-01",
+      "release_ts": 1562010201.46,
+      "release_notes": "Magic Zero auto-calibration, bux fixes",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/71/10"
+    },
+    {
+      "version": "7",
+      "release_date": "2018-05-29",
+      "release_ts": 1527628966.563,
+      "release_notes": "Bug fixes",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/71/7"
+    },
+    {
+      "version": "6",
+      "release_date": "2018-03-30",
+      "release_ts": 1522436726.413,
+      "release_notes": "Bug fix to improve battery life",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/71/6"
+    }
+  ]
+}

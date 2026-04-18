@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local dry-run output
+state_tmp/
+
+# editor / OS
+.DS_Store
+.vscode/
+.idea/

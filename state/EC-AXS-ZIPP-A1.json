@@ -1,0 +1,50 @@
+{
+  "model_code": "EC-AXS-ZIPP-A1",
+  "model_id": 1046,
+  "display_name": "VukaShift 90 (L)",
+  "part_description": "VukaShift 90 (L)",
+  "history": [
+    {
+      "version": "2.53.2",
+      "release_date": "2025-09-17",
+      "release_ts": 1758141881.068,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.\u00a0\n\nThis firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1046/2.53.2"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016371.154,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1046/2.49.1"
+    },
+    {
+      "version": "2.42.0",
+      "release_date": "2023-01-12",
+      "release_ts": 1673557610.766,
+      "release_notes": "General bug fixes and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1046/2.42.0"
+    },
+    {
+      "version": "2.29.6",
+      "release_date": "2022-02-07",
+      "release_ts": 1644264073.554,
+      "release_notes": "* Fixed bug: rapidly pressing Clics or Blips prevents derailleur(s) from actuating * Fixed bug: pressing and holding a brake-shift lever AXS button for an extended period can unpair shifter from system",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1046/2.29.6"
+    },
+    {
+      "version": "2.3.6",
+      "release_date": "2020-06-12",
+      "release_ts": 1591996794.544,
+      "release_notes": "Resolved issue with high battery consumption in some units.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1046/2.3.6"
+    },
+    {
+      "version": "2.3.2",
+      "release_date": "2020-06-12",
+      "release_ts": 1591996741.988,
+      "release_notes": "Initial release.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1046/2.3.2"
+    }
+  ]
+}

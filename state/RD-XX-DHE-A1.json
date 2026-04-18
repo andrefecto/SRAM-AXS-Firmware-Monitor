@@ -1,0 +1,15 @@
+{
+  "model_code": "RD-XX-DHE-A1",
+  "model_id": 1133,
+  "display_name": "XX DH AXS Transmission RD",
+  "part_description": "RD TopGun DH",
+  "history": [
+    {
+      "version": "2.54.6",
+      "release_date": "2026-02-24",
+      "release_ts": 1771945338.929,
+      "release_notes": "Initial Public Release",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1133/2.54.6"
+    }
+  ]
+}

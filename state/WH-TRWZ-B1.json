@@ -1,0 +1,29 @@
+{
+  "model_code": "WH-TRWZ-B1",
+  "model_id": 1031,
+  "display_name": "QUARQ TYREWIZ",
+  "part_description": "QUARQ TYREWIZ",
+  "history": [
+    {
+      "version": "0.16.1",
+      "release_date": "2022-10-06",
+      "release_ts": 1665076714.949,
+      "release_notes": "ANT+ improvements to pressure alerts and firmware version reporting.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1031/0.16.1"
+    },
+    {
+      "version": "0.15.1",
+      "release_date": "2022-04-14",
+      "release_ts": 1649907486.421,
+      "release_notes": "- Shake2Wake: TyreWiz requires less movement to wake. - Pump2Wake: TyreWiz will wake when inflation is detected. - Automatic In-App Pressure Display: TyreWiz pressure readings will automatically display upon opening the AXS App without any additional user interaction.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1031/0.15.1"
+    },
+    {
+      "version": "0.11.0",
+      "release_date": "2019-02-18",
+      "release_ts": 1550530182.659,
+      "release_notes": "",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1031/0.11.0"
+    }
+  ]
+}

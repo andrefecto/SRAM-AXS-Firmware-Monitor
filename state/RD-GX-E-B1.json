@@ -1,0 +1,71 @@
+{
+  "model_code": "RD-GX-E-B1",
+  "model_id": 1075,
+  "display_name": "GX RD",
+  "part_description": "RD TopGun T3",
+  "history": [
+    {
+      "version": "2.54.9",
+      "release_date": "2026-03-04",
+      "release_ts": 1772653395.301,
+      "release_notes": "Please ensure your AXS App is on the latest version  before installing this Device Firmware Update.\n     - Minor Bugfix and reliability improvement.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1075/2.54.9"
+    },
+    {
+      "version": "2.54.6",
+      "release_date": "2025-12-15",
+      "release_ts": 1765809478.394,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.\n\n* This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.\n* This firmware expands the outboard MicroAdjust trim range of GX and S1000 Eagle Transmission derailleurs from 14 to 23 positions allowing you to further optimize shift performance.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1075/2.54.6"
+    },
+    {
+      "version": "2.53.8",
+      "release_date": "2025-09-19",
+      "release_ts": 1758283741.285,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following enhancements. \n\n    -This firmware update contains reduced Cassette Mapping shift intervals for multi-shift.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1075/2.53.8"
+    },
+    {
+      "version": "2.53.1",
+      "release_date": "2025-09-09",
+      "release_ts": 1757424891.05,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1075/2.53.1"
+    },
+    {
+      "version": "2.49.8",
+      "release_date": "2024-12-13",
+      "release_ts": 1734089130.94,
+      "release_notes": "Platform updates, future product support, and reliability improvements",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1075/2.49.8"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016403.608,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1075/2.49.1"
+    },
+    {
+      "version": "2.48.0",
+      "release_date": "2024-02-20",
+      "release_ts": 1708389135.582,
+      "release_notes": "Platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1075/2.48.0"
+    },
+    {
+      "version": "2.46.8",
+      "release_date": "2023-11-08",
+      "release_ts": 1699407551.297,
+      "release_notes": "Platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1075/2.46.8"
+    },
+    {
+      "version": "2.43.2",
+      "release_date": "2023-03-01",
+      "release_ts": 1677688120.442,
+      "release_notes": "General bug fixes and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1075/2.43.2"
+    }
+  ]
+}

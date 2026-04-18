@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AXS CONTROLLER (R) (EC-AXS-SRAM-A1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM EC-AXS-SRAM-A1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-SRAM-A1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-SRAM-A1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2025-09-09T13:34:49Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>AXS CONTROLLER (R) (EC-AXS-SRAM-A1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-SRAM-A1.atom#2.53.1</id>
+    <updated>2025-09-09T13:34:49Z</updated>
+    <published>2025-09-09T13:34:49Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1015/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;AXS CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EC-AXS-SRAM-A1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: ES XX1&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>AXS CONTROLLER (R) (EC-AXS-SRAM-A1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-SRAM-A1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:48Z</updated>
+    <published>2024-05-29T20:59:48Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1015/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;AXS CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EC-AXS-SRAM-A1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: ES XX1&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>AXS CONTROLLER (R) (EC-AXS-SRAM-A1) — firmware 2.42.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-SRAM-A1.atom#2.42.0</id>
+    <updated>2023-01-12T21:06:54Z</updated>
+    <published>2023-01-12T21:06:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1015/2.42.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;AXS CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EC-AXS-SRAM-A1&lt;/code&gt; — firmware 2.42.0&lt;/p&gt;&lt;p&gt;Part: ES XX1&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-01-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>AXS CONTROLLER (R) (EC-AXS-SRAM-A1) — firmware 2.7.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-SRAM-A1.atom#2.7.8</id>
+    <updated>2022-12-14T03:39:41Z</updated>
+    <published>2022-12-14T03:39:41Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1015/2.7.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;AXS CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EC-AXS-SRAM-A1&lt;/code&gt; — firmware 2.7.8&lt;/p&gt;&lt;p&gt;Part: ES XX1&lt;/p&gt;&lt;p&gt;Supports regular SRAM production changes, contains no functional alterations or enhancements.&lt;/p&gt;&lt;p&gt;Released: 2022-12-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>AXS CONTROLLER (R) (EC-AXS-SRAM-A1) — firmware 2.3.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-SRAM-A1.atom#2.3.0</id>
+    <updated>2020-06-12T21:23:36Z</updated>
+    <published>2020-06-12T21:23:36Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1015/2.3.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;AXS CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EC-AXS-SRAM-A1&lt;/code&gt; — firmware 2.3.0&lt;/p&gt;&lt;p&gt;Part: ES XX1&lt;/p&gt;&lt;p&gt;Initial release.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+</feed>

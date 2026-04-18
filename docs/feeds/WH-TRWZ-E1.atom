@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>QUARQ TYREWIZ 2 (WH-TRWZ-E1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM WH-TRWZ-E1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/WH-TRWZ-E1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/WH-TRWZ-E1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2025-09-11T13:43:36Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>QUARQ TYREWIZ 2 (WH-TRWZ-E1) — firmware 1.5.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/WH-TRWZ-E1.atom#1.5.2</id>
+    <updated>2025-09-11T13:43:36Z</updated>
+    <published>2025-09-11T13:43:36Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1119/1.5.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;QUARQ TYREWIZ 2&lt;/strong&gt; &lt;code&gt;WH-TRWZ-E1&lt;/code&gt; — firmware 1.5.2&lt;/p&gt;&lt;p&gt;Part: QUARQ TYREWIZ 2&lt;/p&gt;&lt;p&gt;Address edge cases where reference pressure was unable to be changed under very specific circumstances&lt;/p&gt;&lt;p&gt;Released: 2025-09-11&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>QUARQ TYREWIZ 2 (WH-TRWZ-E1) — firmware 1.5.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/WH-TRWZ-E1.atom#1.5.1</id>
+    <updated>2025-02-10T23:23:39Z</updated>
+    <published>2025-02-10T23:23:39Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1119/1.5.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;QUARQ TYREWIZ 2&lt;/strong&gt; &lt;code&gt;WH-TRWZ-E1&lt;/code&gt; — firmware 1.5.1&lt;/p&gt;&lt;p&gt;Part: QUARQ TYREWIZ 2&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store
+
+     -Update to the “Shake to Wake” feature to bring up both ANT and BLE interfaces.
+
+     -Sensor has been made to be more responsive to pressure changes.&lt;/p&gt;&lt;p&gt;Released: 2025-02-10&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>QUARQ TYREWIZ 2 (WH-TRWZ-E1) — firmware 1.1.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/WH-TRWZ-E1.atom#1.1.1</id>
+    <updated>2023-09-21T15:38:49Z</updated>
+    <published>2023-09-21T15:38:49Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1119/1.1.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;QUARQ TYREWIZ 2&lt;/strong&gt; &lt;code&gt;WH-TRWZ-E1&lt;/code&gt; — firmware 1.1.1&lt;/p&gt;&lt;p&gt;Part: QUARQ TYREWIZ 2&lt;/p&gt;&lt;p&gt;Initial Public Release&lt;/p&gt;&lt;p&gt;Released: 2023-09-21&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AXS POD controllers</title>
+  <subtitle>T-Type / Eagle Transmission POD shifters.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/pod-controllers.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/pod-controllers.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2025-09-17T20:39:06Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>POD (EC-AXS-POD-B1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-POD-B1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:06Z</updated>
+    <published>2025-09-17T20:39:06Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1072/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;POD&lt;/strong&gt; &lt;code&gt;EC-AXS-POD-B1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: EC AXS POD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>POD (EC-AXS-POD-B1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-POD-B1.atom#2.49.1</id>
+    <updated>2024-05-29T21:00:00Z</updated>
+    <published>2024-05-29T21:00:00Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1072/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;POD&lt;/strong&gt; &lt;code&gt;EC-AXS-POD-B1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: EC AXS POD&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>POD (EC-AXS-POD-B1) — firmware 2.46.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-POD-B1.atom#2.46.2</id>
+    <updated>2023-08-24T20:38:54Z</updated>
+    <published>2023-08-24T20:38:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1072/2.46.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;POD&lt;/strong&gt; &lt;code&gt;EC-AXS-POD-B1&lt;/code&gt; — firmware 2.46.2&lt;/p&gt;&lt;p&gt;Part: EC AXS POD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements. Shifter AXS button indicates state of charge (SoC).&lt;/p&gt;&lt;p&gt;Released: 2023-08-24&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>POD (EC-AXS-POD-B1) — firmware 2.37.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-POD-B1.atom#2.37.1</id>
+    <updated>2022-02-25T15:35:32Z</updated>
+    <published>2022-02-25T15:35:32Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1072/2.37.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;POD&lt;/strong&gt; &lt;code&gt;EC-AXS-POD-B1&lt;/code&gt; — firmware 2.37.1&lt;/p&gt;&lt;p&gt;Part: EC AXS POD&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2022-02-25&lt;/p&gt;</summary>
+  </entry>
+</feed>

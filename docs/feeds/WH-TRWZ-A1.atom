@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>QUARQ TYREWIZ (WH-TRWZ-A1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM WH-TRWZ-A1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/WH-TRWZ-A1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/WH-TRWZ-A1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2022-10-06T17:18:34Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>QUARQ TYREWIZ (WH-TRWZ-A1) — firmware 0.16.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/WH-TRWZ-A1.atom#0.16.1</id>
+    <updated>2022-10-06T17:18:34Z</updated>
+    <published>2022-10-06T17:18:34Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1030/0.16.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;QUARQ TYREWIZ&lt;/strong&gt; &lt;code&gt;WH-TRWZ-A1&lt;/code&gt; — firmware 0.16.1&lt;/p&gt;&lt;p&gt;Part: QUARQ TYREWIZ&lt;/p&gt;&lt;p&gt;ANT+ improvements to pressure alerts and firmware version reporting.&lt;/p&gt;&lt;p&gt;Released: 2022-10-06&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>QUARQ TYREWIZ (WH-TRWZ-A1) — firmware 0.15.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/WH-TRWZ-A1.atom#0.15.1</id>
+    <updated>2022-04-14T03:38:03Z</updated>
+    <published>2022-04-14T03:38:03Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1030/0.15.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;QUARQ TYREWIZ&lt;/strong&gt; &lt;code&gt;WH-TRWZ-A1&lt;/code&gt; — firmware 0.15.1&lt;/p&gt;&lt;p&gt;Part: QUARQ TYREWIZ&lt;/p&gt;&lt;p&gt;- Shake2Wake: TyreWiz requires less movement to wake. - Pump2Wake: TyreWiz will wake when inflation is detected. - Automatic In-App Pressure Display: TyreWiz pressure readings will automatically display upon opening the AXS App without any additional user interaction.&lt;/p&gt;&lt;p&gt;Released: 2022-04-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>QUARQ TYREWIZ (WH-TRWZ-A1) — firmware 0.11.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/WH-TRWZ-A1.atom#0.11.0</id>
+    <updated>2019-02-18T22:49:41Z</updated>
+    <published>2019-02-18T22:49:41Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1030/0.11.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;QUARQ TYREWIZ&lt;/strong&gt; &lt;code&gt;WH-TRWZ-A1&lt;/code&gt; — firmware 0.11.0&lt;/p&gt;&lt;p&gt;Part: QUARQ TYREWIZ&lt;/p&gt;&lt;p&gt;Add MotoWiz support&lt;/p&gt;&lt;p&gt;Released: 2019-02-18&lt;/p&gt;</summary>
+  </entry>
+</feed>

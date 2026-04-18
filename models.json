@@ -1,0 +1,706 @@
+[
+  {
+    "model_code": "EB-FRC-D1",
+    "model_id": 1010,
+    "device_type": 1,
+    "part_description": "EB R FORCE",
+    "display_name": "FORCE CONTROLLER (R)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "EB-RED-D1",
+    "model_id": 1008,
+    "device_type": 1,
+    "part_description": "EB R RED",
+    "display_name": "RED CONTROLLER (R)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "EC-AXS-POD-B1",
+    "model_id": 1072,
+    "device_type": 114,
+    "part_description": "EC AXS POD",
+    "display_name": "POD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "EC-AXS-RKSX-A1",
+    "model_id": 1017,
+    "device_type": 3,
+    "part_description": "ES",
+    "display_name": "REVERB CONTROLLER (L)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "EC-AXS-SRAM-A1",
+    "model_id": 1015,
+    "device_type": 4,
+    "part_description": "ES XX1",
+    "display_name": "AXS CONTROLLER (R)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "EC-AXS-ZIPP-A1",
+    "model_id": 1046,
+    "device_type": 0,
+    "part_description": "VukaShift 90 (L)",
+    "display_name": "VukaShift 90 (L)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "EC-BLIP-B1",
+    "model_id": 1055,
+    "device_type": 96,
+    "part_description": "Wireless Blip",
+    "display_name": "WIRELESS BLIP",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "ED-APX-D1",
+    "model_id": 1092,
+    "device_type": 0,
+    "part_description": "Apex ED (L)",
+    "display_name": "APEX CONTROLLER (L)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "ED-FRC-D1",
+    "model_id": 1006,
+    "device_type": 1,
+    "part_description": "ED R FORCE",
+    "display_name": "FORCE CONTROLLER (R)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "ED-FRC-D2",
+    "model_id": 1090,
+    "device_type": 0,
+    "part_description": "Force Reignition ED (L)",
+    "display_name": "FORCE CONTROLLER (L)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "ED-FRC-E1",
+    "model_id": 1177,
+    "device_type": 0,
+    "part_description": "FIVAL Force ED (L)",
+    "display_name": "FORCE CONTROLLER (L)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "ED-RED-D1",
+    "model_id": 1004,
+    "device_type": 1,
+    "part_description": "ED R RED",
+    "display_name": "RED CONTROLLER (R)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "ED-RED-E1",
+    "model_id": 1083,
+    "device_type": 1,
+    "part_description": "ED R RED24",
+    "display_name": "RED CONTROLLER (R)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "ED-RIV-D1",
+    "model_id": 1034,
+    "device_type": 0,
+    "part_description": "RIVAL CONTROLLER (L)",
+    "display_name": "RIVAL CONTROLLER (L)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "ED-RIV-E1",
+    "model_id": 1179,
+    "device_type": 0,
+    "part_description": "FIVAL Rival ED (L)",
+    "display_name": "RIVAL CONTROLLER (L)",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "EP-EAC-FAPS-A1",
+    "model_id": 1040,
+    "device_type": 5,
+    "part_description": "Eagle DUB AXS Pedal Sensor",
+    "display_name": "AXS PEDAL SENSOR",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "EP-ETP-DSP-A1",
+    "model_id": 1076,
+    "device_type": 134,
+    "part_description": "Apollo HMI",
+    "display_name": "EAGLE POWERTRAIN DISPLAY",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "ES-EAC-BBOX-D1",
+    "model_id": 1012,
+    "device_type": 2,
+    "part_description": "ES",
+    "display_name": "BLIPBOX",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FC-FRC-1P-D2",
+    "model_id": 74,
+    "device_type": 301,
+    "part_description": "FORCE POWER METER",
+    "display_name": "FORCE POWER METER",
+    "firmware_type": "blepowermeter"
+  },
+  {
+    "model_code": "FD-FRC-E-D1",
+    "model_id": 1003,
+    "device_type": 128,
+    "part_description": "FD FORCE",
+    "display_name": "FORCE FD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FD-FRC-E-D2",
+    "model_id": 1105,
+    "device_type": 128,
+    "part_description": "FORCE REIGNITION FD",
+    "display_name": "FORCE FD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FD-FRC-E-E1",
+    "model_id": 1134,
+    "device_type": 128,
+    "part_description": "FIVAL FORCE FD",
+    "display_name": "FORCE FD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FD-FRC-EW-D1",
+    "model_id": 1045,
+    "device_type": 128,
+    "part_description": "FORCE EXPANSION FD",
+    "display_name": "FORCE FD WIDE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FD-FRC-EW-D2",
+    "model_id": 1106,
+    "device_type": 128,
+    "part_description": "FORCE REIGNITION FD WIDE",
+    "display_name": "FORCE WIDE FD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FD-RED-E-D1",
+    "model_id": 1002,
+    "device_type": 128,
+    "part_description": "FD RED",
+    "display_name": "RED FD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FD-RED-E1",
+    "model_id": 1118,
+    "device_type": 128,
+    "part_description": "FD RED24",
+    "display_name": "RED FD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FD-RIV-E-D1",
+    "model_id": 1037,
+    "device_type": 128,
+    "part_description": "RIVAL FD",
+    "display_name": "RIVAL FD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FD-RIV-E-E1",
+    "model_id": 1135,
+    "device_type": 128,
+    "part_description": "FIVAL RIVAL FD",
+    "display_name": "RIVAL FD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FD-RIV-EW-D1",
+    "model_id": 1051,
+    "device_type": 128,
+    "part_description": "RIVAL FD WIDE",
+    "display_name": "RIVAL FD WIDE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FS-LYRK-UFA-XX",
+    "model_id": 1048,
+    "device_type": 130,
+    "part_description": "LYRIK ULTIMATE",
+    "display_name": "LYRIK ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FS-PIKE-UFA-XX",
+    "model_id": 1038,
+    "device_type": 130,
+    "part_description": "PIKE ULTIMATE",
+    "display_name": "PIKE ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FS-SHWZ-A1",
+    "model_id": 8,
+    "device_type": 302,
+    "part_description": "QUARQ SHOCKWIZ",
+    "display_name": "QUARQ SHOCKWIZ",
+    "firmware_type": "shockwiz"
+  },
+  {
+    "model_code": "FS-SID-UFA-D1",
+    "model_id": 1086,
+    "device_type": 130,
+    "part_description": "SID ULTIMATE",
+    "display_name": "SID ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FS-SIDS-UFA-D1",
+    "model_id": 1087,
+    "device_type": 130,
+    "part_description": "SID SL ULTIMATE",
+    "display_name": "SID SL ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FS-ZEB-UFA-XX",
+    "model_id": 1049,
+    "device_type": 130,
+    "part_description": "ZEB ULTIMATE",
+    "display_name": "ZEB ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "HU-PWTP-G3-A1",
+    "model_id": 110,
+    "device_type": 301,
+    "part_description": "POWERTAP G3 HUB",
+    "display_name": "POWERTAP HUB",
+    "firmware_type": "powertap"
+  },
+  {
+    "model_code": "PD-PWTP-P1-A1",
+    "model_id": 100,
+    "device_type": 301,
+    "part_description": "POWERTAP P1 PEDAL",
+    "display_name": "POWERTAP LEFT PEDAL",
+    "firmware_type": "powertap"
+  },
+  {
+    "model_code": "PD-PWTP-P2-A1",
+    "model_id": 102,
+    "device_type": 301,
+    "part_description": "POWERTAP P2 PEDAL",
+    "display_name": "POWERTAP LEFT PEDAL",
+    "firmware_type": "powertap"
+  },
+  {
+    "model_code": "PM-ASSY-D1",
+    "model_id": 1052,
+    "device_type": 133,
+    "part_description": "SHIP IN A BOTTLE",
+    "display_name": "QUARQ DUB POWER METER",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "PM-DZ-A1",
+    "model_id": 7,
+    "device_type": 301,
+    "part_description": "QUARQ DZERO",
+    "display_name": "QUARQ POWER METER",
+    "firmware_type": "blepowermeter"
+  },
+  {
+    "model_code": "PM-RED-1-D1",
+    "model_id": 71,
+    "device_type": 301,
+    "part_description": "RED POWER METER",
+    "display_name": "RED POWER METER",
+    "firmware_type": "blepowermeter"
+  },
+  {
+    "model_code": "PM-RED-1-D1-AERO",
+    "model_id": 72,
+    "device_type": 301,
+    "part_description": "RED POWER METER AERO",
+    "display_name": "RED POWER METER",
+    "firmware_type": "blepowermeter"
+  },
+  {
+    "model_code": "PM-RED-D1",
+    "model_id": 73,
+    "device_type": 301,
+    "part_description": "RED POWER METER 2X",
+    "display_name": "RED POWER METER",
+    "firmware_type": "blepowermeter"
+  },
+  {
+    "model_code": "RD-87-E-A1",
+    "model_id": 1199,
+    "device_type": 129,
+    "part_description": "RD XX SL Di2 Defense",
+    "display_name": "XX SL Special Edition RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-APX-1E-D1",
+    "model_id": 1101,
+    "device_type": 129,
+    "part_description": "APEX RD XPLR",
+    "display_name": "APEX RD XPLR MAX 44T",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-FRC-1E-D2",
+    "model_id": 1104,
+    "device_type": 129,
+    "part_description": "FORCE REIGNITION RD XPLR",
+    "display_name": "FORCE RD XPLR MAX 44T",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-FRC-1E-E1",
+    "model_id": 1138,
+    "device_type": 129,
+    "part_description": "FIVAL FORCE RD 1x",
+    "display_name": "FORCE RD XPLR MAX 46T",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-FRC-E-D1",
+    "model_id": 1001,
+    "device_type": 129,
+    "part_description": "RD FORCE",
+    "display_name": "FORCE RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-FRC-E-D2",
+    "model_id": 1103,
+    "device_type": 129,
+    "part_description": "FORCE REIGNITION RD MAX 36",
+    "display_name": "FORCE RD MAX 36T",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-FRC-E-E1",
+    "model_id": 1136,
+    "device_type": 129,
+    "part_description": "FIVAL FORCE RD 2x",
+    "display_name": "FORCE RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-FRC1-E-D1",
+    "model_id": 1071,
+    "device_type": 129,
+    "part_description": "FORCE RD MAX 44T",
+    "display_name": "FORCE RD XPLR MAX 44T",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-GX-1E-A1",
+    "model_id": 1056,
+    "device_type": 129,
+    "part_description": "RD GX",
+    "display_name": "GX RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-GX-E-B1",
+    "model_id": 1075,
+    "device_type": 129,
+    "part_description": "RD TopGun T3",
+    "display_name": "GX RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-RED-1E-E1",
+    "model_id": 1081,
+    "device_type": 129,
+    "part_description": "RED24 1x RD",
+    "display_name": "RED RD XPLR MAX 46T",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-RED-E-A2",
+    "model_id": 1053,
+    "device_type": 129,
+    "part_description": "One Less RD",
+    "display_name": "RED RD eTAP 11 SPD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-RED-E-D1",
+    "model_id": 1000,
+    "device_type": 129,
+    "part_description": "RD RED",
+    "display_name": "RED RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-RED-E1",
+    "model_id": 1082,
+    "device_type": 129,
+    "part_description": "Red24 2x",
+    "display_name": "RED RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-RED1-E-D1",
+    "model_id": 1070,
+    "device_type": 129,
+    "part_description": "RED RD MAX 44T",
+    "display_name": "RED RD XPLR MAX 44T",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-RIV-1E-E1",
+    "model_id": 1139,
+    "device_type": 129,
+    "part_description": "FIVAL RIVAL RD 1x",
+    "display_name": "RIVAL RD XPLR MAX 46T",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-RIV-E-D1",
+    "model_id": 1036,
+    "device_type": 129,
+    "part_description": "RIVAL RD",
+    "display_name": "RIVAL RD MAX 36T",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-RIV-E-E1",
+    "model_id": 1137,
+    "device_type": 129,
+    "part_description": "FIVAL RIVAL RD 2x",
+    "display_name": "RIVAL RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-RIV1-E-D1",
+    "model_id": 1074,
+    "device_type": 129,
+    "part_description": "RIVAL RD MAX 44T",
+    "display_name": "RIVAL RD XPLR MAX 44T",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-S1000-E-A1",
+    "model_id": 1132,
+    "device_type": 129,
+    "part_description": "S1000 RD",
+    "display_name": "S1000 RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-S500-E-B1",
+    "model_id": 1213,
+    "device_type": 129,
+    "part_description": "EAGLE CONSOLIDATION RD",
+    "display_name": "EAGLE RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-UPK-GXTE-A1",
+    "model_id": 1198,
+    "device_type": 129,
+    "part_description": "RD GX Body Kit",
+    "display_name": "GX RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-X-1E-A1",
+    "model_id": 1102,
+    "device_type": 129,
+    "part_description": "APEX RD EAGLE",
+    "display_name": "X1 EAGLE RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-X0-1E-A1",
+    "model_id": 1014,
+    "device_type": 129,
+    "part_description": "RD X01",
+    "display_name": "X01 RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-XO-E-B1",
+    "model_id": 1060,
+    "device_type": 129,
+    "part_description": "RD TopGun T2",
+    "display_name": "X0 RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-XX-1E-A1",
+    "model_id": 1013,
+    "device_type": 129,
+    "part_description": "RD XX1",
+    "display_name": "XX1 RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-XX-DHE-A1",
+    "model_id": 1133,
+    "device_type": 129,
+    "part_description": "RD TopGun DH",
+    "display_name": "XX DH AXS Transmission RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-XX-E-B1",
+    "model_id": 1059,
+    "device_type": 129,
+    "part_description": "RD TopGun T1 Trail",
+    "display_name": "XX RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RD-XX-SLE-B1",
+    "model_id": 1058,
+    "device_type": 129,
+    "part_description": "RD TopGun T1 Race",
+    "display_name": "XX SL RD",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RS-SDLX-THRU-C1",
+    "model_id": 1063,
+    "device_type": 6,
+    "part_description": "TREKWIZ SUPER DELUXE ULTIMATE THRU",
+    "display_name": "ROCKSHOX SDLX AIRWIZ",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RS-SDLX-UFA-C1",
+    "model_id": 1039,
+    "device_type": 131,
+    "part_description": "SUPER DELUXE ULTIMATE",
+    "display_name": "SUPER DELUXE ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RS-SDLX-UFA-C2",
+    "model_id": 1128,
+    "device_type": 131,
+    "part_description": "SUPER DELUXE ULTIMATE",
+    "display_name": "SUPER DELUXE ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RS-SDLX-ULT-C1",
+    "model_id": 1065,
+    "device_type": 6,
+    "part_description": "TREKWIZ SUPER DELUXE ULTIMATE",
+    "display_name": "ROCKSHOX SDLX AIRWIZ",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RS-SIDL-ISFA-A1",
+    "model_id": 1130,
+    "device_type": 131,
+    "part_description": "SIDLUXE ISOSTRUT ULTIMATE AXS",
+    "display_name": "SIDLUXE ISOSTRUT ULTIMATE AXS",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RS-SIDL-STFA-A2",
+    "model_id": 1131,
+    "device_type": 131,
+    "part_description": "SIDLUXE SCOTT ULTIMATE AXS",
+    "display_name": "SIDLUXE SCOTT ULTIMATE AXS",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RS-SIDL-UFA-A2",
+    "model_id": 1085,
+    "device_type": 131,
+    "part_description": "SIDLUXE ULTIMATE",
+    "display_name": "SIDLUXE ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RS-VIVC-UFA-C1",
+    "model_id": 1088,
+    "device_type": 131,
+    "part_description": "VIVID COIL ULTIMATE",
+    "display_name": "VIVID COIL ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RS-VIVD-UFA-C1",
+    "model_id": 1089,
+    "device_type": 131,
+    "part_description": "VIVID AIR ULTIMATE",
+    "display_name": "VIVID AIR ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "SP-RVB-AXS-A1",
+    "model_id": 1018,
+    "device_type": 132,
+    "part_description": "SP 30.9 100 340",
+    "display_name": "REVERB SEATPOST",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "SP-RVB-AXS-B1",
+    "model_id": 1150,
+    "device_type": 132,
+    "part_description": "SP2 30.9 100",
+    "display_name": "REVERB SEATPOST",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "SP-RVB-XPLR-A1",
+    "model_id": 1067,
+    "device_type": 132,
+    "part_description": "SP 27.2 50 350",
+    "display_name": "REVERB AXS XPLR",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "WH-TRWZ-A1",
+    "model_id": 1030,
+    "device_type": 303,
+    "part_description": "QUARQ TYREWIZ",
+    "display_name": "QUARQ TYREWIZ",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "WH-TRWZ-B1",
+    "model_id": 1031,
+    "device_type": 303,
+    "part_description": "QUARQ TYREWIZ",
+    "display_name": "QUARQ TYREWIZ",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "WH-TRWZ-C1",
+    "model_id": 1125,
+    "device_type": 303,
+    "part_description": "ZIPPWIZ",
+    "display_name": "ZIPP AXS WHEEL SENSOR",
+    "firmware_type": ""
+  },
+  {
+    "model_code": "WH-TRWZ-E1",
+    "model_id": 1119,
+    "device_type": 303,
+    "part_description": "QUARQ TYREWIZ 2",
+    "display_name": "QUARQ TYREWIZ 2",
+    "firmware_type": "bambam"
+  }
+]

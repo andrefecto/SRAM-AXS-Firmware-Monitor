@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware</title>
+  <subtitle>Production firmware releases for SRAM FD-FRC-EW-D2.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2025-12-09T20:58:54Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:54Z</updated>
+    <published>2025-12-09T20:58:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1106/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE WIDE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D2&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD WIDE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:09Z</updated>
+    <published>2025-09-17T20:39:09Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1106/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE WIDE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D2&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD WIDE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:38Z</updated>
+    <published>2024-05-29T20:59:38Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1106/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE WIDE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D2&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD WIDE&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware 2.48.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom#2.48.0</id>
+    <updated>2024-02-20T00:31:41Z</updated>
+    <published>2024-02-20T00:31:41Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1106/2.48.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE WIDE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D2&lt;/code&gt; — firmware 2.48.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD WIDE&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-02-20&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware 2.46.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom#2.46.0</id>
+    <updated>2023-08-02T16:35:00Z</updated>
+    <published>2023-08-02T16:35:00Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1106/2.46.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE WIDE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D2&lt;/code&gt; — firmware 2.46.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD WIDE&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-08-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE WIDE FD (FD-FRC-EW-D2) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-FRC-EW-D2.atom#2.41.0</id>
+    <updated>2023-01-11T20:10:24Z</updated>
+    <published>2023-01-11T20:10:24Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1106/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE WIDE FD&lt;/strong&gt; &lt;code&gt;FD-FRC-EW-D2&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: FORCE REIGNITION FD WIDE&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.&lt;/p&gt;&lt;p&gt;Released: 2023-01-11&lt;/p&gt;</summary>
+  </entry>
+</feed>

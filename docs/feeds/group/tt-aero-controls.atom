@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TT / Aero control add-ons</title>
+  <subtitle>VukaShift bar-end shifters and Blips — pair with your road groupset feed of choice.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/tt-aero-controls.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/tt-aero-controls.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2025-09-17T20:44:41Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>VukaShift 90 (L) (EC-AXS-ZIPP-A1) — firmware 2.53.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-ZIPP-A1.atom#2.53.2</id>
+    <updated>2025-09-17T20:44:41Z</updated>
+    <published>2025-09-17T20:44:41Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1046/2.53.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;VukaShift 90 (L)&lt;/strong&gt; &lt;code&gt;EC-AXS-ZIPP-A1&lt;/code&gt; — firmware 2.53.2&lt;/p&gt;&lt;p&gt;Part: VukaShift 90 (L)&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements. 
+
+This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>WIRELESS BLIP (EC-BLIP-B1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-BLIP-B1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:56Z</updated>
+    <published>2024-05-29T20:59:56Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1055/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;WIRELESS BLIP&lt;/strong&gt; &lt;code&gt;EC-BLIP-B1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: Wireless Blip&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>VukaShift 90 (L) (EC-AXS-ZIPP-A1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-ZIPP-A1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:31Z</updated>
+    <published>2024-05-29T20:59:31Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1046/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;VukaShift 90 (L)&lt;/strong&gt; &lt;code&gt;EC-AXS-ZIPP-A1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: VukaShift 90 (L)&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>WIRELESS BLIP (EC-BLIP-B1) — firmware 2.42.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-BLIP-B1.atom#2.42.0</id>
+    <updated>2023-01-12T21:07:04Z</updated>
+    <published>2023-01-12T21:07:04Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1055/2.42.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;WIRELESS BLIP&lt;/strong&gt; &lt;code&gt;EC-BLIP-B1&lt;/code&gt; — firmware 2.42.0&lt;/p&gt;&lt;p&gt;Part: Wireless Blip&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-01-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>VukaShift 90 (L) (EC-AXS-ZIPP-A1) — firmware 2.42.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-ZIPP-A1.atom#2.42.0</id>
+    <updated>2023-01-12T21:06:50Z</updated>
+    <published>2023-01-12T21:06:50Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1046/2.42.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;VukaShift 90 (L)&lt;/strong&gt; &lt;code&gt;EC-AXS-ZIPP-A1&lt;/code&gt; — firmware 2.42.0&lt;/p&gt;&lt;p&gt;Part: VukaShift 90 (L)&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-01-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>VukaShift 90 (L) (EC-AXS-ZIPP-A1) — firmware 2.29.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-ZIPP-A1.atom#2.29.6</id>
+    <updated>2022-02-07T20:01:13Z</updated>
+    <published>2022-02-07T20:01:13Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1046/2.29.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;VukaShift 90 (L)&lt;/strong&gt; &lt;code&gt;EC-AXS-ZIPP-A1&lt;/code&gt; — firmware 2.29.6&lt;/p&gt;&lt;p&gt;Part: VukaShift 90 (L)&lt;/p&gt;&lt;p&gt;* Fixed bug: rapidly pressing Clics or Blips prevents derailleur(s) from actuating * Fixed bug: pressing and holding a brake-shift lever AXS button for an extended period can unpair shifter from system&lt;/p&gt;&lt;p&gt;Released: 2022-02-07&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>VukaShift 90 (L) (EC-AXS-ZIPP-A1) — firmware 2.3.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-ZIPP-A1.atom#2.3.6</id>
+    <updated>2020-06-12T21:19:54Z</updated>
+    <published>2020-06-12T21:19:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1046/2.3.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;VukaShift 90 (L)&lt;/strong&gt; &lt;code&gt;EC-AXS-ZIPP-A1&lt;/code&gt; — firmware 2.3.6&lt;/p&gt;&lt;p&gt;Part: VukaShift 90 (L)&lt;/p&gt;&lt;p&gt;Resolved issue with high battery consumption in some units.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>VukaShift 90 (L) (EC-AXS-ZIPP-A1) — firmware 2.3.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-ZIPP-A1.atom#2.3.2</id>
+    <updated>2020-06-12T21:19:01Z</updated>
+    <published>2020-06-12T21:19:01Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1046/2.3.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;VukaShift 90 (L)&lt;/strong&gt; &lt;code&gt;EC-AXS-ZIPP-A1&lt;/code&gt; — firmware 2.3.2&lt;/p&gt;&lt;p&gt;Part: VukaShift 90 (L)&lt;/p&gt;&lt;p&gt;Initial release.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+</feed>

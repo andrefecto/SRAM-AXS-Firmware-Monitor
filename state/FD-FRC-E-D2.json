@@ -1,0 +1,50 @@
+{
+  "model_code": "FD-FRC-E-D2",
+  "model_id": 1105,
+  "display_name": "FORCE FD",
+  "part_description": "FORCE REIGNITION FD",
+  "history": [
+    {
+      "version": "2.54.0",
+      "release_date": "2025-12-09",
+      "release_ts": 1765313934.591,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version \u00a0before installing this Device Firmware Update.\n\n\u00a0\n\nThis firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1105/2.54.0"
+    },
+    {
+      "version": "2.53.1",
+      "release_date": "2025-09-17",
+      "release_ts": 1758141549.415,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1105/2.53.1"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016378.044,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1105/2.49.1"
+    },
+    {
+      "version": "2.48.0",
+      "release_date": "2024-02-20",
+      "release_ts": 1708389101.051,
+      "release_notes": "Platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1105/2.48.0"
+    },
+    {
+      "version": "2.46.0",
+      "release_date": "2023-08-02",
+      "release_ts": 1690994099.81,
+      "release_notes": "Platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1105/2.46.0"
+    },
+    {
+      "version": "2.41.0",
+      "release_date": "2023-01-11",
+      "release_ts": 1673467824.288,
+      "release_notes": "General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1105/2.41.0"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "model_code": "SP-RVB-XPLR-A1",
+  "model_id": 1067,
+  "display_name": "REVERB AXS XPLR",
+  "part_description": "SP 27.2 50 350",
+  "history": [
+    {
+      "version": "2.48.0",
+      "release_date": "2026-01-06",
+      "release_ts": 1767713413.044,
+      "release_notes": "Platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1067/2.48.0"
+    },
+    {
+      "version": "2.53.1",
+      "release_date": "2026-01-06",
+      "release_ts": 1767713381.354,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1067/2.53.1"
+    },
+    {
+      "version": "2.54.2",
+      "release_date": "2025-12-09",
+      "release_ts": 1765314416.184,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version before installing this Device Firmware Update. \n  - This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1067/2.54.2"
+    },
+    {
+      "version": "2.46.0",
+      "release_date": "2023-08-02",
+      "release_ts": 1690994112.018,
+      "release_notes": "Platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1067/2.46.0"
+    },
+    {
+      "version": "2.43.2",
+      "release_date": "2023-03-01",
+      "release_ts": 1677688119.035,
+      "release_notes": "General bug fixes and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1067/2.43.2"
+    },
+    {
+      "version": "2.42.1",
+      "release_date": "2023-01-23",
+      "release_ts": 1674506628.484,
+      "release_notes": "General bug fixes and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1067/2.42.1"
+    },
+    {
+      "version": "2.41.0",
+      "release_date": "2022-11-01",
+      "release_ts": 1667331799.654,
+      "release_notes": "Bug fixes and performance optimizations.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1067/2.41.0"
+    },
+    {
+      "version": "2.33.4",
+      "release_date": "2022-02-02",
+      "release_ts": 1643839860.069,
+      "release_notes": "- Adjustments to motor performance during actuation",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1067/2.33.4"
+    },
+    {
+      "version": "2.8.1",
+      "release_date": "2021-04-20",
+      "release_ts": 1618897412.522,
+      "release_notes": "Improved stability on BLE connection and during update.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1067/2.8.1"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WIRELESS BLIP (EC-BLIP-B1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM EC-BLIP-B1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-BLIP-B1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-BLIP-B1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2024-05-29T20:59:56Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>WIRELESS BLIP (EC-BLIP-B1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-BLIP-B1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:56Z</updated>
+    <published>2024-05-29T20:59:56Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1055/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;WIRELESS BLIP&lt;/strong&gt; &lt;code&gt;EC-BLIP-B1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: Wireless Blip&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>WIRELESS BLIP (EC-BLIP-B1) — firmware 2.42.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-BLIP-B1.atom#2.42.0</id>
+    <updated>2023-01-12T21:07:04Z</updated>
+    <published>2023-01-12T21:07:04Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1055/2.42.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;WIRELESS BLIP&lt;/strong&gt; &lt;code&gt;EC-BLIP-B1&lt;/code&gt; — firmware 2.42.0&lt;/p&gt;&lt;p&gt;Part: Wireless Blip&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-01-12&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,22 @@
+{
+  "model_code": "EP-EAC-FAPS-A1",
+  "model_id": 1040,
+  "display_name": "AXS PEDAL SENSOR",
+  "part_description": "Eagle DUB AXS Pedal Sensor",
+  "history": [
+    {
+      "version": "2.48.4",
+      "release_date": "2024-05-30",
+      "release_ts": 1717083292.426,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.\nFirmware version 2.48.4 provides improved app connectivity for Eagle Powertrain systems equipped with Flight Attendant. A new profile has been added to allow E-bike ANT signals for Flight Attendant pedaling source. General improvements to Flight Attendant systems are also included in this update to forks, shocks, and pedal sensors.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1040/2.48.4"
+    },
+    {
+      "version": "2.19.5",
+      "release_date": "2021-09-30",
+      "release_ts": 1633040076.785,
+      "release_notes": "Version 2.19.5 for release to AXS mobile application  This is the initial public release of Flight Attendant Pedal Sensor firmware.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1040/2.19.5"
+    }
+  ]
+}

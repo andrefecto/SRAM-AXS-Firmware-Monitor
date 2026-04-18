@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>REVERB SEATPOST (SP-RVB-AXS-A1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM SP-RVB-AXS-A1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-A1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-A1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2026-01-06T15:30:09Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-A1) — firmware 2.48.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-A1.atom#2.48.0</id>
+    <updated>2026-01-06T15:30:09Z</updated>
+    <published>2026-01-06T15:30:09Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1018/2.48.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-A1&lt;/code&gt; — firmware 2.48.0&lt;/p&gt;&lt;p&gt;Part: SP 30.9 100 340&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-01-06&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-A1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-A1.atom#2.53.1</id>
+    <updated>2026-01-06T15:29:38Z</updated>
+    <published>2026-01-06T15:29:38Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1018/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-A1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: SP 30.9 100 340&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-01-06&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-A1) — firmware 2.54.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-A1.atom#2.54.2</id>
+    <updated>2025-12-09T21:06:54Z</updated>
+    <published>2025-12-09T21:06:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1018/2.54.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-A1&lt;/code&gt; — firmware 2.54.2&lt;/p&gt;&lt;p&gt;Part: SP 30.9 100 340&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version before installing this Device Firmware Update. 
+  - This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-A1) — firmware 2.46.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-A1.atom#2.46.0</id>
+    <updated>2023-08-02T16:35:08Z</updated>
+    <published>2023-08-02T16:35:08Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1018/2.46.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-A1&lt;/code&gt; — firmware 2.46.0&lt;/p&gt;&lt;p&gt;Part: SP 30.9 100 340&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-08-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-A1) — firmware 2.43.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-A1.atom#2.43.2</id>
+    <updated>2023-03-01T16:28:35Z</updated>
+    <published>2023-03-01T16:28:35Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1018/2.43.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-A1&lt;/code&gt; — firmware 2.43.2&lt;/p&gt;&lt;p&gt;Part: SP 30.9 100 340&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-03-01&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-A1) — firmware 2.42.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-A1.atom#2.42.1</id>
+    <updated>2023-01-23T20:43:45Z</updated>
+    <published>2023-01-23T20:43:45Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1018/2.42.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-A1&lt;/code&gt; — firmware 2.42.1&lt;/p&gt;&lt;p&gt;Part: SP 30.9 100 340&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-01-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-A1) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-A1.atom#2.41.0</id>
+    <updated>2022-11-01T19:43:14Z</updated>
+    <published>2022-11-01T19:43:14Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1018/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-A1&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: SP 30.9 100 340&lt;/p&gt;&lt;p&gt;Bug fixes and performance optimizations.&lt;/p&gt;&lt;p&gt;Released: 2022-11-01&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-A1) — firmware 2.33.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-A1.atom#2.33.4</id>
+    <updated>2022-02-02T22:10:54Z</updated>
+    <published>2022-02-02T22:10:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1018/2.33.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-A1&lt;/code&gt; — firmware 2.33.4&lt;/p&gt;&lt;p&gt;Part: SP 30.9 100 340&lt;/p&gt;&lt;p&gt;- Adjustments to motor performance during actuation&lt;/p&gt;&lt;p&gt;Released: 2022-02-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-A1) — firmware 2.8.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-A1.atom#2.8.1</id>
+    <updated>2021-04-20T05:43:16Z</updated>
+    <published>2021-04-20T05:43:16Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1018/2.8.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-A1&lt;/code&gt; — firmware 2.8.1&lt;/p&gt;&lt;p&gt;Part: SP 30.9 100 340&lt;/p&gt;&lt;p&gt;Improved stability on BLE connection and during update.&lt;/p&gt;&lt;p&gt;Released: 2021-04-20&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-A1) — firmware 2.4.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-A1.atom#2.4.2</id>
+    <updated>2020-06-12T21:33:00Z</updated>
+    <published>2020-06-12T21:33:00Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1018/2.4.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-A1&lt;/code&gt; — firmware 2.4.2&lt;/p&gt;&lt;p&gt;Part: SP 30.9 100 340&lt;/p&gt;&lt;p&gt;Resolved issue with memory corruption.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+</feed>

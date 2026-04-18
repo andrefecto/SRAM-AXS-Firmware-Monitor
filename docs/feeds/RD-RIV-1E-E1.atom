@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RIVAL RD XPLR MAX 46T (RD-RIV-1E-E1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM RD-RIV-1E-E1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RIV-1E-E1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RIV-1E-E1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2026-03-04T19:43:15Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>RIVAL RD XPLR MAX 46T (RD-RIV-1E-E1) — firmware 2.54.9</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RIV-1E-E1.atom#2.54.9</id>
+    <updated>2026-03-04T19:43:15Z</updated>
+    <published>2026-03-04T19:43:15Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1139/2.54.9"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RIV-1E-E1&lt;/code&gt; — firmware 2.54.9&lt;/p&gt;&lt;p&gt;Part: FIVAL RIVAL RD 1x&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version  before installing this Device Firmware Update.
+     - Minor Bugfix and reliability improvement.&lt;/p&gt;&lt;p&gt;Released: 2026-03-04&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL RD XPLR MAX 46T (RD-RIV-1E-E1) — firmware 2.54.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RIV-1E-E1.atom#2.54.6</id>
+    <updated>2025-12-15T14:37:59Z</updated>
+    <published>2025-12-15T14:37:59Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1139/2.54.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RIV-1E-E1&lt;/code&gt; — firmware 2.54.6&lt;/p&gt;&lt;p&gt;Part: FIVAL RIVAL RD 1x&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version before installing this Device Firmware Update.
+
+  - This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-15&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL RD XPLR MAX 46T (RD-RIV-1E-E1) — firmware 2.53.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RIV-1E-E1.atom#2.53.8</id>
+    <updated>2025-09-19T12:09:02Z</updated>
+    <published>2025-09-19T12:09:02Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1139/2.53.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RIV-1E-E1&lt;/code&gt; — firmware 2.53.8&lt;/p&gt;&lt;p&gt;Part: FIVAL RIVAL RD 1x&lt;/p&gt;&lt;p&gt;This firmware update contains platform updates.&lt;/p&gt;&lt;p&gt;Released: 2025-09-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL RD XPLR MAX 46T (RD-RIV-1E-E1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RIV-1E-E1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:11Z</updated>
+    <published>2025-09-17T20:39:11Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1139/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RIV-1E-E1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FIVAL RIVAL RD 1x&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL RD XPLR MAX 46T (RD-RIV-1E-E1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RIV-1E-E1.atom#2.49.1</id>
+    <updated>2024-05-29T21:00:06Z</updated>
+    <published>2024-05-29T21:00:06Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1139/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RIV-1E-E1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FIVAL RIVAL RD 1x&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+</feed>

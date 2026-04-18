@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RED power meters</title>
+  <subtitle>RED spider-based power meters.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/red-power-meters.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/red-power-meters.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2019-07-01T19:43:21Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>RED POWER METER (PM-RED-D1) — firmware 10</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-D1.atom#10</id>
+    <updated>2019-07-01T19:43:21Z</updated>
+    <published>2019-07-01T19:43:21Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/73/10"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-D1&lt;/code&gt; — firmware 10&lt;/p&gt;&lt;p&gt;Part: RED POWER METER 2X&lt;/p&gt;&lt;p&gt;Magic Zero auto-calibration, bux fixes&lt;/p&gt;&lt;p&gt;Released: 2019-07-01&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-1-D1) — firmware 10</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-1-D1.atom#10</id>
+    <updated>2019-07-01T19:43:21Z</updated>
+    <published>2019-07-01T19:43:21Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/71/10"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-1-D1&lt;/code&gt; — firmware 10&lt;/p&gt;&lt;p&gt;Part: RED POWER METER&lt;/p&gt;&lt;p&gt;Magic Zero auto-calibration, bux fixes&lt;/p&gt;&lt;p&gt;Released: 2019-07-01&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-1-D1-AERO) — firmware 10</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-1-D1-AERO.atom#10</id>
+    <updated>2019-07-01T19:43:21Z</updated>
+    <published>2019-07-01T19:43:21Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/72/10"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-1-D1-AERO&lt;/code&gt; — firmware 10&lt;/p&gt;&lt;p&gt;Part: RED POWER METER AERO&lt;/p&gt;&lt;p&gt;Magic Zero auto-calibration, bux fixes&lt;/p&gt;&lt;p&gt;Released: 2019-07-01&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-D1) — firmware 7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-D1.atom#7</id>
+    <updated>2018-05-29T21:22:46Z</updated>
+    <published>2018-05-29T21:22:46Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/73/7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-D1&lt;/code&gt; — firmware 7&lt;/p&gt;&lt;p&gt;Part: RED POWER METER 2X&lt;/p&gt;&lt;p&gt;Bug fixes&lt;/p&gt;&lt;p&gt;Released: 2018-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-1-D1) — firmware 7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-1-D1.atom#7</id>
+    <updated>2018-05-29T21:22:46Z</updated>
+    <published>2018-05-29T21:22:46Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/71/7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-1-D1&lt;/code&gt; — firmware 7&lt;/p&gt;&lt;p&gt;Part: RED POWER METER&lt;/p&gt;&lt;p&gt;Bug fixes&lt;/p&gt;&lt;p&gt;Released: 2018-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-1-D1-AERO) — firmware 7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-1-D1-AERO.atom#7</id>
+    <updated>2018-05-29T21:22:46Z</updated>
+    <published>2018-05-29T21:22:46Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/72/7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-1-D1-AERO&lt;/code&gt; — firmware 7&lt;/p&gt;&lt;p&gt;Part: RED POWER METER AERO&lt;/p&gt;&lt;p&gt;Bug fixes&lt;/p&gt;&lt;p&gt;Released: 2018-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-D1) — firmware 6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-D1.atom#6</id>
+    <updated>2018-03-30T19:05:26Z</updated>
+    <published>2018-03-30T19:05:26Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/73/6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-D1&lt;/code&gt; — firmware 6&lt;/p&gt;&lt;p&gt;Part: RED POWER METER 2X&lt;/p&gt;&lt;p&gt;Bug fix to improve battery life&lt;/p&gt;&lt;p&gt;Released: 2018-03-30&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-1-D1) — firmware 6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-1-D1.atom#6</id>
+    <updated>2018-03-30T19:05:26Z</updated>
+    <published>2018-03-30T19:05:26Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/71/6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-1-D1&lt;/code&gt; — firmware 6&lt;/p&gt;&lt;p&gt;Part: RED POWER METER&lt;/p&gt;&lt;p&gt;Bug fix to improve battery life&lt;/p&gt;&lt;p&gt;Released: 2018-03-30&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-1-D1-AERO) — firmware 6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-1-D1-AERO.atom#6</id>
+    <updated>2018-03-30T19:05:26Z</updated>
+    <published>2018-03-30T19:05:26Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/72/6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-1-D1-AERO&lt;/code&gt; — firmware 6&lt;/p&gt;&lt;p&gt;Part: RED POWER METER AERO&lt;/p&gt;&lt;p&gt;Bug fix to improve battery life&lt;/p&gt;&lt;p&gt;Released: 2018-03-30&lt;/p&gt;</summary>
+  </entry>
+</feed>

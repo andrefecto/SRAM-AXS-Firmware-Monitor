@@ -1,0 +1,64 @@
+{
+  "model_code": "FS-ZEB-UFA-XX",
+  "model_id": 1049,
+  "display_name": "ZEB ULTIMATE",
+  "part_description": "ZEB ULTIMATE",
+  "history": [
+    {
+      "version": "2.54.10",
+      "release_date": "2026-04-16",
+      "release_ts": 1776348703.897,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version \u00a0before installing this Device Firmware Update.\n- \u201cFA Mode\u201d data field on Karoo Bike Computer to show Error States for the Flight Attendant System, should they occur.\n- Minor bug fixes and production systems support.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.54.10"
+    },
+    {
+      "version": "2.53.9",
+      "release_date": "2025-10-16",
+      "release_ts": 1760630298.398,
+      "release_notes": "Please ensure your AXS App and KAROO is on the latest version to activate the following improvements. This firmware update contains:\n\nNew system integration features between Flight Attendant Systems and the Karoo Bike Computers.\n\nYou can now track FA suspension state, operating mode, actuation counts, battery, and more in-ride on your Karoo.\n\nYou can also see FA suspension state with GPS data for your ride on Hammerhead Dashboard\n\nBroadened adjustable range for Low Speed Compression settings for Pike, Lyrik, and Zeb forks with Charger 3 dampers to allow for firmer setups.\n\nYou may want to decrease LSC by one click to compensate for the new range\n\nFixed inconsistent behavior when exiting Override mode going back to Auto mode.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.53.9"
+    },
+    {
+      "version": "2.48.8",
+      "release_date": "2025-08-12",
+      "release_ts": 1755005208.656,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store before installing this update\n\nThis Firmware update allows for the disabling of the pedal suspension state in Auto Mode",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.48.8"
+    },
+    {
+      "version": "2.48.7",
+      "release_date": "2025-03-13",
+      "release_ts": 1741895782.792,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store before installing this update\n\n-New Flight Attendant Feature: Auto Mode for Fork-only/Hardtail systems\n\n-Improved behavior when exiting override mode back to auto mode",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.48.7"
+    },
+    {
+      "version": "2.48.6",
+      "release_date": "2024-08-12",
+      "release_ts": 1723484418.412,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.\n \n-Firmware version 2.48.6 improves damper actuation recovery protocol when errors are detected by the Flight Attendant fork module. See the Flight Attendant Guide in the AXS app for more information on Damper Error Mode.\n-Improved app connectivity for Flight Attendant when paired to Eagle Powertrain systems.\n-A new profile has been added to allow E-bike ANT signals for Flight Attendant pedaling source.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.48.6"
+    },
+    {
+      "version": "2.44.7",
+      "release_date": "2023-09-13",
+      "release_ts": 1694638387.087,
+      "release_notes": "Algorithm advancements, power meter integration for Pike, Lyrik and Zeb",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.44.7"
+    },
+    {
+      "version": "2.44.0",
+      "release_date": "2023-03-21",
+      "release_ts": 1679413427.947,
+      "release_notes": "Power meter compatibility and performance improvements",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.44.0"
+    },
+    {
+      "version": "2.19.5",
+      "release_date": "2021-09-30",
+      "release_ts": 1633039939.416,
+      "release_notes": "Version 2.19.5 for release to AXS mobile application  This is the initial public release of Flight Attendant Front Suspension firmware.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.19.5"
+    }
+  ]
+}

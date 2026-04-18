@@ -1,0 +1,36 @@
+{
+  "model_code": "ED-FRC-D2",
+  "model_id": 1090,
+  "display_name": "FORCE CONTROLLER (L)",
+  "part_description": "Force Reignition ED (L)",
+  "history": [
+    {
+      "version": "2.53.1",
+      "release_date": "2025-09-17",
+      "release_ts": 1758141547.665,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1090/2.53.1"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016358.054,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1090/2.49.1"
+    },
+    {
+      "version": "2.46.2",
+      "release_date": "2023-09-21",
+      "release_ts": 1695304677.31,
+      "release_notes": "Platform updates, future product support, and reliability improvements. Shifter AXS button indicates state of charge (SoC).",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1090/2.46.2"
+    },
+    {
+      "version": "2.7.7",
+      "release_date": "2023-03-07",
+      "release_ts": 1678210908.978,
+      "release_notes": "Supports regular SRAM production changes, contains no functional alterations or enhancements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1090/2.7.7"
+    }
+  ]
+}

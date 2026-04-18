@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ROCKSHOX SDLX AIRWIZ (RS-SDLX-ULT-C1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM RS-SDLX-ULT-C1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-ULT-C1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-ULT-C1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2022-04-14T11:25:58Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>ROCKSHOX SDLX AIRWIZ (RS-SDLX-ULT-C1) — firmware 2.38.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-ULT-C1.atom#2.38.0</id>
+    <updated>2022-04-14T11:25:58Z</updated>
+    <published>2022-04-14T11:25:58Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1065/2.38.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;ROCKSHOX SDLX AIRWIZ&lt;/strong&gt; &lt;code&gt;RS-SDLX-ULT-C1&lt;/code&gt; — firmware 2.38.0&lt;/p&gt;&lt;p&gt;Part: TREKWIZ SUPER DELUXE ULTIMATE&lt;/p&gt;&lt;p&gt;Corrects AXS app connectivity issue&lt;/p&gt;&lt;p&gt;Released: 2022-04-14&lt;/p&gt;</summary>
+  </entry>
+</feed>

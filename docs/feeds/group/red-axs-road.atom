@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SRAM RED AXS (road)</title>
+  <subtitle>All generations of RED AXS road groupsets — derailleurs, shifters, RED power meters.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/red-axs-road.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/red-axs-road.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2026-03-04T19:43:15Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>RED RD XPLR MAX 46T (RD-RED-1E-E1) — firmware 2.54.9</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-1E-E1.atom#2.54.9</id>
+    <updated>2026-03-04T19:43:15Z</updated>
+    <published>2026-03-04T19:43:15Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1081/2.54.9"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RED-1E-E1&lt;/code&gt; — firmware 2.54.9&lt;/p&gt;&lt;p&gt;Part: RED24 1x RD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version  before installing this Device Firmware Update.
+     - Minor Bugfix and reliability improvement.&lt;/p&gt;&lt;p&gt;Released: 2026-03-04&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 46T (RD-RED-1E-E1) — firmware 2.54.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-1E-E1.atom#2.54.6</id>
+    <updated>2025-12-15T14:37:58Z</updated>
+    <published>2025-12-15T14:37:58Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1081/2.54.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RED-1E-E1&lt;/code&gt; — firmware 2.54.6&lt;/p&gt;&lt;p&gt;Part: RED24 1x RD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version before installing this Device Firmware Update.
+
+  - This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-15&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E1) — firmware 2.54.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E1.atom#2.54.4</id>
+    <updated>2025-12-09T21:13:37Z</updated>
+    <published>2025-12-09T21:13:37Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1082/2.54.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E1&lt;/code&gt; — firmware 2.54.4&lt;/p&gt;&lt;p&gt;Part: Red24 2x&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+- This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.  
+
+- Future Product Support&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E1) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E1.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:54Z</updated>
+    <published>2025-12-09T20:58:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1118/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E1&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: FD RED24&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 44T (RD-RED1-E-D1) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED1-E-D1.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:53Z</updated>
+    <published>2025-12-09T20:58:53Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1070/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RED1-E-D1&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: RED RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E-D1) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E-D1.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:52Z</updated>
+    <published>2025-12-09T20:58:52Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1002/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E-D1&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: FD RED&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E-D1) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-D1.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:52Z</updated>
+    <published>2025-12-09T20:58:52Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1000/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E-D1&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: RD RED&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 46T (RD-RED-1E-E1) — firmware 2.53.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-1E-E1.atom#2.53.8</id>
+    <updated>2025-09-19T12:09:01Z</updated>
+    <published>2025-09-19T12:09:01Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1081/2.53.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RED-1E-E1&lt;/code&gt; — firmware 2.53.8&lt;/p&gt;&lt;p&gt;Part: RED24 1x RD&lt;/p&gt;&lt;p&gt;This firmware update contains platform updates.&lt;/p&gt;&lt;p&gt;Released: 2025-09-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (EB-RED-D1) — firmware 2.53.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-RED-D1.atom#2.53.2</id>
+    <updated>2025-09-17T20:44:40Z</updated>
+    <published>2025-09-17T20:44:40Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1008/2.53.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-RED-D1&lt;/code&gt; — firmware 2.53.2&lt;/p&gt;&lt;p&gt;Part: EB R RED&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements. 
+
+This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (ED-RED-D1) — firmware 2.53.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RED-D1.atom#2.53.2</id>
+    <updated>2025-09-17T20:44:39Z</updated>
+    <published>2025-09-17T20:44:39Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1004/2.53.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-RED-D1&lt;/code&gt; — firmware 2.53.2&lt;/p&gt;&lt;p&gt;Part: ED R RED&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements. 
+
+This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:09Z</updated>
+    <published>2025-09-17T20:39:09Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1118/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FD RED24&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (ED-RED-E1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RED-E1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:07Z</updated>
+    <published>2025-09-17T20:39:07Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1083/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-RED-E1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: ED R RED24&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:07Z</updated>
+    <published>2025-09-17T20:39:07Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1082/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: Red24 2x&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 46T (RD-RED-1E-E1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-1E-E1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:07Z</updated>
+    <published>2025-09-17T20:39:07Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1081/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RED-1E-E1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: RED24 1x RD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 44T (RD-RED1-E-D1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED1-E-D1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:06Z</updated>
+    <published>2025-09-17T20:39:06Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1070/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RED1-E-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: RED RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E-D1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E-D1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:02Z</updated>
+    <published>2025-09-17T20:39:02Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1002/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FD RED&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E-D1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-D1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:02Z</updated>
+    <published>2025-09-17T20:39:02Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1000/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: RD RED&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 46T (RD-RED-1E-E1) — firmware 2.49.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-1E-E1.atom#2.49.8</id>
+    <updated>2024-12-13T11:25:31Z</updated>
+    <published>2024-12-13T11:25:31Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1081/2.49.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RED-1E-E1&lt;/code&gt; — firmware 2.49.8&lt;/p&gt;&lt;p&gt;Part: RED24 1x RD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2024-12-13&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 44T (RD-RED1-E-D1) — firmware 2.49.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED1-E-D1.atom#2.49.6</id>
+    <updated>2024-10-05T00:23:54Z</updated>
+    <published>2024-10-05T00:23:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1070/2.49.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RED1-E-D1&lt;/code&gt; — firmware 2.49.6&lt;/p&gt;&lt;p&gt;Part: RED RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements. 
+FW 2.49.6 contains improvements in the support and verification of the Firmware during the factory production of the Rear Derailleur.&lt;/p&gt;&lt;p&gt;Released: 2024-10-05&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E-D1) — firmware 2.49.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-D1.atom#2.49.6</id>
+    <updated>2024-10-05T00:23:52Z</updated>
+    <published>2024-10-05T00:23:52Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1000/2.49.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E-D1&lt;/code&gt; — firmware 2.49.6&lt;/p&gt;&lt;p&gt;Part: RD RED&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements. 
+FW 2.49.6 contains improvements in the support and verification of the Firmware during the factory production of the Rear Derailleur.&lt;/p&gt;&lt;p&gt;Released: 2024-10-05&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 44T (RD-RED1-E-D1) — firmware 2.49.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED1-E-D1.atom#2.49.4</id>
+    <updated>2024-08-14T22:31:35Z</updated>
+    <published>2024-08-14T22:31:35Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1070/2.49.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RED1-E-D1&lt;/code&gt; — firmware 2.49.4&lt;/p&gt;&lt;p&gt;Part: RED RD MAX 44T&lt;/p&gt;&lt;p&gt;Minor Bug Fixes, Platform updates, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2024-08-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E-D1) — firmware 2.49.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-D1.atom#2.49.4</id>
+    <updated>2024-08-14T22:31:33Z</updated>
+    <published>2024-08-14T22:31:33Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1000/2.49.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E-D1&lt;/code&gt; — firmware 2.49.4&lt;/p&gt;&lt;p&gt;Part: RD RED&lt;/p&gt;&lt;p&gt;Minor Bug Fixes, Platform updates, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2024-08-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD eTAP 11 SPD (RD-RED-E-A2) — firmware 1.1.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-A2.atom#1.1.1</id>
+    <updated>2024-07-17T22:55:38Z</updated>
+    <published>2024-07-17T22:55:38Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1053/1.1.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD eTAP 11 SPD&lt;/strong&gt; &lt;code&gt;RD-RED-E-A2&lt;/code&gt; — firmware 1.1.1&lt;/p&gt;&lt;p&gt;Part: One Less RD&lt;/p&gt;&lt;p&gt;Fix for inconsistent gearing reporting via ANT+&lt;/p&gt;&lt;p&gt;Released: 2024-07-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 46T (RD-RED-1E-E1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-1E-E1.atom#2.49.1</id>
+    <updated>2024-05-29T21:00:04Z</updated>
+    <published>2024-05-29T21:00:04Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1081/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RED-1E-E1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: RED24 1x RD&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:57Z</updated>
+    <published>2024-05-29T20:59:57Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1082/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: Red24 2x&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (ED-RED-E1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RED-E1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:52Z</updated>
+    <published>2024-05-29T20:59:52Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1083/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-RED-E1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: ED R RED24&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 44T (RD-RED1-E-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED1-E-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:43Z</updated>
+    <published>2024-05-29T20:59:43Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1070/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RED1-E-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: RED RD MAX 44T&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:41Z</updated>
+    <published>2024-05-29T20:59:41Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1000/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: RD RED&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:39Z</updated>
+    <published>2024-05-29T20:59:39Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1118/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FD RED24&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:35Z</updated>
+    <published>2024-05-29T20:59:35Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1002/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FD RED&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (EB-RED-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-RED-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:33Z</updated>
+    <published>2024-05-29T20:59:33Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1008/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-RED-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: EB R RED&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (ED-RED-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RED-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:32Z</updated>
+    <published>2024-05-29T20:59:32Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1004/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-RED-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: ED R RED&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E1) — firmware 2.48.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E1.atom#2.48.2</id>
+    <updated>2024-04-19T01:13:26Z</updated>
+    <published>2024-04-19T01:13:26Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1082/2.48.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E1&lt;/code&gt; — firmware 2.48.2&lt;/p&gt;&lt;p&gt;Part: Red24 2x&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-04-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 44T (RD-RED1-E-D1) — firmware 2.48.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED1-E-D1.atom#2.48.2</id>
+    <updated>2024-04-19T01:13:23Z</updated>
+    <published>2024-04-19T01:13:23Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1070/2.48.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RED1-E-D1&lt;/code&gt; — firmware 2.48.2&lt;/p&gt;&lt;p&gt;Part: RED RD MAX 44T&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-04-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E-D1) — firmware 2.48.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-D1.atom#2.48.2</id>
+    <updated>2024-04-19T01:13:21Z</updated>
+    <published>2024-04-19T01:13:21Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1000/2.48.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E-D1&lt;/code&gt; — firmware 2.48.2&lt;/p&gt;&lt;p&gt;Part: RD RED&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-04-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 46T (RD-RED-1E-E1) — firmware 2.48.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-1E-E1.atom#2.48.0</id>
+    <updated>2024-02-20T00:32:15Z</updated>
+    <published>2024-02-20T00:32:15Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1081/2.48.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RED-1E-E1&lt;/code&gt; — firmware 2.48.0&lt;/p&gt;&lt;p&gt;Part: RED24 1x RD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-02-20&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E1) — firmware 2.48.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E1.atom#2.48.0</id>
+    <updated>2024-02-20T00:31:41Z</updated>
+    <published>2024-02-20T00:31:41Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1118/2.48.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E1&lt;/code&gt; — firmware 2.48.0&lt;/p&gt;&lt;p&gt;Part: FD RED24&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-02-20&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E-D1) — firmware 2.48.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E-D1.atom#2.48.0</id>
+    <updated>2024-02-20T00:31:39Z</updated>
+    <published>2024-02-20T00:31:39Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1002/2.48.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E-D1&lt;/code&gt; — firmware 2.48.0&lt;/p&gt;&lt;p&gt;Part: FD RED&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-02-20&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (ED-RED-E1) — firmware 2.46.9</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RED-E1.atom#2.46.9</id>
+    <updated>2024-01-03T20:13:48Z</updated>
+    <published>2024-01-03T20:13:48Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1083/2.46.9"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-RED-E1&lt;/code&gt; — firmware 2.46.9&lt;/p&gt;&lt;p&gt;Part: ED R RED24&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements. Shifter AXS button indicates state of charge (SoC).&lt;/p&gt;&lt;p&gt;Released: 2024-01-03&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 46T (RD-RED-1E-E1) — firmware 2.46.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-1E-E1.atom#2.46.8</id>
+    <updated>2023-11-08T01:39:11Z</updated>
+    <published>2023-11-08T01:39:11Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1081/2.46.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RED-1E-E1&lt;/code&gt; — firmware 2.46.8&lt;/p&gt;&lt;p&gt;Part: RED24 1x RD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-11-08&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E1) — firmware 2.46.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E1.atom#2.46.8</id>
+    <updated>2023-11-08T01:39:09Z</updated>
+    <published>2023-11-08T01:39:09Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1082/2.46.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E1&lt;/code&gt; — firmware 2.46.8&lt;/p&gt;&lt;p&gt;Part: Red24 2x&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-11-08&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E1) — firmware 2.46.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E1.atom#2.46.8</id>
+    <updated>2023-11-08T01:39:08Z</updated>
+    <published>2023-11-08T01:39:08Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1118/2.46.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E1&lt;/code&gt; — firmware 2.46.8&lt;/p&gt;&lt;p&gt;Part: FD RED24&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-11-08&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 44T (RD-RED1-E-D1) — firmware 2.46.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED1-E-D1.atom#2.46.5</id>
+    <updated>2023-10-03T15:02:04Z</updated>
+    <published>2023-10-03T15:02:04Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1070/2.46.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RED1-E-D1&lt;/code&gt; — firmware 2.46.5&lt;/p&gt;&lt;p&gt;Part: RED RD MAX 44T&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-10-03&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E-D1) — firmware 2.46.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-D1.atom#2.46.5</id>
+    <updated>2023-10-03T15:02:02Z</updated>
+    <published>2023-10-03T15:02:02Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1000/2.46.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E-D1&lt;/code&gt; — firmware 2.46.5&lt;/p&gt;&lt;p&gt;Part: RD RED&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-10-03&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E-D1) — firmware 2.46.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E-D1.atom#2.46.0</id>
+    <updated>2023-08-02T16:34:58Z</updated>
+    <published>2023-08-02T16:34:58Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1002/2.46.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E-D1&lt;/code&gt; — firmware 2.46.0&lt;/p&gt;&lt;p&gt;Part: FD RED&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-08-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E-D1) — firmware 2.42.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E-D1.atom#2.42.1</id>
+    <updated>2023-01-23T20:43:43Z</updated>
+    <published>2023-01-23T20:43:43Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1002/2.42.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E-D1&lt;/code&gt; — firmware 2.42.1&lt;/p&gt;&lt;p&gt;Part: FD RED&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-01-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (EB-RED-D1) — firmware 2.42.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-RED-D1.atom#2.42.0</id>
+    <updated>2023-01-12T21:06:52Z</updated>
+    <published>2023-01-12T21:06:52Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1008/2.42.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-RED-D1&lt;/code&gt; — firmware 2.42.0&lt;/p&gt;&lt;p&gt;Part: EB R RED&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-01-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (ED-RED-D1) — firmware 2.42.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RED-D1.atom#2.42.0</id>
+    <updated>2023-01-12T21:06:51Z</updated>
+    <published>2023-01-12T21:06:51Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1004/2.42.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-RED-D1&lt;/code&gt; — firmware 2.42.0&lt;/p&gt;&lt;p&gt;Part: ED R RED&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-01-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E-D1) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E-D1.atom#2.41.0</id>
+    <updated>2022-12-14T03:48:26Z</updated>
+    <published>2022-12-14T03:48:26Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1002/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E-D1&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: FD RED&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.&lt;/p&gt;&lt;p&gt;Released: 2022-12-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 44T (RD-RED1-E-D1) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED1-E-D1.atom#2.41.0</id>
+    <updated>2022-12-14T03:45:57Z</updated>
+    <published>2022-12-14T03:45:57Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1070/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RED1-E-D1&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: RED RD MAX 44T&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.&lt;/p&gt;&lt;p&gt;Released: 2022-12-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E-D1) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-D1.atom#2.41.0</id>
+    <updated>2022-12-14T03:45:55Z</updated>
+    <published>2022-12-14T03:45:55Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1000/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E-D1&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: RD RED&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.&lt;/p&gt;&lt;p&gt;Released: 2022-12-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E-D1) — firmware 2.32.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E-D1.atom#2.32.0</id>
+    <updated>2022-02-09T16:16:09Z</updated>
+    <published>2022-02-09T16:16:09Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1002/2.32.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E-D1&lt;/code&gt; — firmware 2.32.0&lt;/p&gt;&lt;p&gt;Part: FD RED&lt;/p&gt;&lt;p&gt;- Improve connection reliability with the AXS App and third-party head units.  - Idle time before component enters sleep-mode increased to 5 minutes.  - New Configure Controls logic allows available shift/actuation actions to be assigned in any arrangement.  - Bug Fix - Mismatched road controller upshift/downshift settings are no longer reset when the derailleur/seat post battery is removed.  - Bug Fix - Resolved conditions where sequential shift could come out of sequence unexpectedly.&lt;/p&gt;&lt;p&gt;Released: 2022-02-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 44T (RD-RED1-E-D1) — firmware 2.32.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED1-E-D1.atom#2.32.0</id>
+    <updated>2022-02-09T16:15:18Z</updated>
+    <published>2022-02-09T16:15:18Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1070/2.32.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RED1-E-D1&lt;/code&gt; — firmware 2.32.0&lt;/p&gt;&lt;p&gt;Part: RED RD MAX 44T&lt;/p&gt;&lt;p&gt;- Improve connection reliability with the AXS App and third-party head units.  - Idle time before component enters sleep-mode increased to 5 minutes.  - New Configure Controls logic allows available shift/actuation actions to be assigned in any arrangement.  - Bug Fix - Mismatched road controller upshift/downshift settings are no longer reset when the derailleur/seat post battery is removed.  - Bug Fix - Resolved conditions where sequential shift could come out of sequence unexpectedly.&lt;/p&gt;&lt;p&gt;Released: 2022-02-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E-D1) — firmware 2.32.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-D1.atom#2.32.0</id>
+    <updated>2022-02-09T16:15:16Z</updated>
+    <published>2022-02-09T16:15:16Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1000/2.32.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E-D1&lt;/code&gt; — firmware 2.32.0&lt;/p&gt;&lt;p&gt;Part: RD RED&lt;/p&gt;&lt;p&gt;- Improve connection reliability with the AXS App and third-party head units.  - Idle time before component enters sleep-mode increased to 5 minutes.  - New Configure Controls logic allows available shift/actuation actions to be assigned in any arrangement.  - Bug Fix - Mismatched road controller upshift/downshift settings are no longer reset when the derailleur/seat post battery is removed.  - Bug Fix - Resolved conditions where sequential shift could come out of sequence unexpectedly.&lt;/p&gt;&lt;p&gt;Released: 2022-02-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (EB-RED-D1) — firmware 2.29.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-RED-D1.atom#2.29.6</id>
+    <updated>2022-02-07T20:00:50Z</updated>
+    <published>2022-02-07T20:00:50Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1008/2.29.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-RED-D1&lt;/code&gt; — firmware 2.29.6&lt;/p&gt;&lt;p&gt;Part: EB R RED&lt;/p&gt;&lt;p&gt;* Fixed bug: rapidly pressing Clics or Blips prevents derailleur(s) from actuating * Fixed bug: pressing and holding a brake-shift lever AXS button for an extended period can unpair shifter from system&lt;/p&gt;&lt;p&gt;Released: 2022-02-07&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (ED-RED-D1) — firmware 2.29.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RED-D1.atom#2.29.6</id>
+    <updated>2022-02-07T20:00:49Z</updated>
+    <published>2022-02-07T20:00:49Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1004/2.29.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-RED-D1&lt;/code&gt; — firmware 2.29.6&lt;/p&gt;&lt;p&gt;Part: ED R RED&lt;/p&gt;&lt;p&gt;* Fixed bug: rapidly pressing Clics or Blips prevents derailleur(s) from actuating * Fixed bug: pressing and holding a brake-shift lever AXS button for an extended period can unpair shifter from system&lt;/p&gt;&lt;p&gt;Released: 2022-02-07&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (EB-RED-D1) — firmware 2.29.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-RED-D1.atom#2.29.4</id>
+    <updated>2021-12-02T17:33:17Z</updated>
+    <published>2021-12-02T17:33:17Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1008/2.29.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-RED-D1&lt;/code&gt; — firmware 2.29.4&lt;/p&gt;&lt;p&gt;Part: EB R RED&lt;/p&gt;&lt;p&gt;Battery life improvements – LED illuminates for a shorter period of time when shifter powers up with a low battery. eTap 11-speed derailleur compatibility added – RED and Force eTap AXS 12-speed shift-brake levers and eTap AXS BlipBox can now be paired with legacy eTap 11-speed front and rear derailleurs.&lt;/p&gt;&lt;p&gt;Released: 2021-12-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (ED-RED-D1) — firmware 2.29.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RED-D1.atom#2.29.4</id>
+    <updated>2021-12-02T17:32:34Z</updated>
+    <published>2021-12-02T17:32:34Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1004/2.29.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-RED-D1&lt;/code&gt; — firmware 2.29.4&lt;/p&gt;&lt;p&gt;Part: ED R RED&lt;/p&gt;&lt;p&gt;Battery life improvements – LED illuminates for a shorter period of time when shifter powers up with a low battery. eTap 11-speed derailleur compatibility added – RED and Force eTap AXS 12-speed shift-brake levers and eTap AXS BlipBox can now be paired with legacy eTap 11-speed front and rear derailleurs.&lt;/p&gt;&lt;p&gt;Released: 2021-12-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 44T (RD-RED1-E-D1) — firmware 2.7.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED1-E-D1.atom#2.7.6</id>
+    <updated>2021-08-09T22:26:17Z</updated>
+    <published>2021-08-09T22:26:17Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1070/2.7.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RED1-E-D1&lt;/code&gt; — firmware 2.7.6&lt;/p&gt;&lt;p&gt;Part: RED RD MAX 44T&lt;/p&gt;&lt;p&gt;Additional product support.&lt;/p&gt;&lt;p&gt;Released: 2021-08-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (EB-RED-D1) — firmware 2.3.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-RED-D1.atom#2.3.6</id>
+    <updated>2020-06-12T21:21:16Z</updated>
+    <published>2020-06-12T21:21:16Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1008/2.3.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-RED-D1&lt;/code&gt; — firmware 2.3.6&lt;/p&gt;&lt;p&gt;Part: EB R RED&lt;/p&gt;&lt;p&gt;Resolved issue with high battery consumption in some units.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (ED-RED-D1) — firmware 2.3.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RED-D1.atom#2.3.6</id>
+    <updated>2020-06-12T21:21:15Z</updated>
+    <published>2020-06-12T21:21:15Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1004/2.3.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-RED-D1&lt;/code&gt; — firmware 2.3.6&lt;/p&gt;&lt;p&gt;Part: ED R RED&lt;/p&gt;&lt;p&gt;Resolved issue with high battery consumption in some units.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (EB-RED-D1) — firmware 2.3.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-RED-D1.atom#2.3.2</id>
+    <updated>2020-06-12T21:21:01Z</updated>
+    <published>2020-06-12T21:21:01Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1008/2.3.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-RED-D1&lt;/code&gt; — firmware 2.3.2&lt;/p&gt;&lt;p&gt;Part: EB R RED&lt;/p&gt;&lt;p&gt;Initial release.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (ED-RED-D1) — firmware 2.3.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RED-D1.atom#2.3.2</id>
+    <updated>2020-06-12T21:21:00Z</updated>
+    <published>2020-06-12T21:21:00Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1004/2.3.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-RED-D1&lt;/code&gt; — firmware 2.3.2&lt;/p&gt;&lt;p&gt;Part: ED R RED&lt;/p&gt;&lt;p&gt;Initial release.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E-D1) — firmware 2.7.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-D1.atom#2.7.3</id>
+    <updated>2020-06-12T21:14:29Z</updated>
+    <published>2020-06-12T21:14:29Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1000/2.7.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E-D1&lt;/code&gt; — firmware 2.7.3&lt;/p&gt;&lt;p&gt;Part: RD RED&lt;/p&gt;&lt;p&gt;Communication of gear and trim position to AXS app. Update sequential and compensating shift modes and persist across power cycle. Optimize motion control.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E-D1) — firmware 2.3.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E-D1.atom#2.3.3</id>
+    <updated>2020-06-12T21:04:11Z</updated>
+    <published>2020-06-12T21:04:11Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1002/2.3.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E-D1&lt;/code&gt; — firmware 2.3.3&lt;/p&gt;&lt;p&gt;Part: FD RED&lt;/p&gt;&lt;p&gt;Optimize motion control.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E-D1) — firmware 2.3.7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E-D1.atom#2.3.7</id>
+    <updated>2020-06-12T20:43:11Z</updated>
+    <published>2020-06-12T20:43:11Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1002/2.3.7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E-D1&lt;/code&gt; — firmware 2.3.7&lt;/p&gt;&lt;p&gt;Part: FD RED&lt;/p&gt;&lt;p&gt;Resolved issue with memory corruption. Optimize motion control.&lt;/p&gt;&lt;p&gt;Released: 2020-06-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-D1) — firmware 10</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-D1.atom#10</id>
+    <updated>2019-07-01T19:43:21Z</updated>
+    <published>2019-07-01T19:43:21Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/73/10"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-D1&lt;/code&gt; — firmware 10&lt;/p&gt;&lt;p&gt;Part: RED POWER METER 2X&lt;/p&gt;&lt;p&gt;Magic Zero auto-calibration, bux fixes&lt;/p&gt;&lt;p&gt;Released: 2019-07-01&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-1-D1) — firmware 10</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-1-D1.atom#10</id>
+    <updated>2019-07-01T19:43:21Z</updated>
+    <published>2019-07-01T19:43:21Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/71/10"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-1-D1&lt;/code&gt; — firmware 10&lt;/p&gt;&lt;p&gt;Part: RED POWER METER&lt;/p&gt;&lt;p&gt;Magic Zero auto-calibration, bux fixes&lt;/p&gt;&lt;p&gt;Released: 2019-07-01&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-1-D1-AERO) — firmware 10</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-1-D1-AERO.atom#10</id>
+    <updated>2019-07-01T19:43:21Z</updated>
+    <published>2019-07-01T19:43:21Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/72/10"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-1-D1-AERO&lt;/code&gt; — firmware 10&lt;/p&gt;&lt;p&gt;Part: RED POWER METER AERO&lt;/p&gt;&lt;p&gt;Magic Zero auto-calibration, bux fixes&lt;/p&gt;&lt;p&gt;Released: 2019-07-01&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-D1) — firmware 7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-D1.atom#7</id>
+    <updated>2018-05-29T21:22:46Z</updated>
+    <published>2018-05-29T21:22:46Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/73/7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-D1&lt;/code&gt; — firmware 7&lt;/p&gt;&lt;p&gt;Part: RED POWER METER 2X&lt;/p&gt;&lt;p&gt;Bug fixes&lt;/p&gt;&lt;p&gt;Released: 2018-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-1-D1) — firmware 7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-1-D1.atom#7</id>
+    <updated>2018-05-29T21:22:46Z</updated>
+    <published>2018-05-29T21:22:46Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/71/7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-1-D1&lt;/code&gt; — firmware 7&lt;/p&gt;&lt;p&gt;Part: RED POWER METER&lt;/p&gt;&lt;p&gt;Bug fixes&lt;/p&gt;&lt;p&gt;Released: 2018-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-1-D1-AERO) — firmware 7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-1-D1-AERO.atom#7</id>
+    <updated>2018-05-29T21:22:46Z</updated>
+    <published>2018-05-29T21:22:46Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/72/7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-1-D1-AERO&lt;/code&gt; — firmware 7&lt;/p&gt;&lt;p&gt;Part: RED POWER METER AERO&lt;/p&gt;&lt;p&gt;Bug fixes&lt;/p&gt;&lt;p&gt;Released: 2018-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-D1) — firmware 6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-D1.atom#6</id>
+    <updated>2018-03-30T19:05:26Z</updated>
+    <published>2018-03-30T19:05:26Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/73/6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-D1&lt;/code&gt; — firmware 6&lt;/p&gt;&lt;p&gt;Part: RED POWER METER 2X&lt;/p&gt;&lt;p&gt;Bug fix to improve battery life&lt;/p&gt;&lt;p&gt;Released: 2018-03-30&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-1-D1) — firmware 6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-1-D1.atom#6</id>
+    <updated>2018-03-30T19:05:26Z</updated>
+    <published>2018-03-30T19:05:26Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/71/6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-1-D1&lt;/code&gt; — firmware 6&lt;/p&gt;&lt;p&gt;Part: RED POWER METER&lt;/p&gt;&lt;p&gt;Bug fix to improve battery life&lt;/p&gt;&lt;p&gt;Released: 2018-03-30&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED POWER METER (PM-RED-1-D1-AERO) — firmware 6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/PM-RED-1-D1-AERO.atom#6</id>
+    <updated>2018-03-30T19:05:26Z</updated>
+    <published>2018-03-30T19:05:26Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/72/6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED POWER METER&lt;/strong&gt; &lt;code&gt;PM-RED-1-D1-AERO&lt;/code&gt; — firmware 6&lt;/p&gt;&lt;p&gt;Part: RED POWER METER AERO&lt;/p&gt;&lt;p&gt;Bug fix to improve battery life&lt;/p&gt;&lt;p&gt;Released: 2018-03-30&lt;/p&gt;</summary>
+  </entry>
+</feed>

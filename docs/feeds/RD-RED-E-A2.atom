@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RED RD eTAP 11 SPD (RD-RED-E-A2) — firmware</title>
+  <subtitle>Production firmware releases for SRAM RD-RED-E-A2.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-A2.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-A2.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2024-07-17T22:55:38Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>RED RD eTAP 11 SPD (RD-RED-E-A2) — firmware 1.1.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-A2.atom#1.1.1</id>
+    <updated>2024-07-17T22:55:38Z</updated>
+    <published>2024-07-17T22:55:38Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1053/1.1.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD eTAP 11 SPD&lt;/strong&gt; &lt;code&gt;RD-RED-E-A2&lt;/code&gt; — firmware 1.1.1&lt;/p&gt;&lt;p&gt;Part: One Less RD&lt;/p&gt;&lt;p&gt;Fix for inconsistent gearing reporting via ANT+&lt;/p&gt;&lt;p&gt;Released: 2024-07-17&lt;/p&gt;</summary>
+  </entry>
+</feed>

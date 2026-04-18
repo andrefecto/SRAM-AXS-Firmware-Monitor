@@ -1,0 +1,29 @@
+{
+  "model_code": "WH-TRWZ-E1",
+  "model_id": 1119,
+  "display_name": "QUARQ TYREWIZ 2",
+  "part_description": "QUARQ TYREWIZ 2",
+  "history": [
+    {
+      "version": "1.5.2",
+      "release_date": "2025-09-11",
+      "release_ts": 1757598216.889,
+      "release_notes": "Address edge cases where reference pressure was unable to be changed under very specific circumstances",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1119/1.5.2"
+    },
+    {
+      "version": "1.5.1",
+      "release_date": "2025-02-10",
+      "release_ts": 1739229819.884,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store\n\n     -Update to the \u201cShake to Wake\u201d feature to bring up both ANT and BLE interfaces.\n\n     -Sensor has been made to be more responsive to pressure changes.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1119/1.5.1"
+    },
+    {
+      "version": "1.1.1",
+      "release_date": "2023-09-21",
+      "release_ts": 1695310729.627,
+      "release_notes": "Initial Public Release",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1119/1.1.1"
+    }
+  ]
+}

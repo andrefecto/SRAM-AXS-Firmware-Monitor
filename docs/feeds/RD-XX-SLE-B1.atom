@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>XX SL RD (RD-XX-SLE-B1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM RD-XX-SLE-B1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-SLE-B1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-SLE-B1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2025-12-09T21:06:55Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>XX SL RD (RD-XX-SLE-B1) — firmware 2.54.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-SLE-B1.atom#2.54.2</id>
+    <updated>2025-12-09T21:06:55Z</updated>
+    <published>2025-12-09T21:06:55Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1058/2.54.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;XX SL RD&lt;/strong&gt; &lt;code&gt;RD-XX-SLE-B1&lt;/code&gt; — firmware 2.54.2&lt;/p&gt;&lt;p&gt;Part: RD TopGun T1 Race&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version before installing this Device Firmware Update. 
+  - This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>XX SL RD (RD-XX-SLE-B1) — firmware 2.53.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-SLE-B1.atom#2.53.8</id>
+    <updated>2025-09-19T12:09:00Z</updated>
+    <published>2025-09-19T12:09:00Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1058/2.53.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;XX SL RD&lt;/strong&gt; &lt;code&gt;RD-XX-SLE-B1&lt;/code&gt; — firmware 2.53.8&lt;/p&gt;&lt;p&gt;Part: RD TopGun T1 Race&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following enhancements. 
+
+    -This firmware update contains reduced Cassette Mapping shift intervals for multi-shift.&lt;/p&gt;&lt;p&gt;Released: 2025-09-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>XX SL RD (RD-XX-SLE-B1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-SLE-B1.atom#2.53.1</id>
+    <updated>2025-09-09T13:34:50Z</updated>
+    <published>2025-09-09T13:34:50Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1058/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;XX SL RD&lt;/strong&gt; &lt;code&gt;RD-XX-SLE-B1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: RD TopGun T1 Race&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>XX SL RD (RD-XX-SLE-B1) — firmware 2.47.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-SLE-B1.atom#2.47.2</id>
+    <updated>2024-04-05T06:07:50Z</updated>
+    <published>2024-04-05T06:07:50Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1058/2.47.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;XX SL RD&lt;/strong&gt; &lt;code&gt;RD-XX-SLE-B1&lt;/code&gt; — firmware 2.47.2&lt;/p&gt;&lt;p&gt;Part: RD TopGun T1 Race&lt;/p&gt;&lt;p&gt;Optimize MicroAdjustment range for Eagle Transmission
+Supports SRAM production changes&lt;/p&gt;&lt;p&gt;Released: 2024-04-05&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>XX SL RD (RD-XX-SLE-B1) — firmware 2.48.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-SLE-B1.atom#2.48.0</id>
+    <updated>2024-02-20T00:31:49Z</updated>
+    <published>2024-02-20T00:31:49Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1058/2.48.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;XX SL RD&lt;/strong&gt; &lt;code&gt;RD-XX-SLE-B1&lt;/code&gt; — firmware 2.48.0&lt;/p&gt;&lt;p&gt;Part: RD TopGun T1 Race&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-02-20&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>XX SL RD (RD-XX-SLE-B1) — firmware 2.46.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-SLE-B1.atom#2.46.5</id>
+    <updated>2023-10-03T15:02:08Z</updated>
+    <published>2023-10-03T15:02:08Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1058/2.46.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;XX SL RD&lt;/strong&gt; &lt;code&gt;RD-XX-SLE-B1&lt;/code&gt; — firmware 2.46.5&lt;/p&gt;&lt;p&gt;Part: RD TopGun T1 Race&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-10-03&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>XX SL RD (RD-XX-SLE-B1) — firmware 2.43.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-SLE-B1.atom#2.43.2</id>
+    <updated>2023-03-01T16:28:33Z</updated>
+    <published>2023-03-01T16:28:33Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1058/2.43.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;XX SL RD&lt;/strong&gt; &lt;code&gt;RD-XX-SLE-B1&lt;/code&gt; — firmware 2.43.2&lt;/p&gt;&lt;p&gt;Part: RD TopGun T1 Race&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-03-01&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>XX SL RD (RD-XX-SLE-B1) — firmware 2.41.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-SLE-B1.atom#2.41.1</id>
+    <updated>2022-12-14T04:00:35Z</updated>
+    <published>2022-12-14T04:00:35Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1058/2.41.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;XX SL RD&lt;/strong&gt; &lt;code&gt;RD-XX-SLE-B1&lt;/code&gt; — firmware 2.41.1&lt;/p&gt;&lt;p&gt;Part: RD TopGun T1 Race&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting. Added support for MicroAdjust using the AXS App.&lt;/p&gt;&lt;p&gt;Released: 2022-12-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>XX SL RD (RD-XX-SLE-B1) — firmware 2.35.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-SLE-B1.atom#2.35.0</id>
+    <updated>2022-04-21T18:07:10Z</updated>
+    <published>2022-04-21T18:07:10Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1058/2.35.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;XX SL RD&lt;/strong&gt; &lt;code&gt;RD-XX-SLE-B1&lt;/code&gt; — firmware 2.35.0&lt;/p&gt;&lt;p&gt;Part: RD TopGun T1 Race&lt;/p&gt;&lt;p&gt;- Improve connection reliability with the AXS App and third-party head units.  - Support for MicroAdjust using the AXS App on MTB RD´s  - Idle time before component enters sleep-mode increased to 5 minutes.  - Minor improvements to battery life&lt;/p&gt;&lt;p&gt;Released: 2022-04-21&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>XX SL RD (RD-XX-SLE-B1) — firmware 2.19.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-SLE-B1.atom#2.19.5</id>
+    <updated>2021-10-19T13:09:05Z</updated>
+    <published>2021-10-19T13:09:05Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1058/2.19.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;XX SL RD&lt;/strong&gt; &lt;code&gt;RD-XX-SLE-B1&lt;/code&gt; — firmware 2.19.5&lt;/p&gt;&lt;p&gt;Part: RD TopGun T1 Race&lt;/p&gt;&lt;p&gt;Required update for Flight Attendant equipped bikes.&lt;/p&gt;&lt;p&gt;Released: 2021-10-19&lt;/p&gt;</summary>
+  </entry>
+</feed>

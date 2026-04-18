@@ -1,0 +1,64 @@
+{
+  "model_code": "RD-APX-1E-D1",
+  "model_id": 1101,
+  "display_name": "APEX RD XPLR MAX 44T",
+  "part_description": "APEX RD XPLR",
+  "history": [
+    {
+      "version": "2.54.0",
+      "release_date": "2025-12-09",
+      "release_ts": 1765313934.186,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version \u00a0before installing this Device Firmware Update.\n\n\u00a0\n\nThis firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1101/2.54.0"
+    },
+    {
+      "version": "2.53.1",
+      "release_date": "2025-09-17",
+      "release_ts": 1758141549.017,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1101/2.53.1"
+    },
+    {
+      "version": "2.49.6",
+      "release_date": "2024-10-05",
+      "release_ts": 1728087837.08,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements. \nFW 2.49.6 contains improvements in the support and verification of the Firmware during the factory production of the Rear Derailleur.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1101/2.49.6"
+    },
+    {
+      "version": "2.49.4",
+      "release_date": "2024-08-14",
+      "release_ts": 1723674696.699,
+      "release_notes": "Minor Bug Fixes, Platform updates, and reliability improvements",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1101/2.49.4"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016385.854,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1101/2.49.1"
+    },
+    {
+      "version": "2.48.2",
+      "release_date": "2024-04-19",
+      "release_ts": 1713489204.94,
+      "release_notes": "Platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1101/2.48.2"
+    },
+    {
+      "version": "2.46.5",
+      "release_date": "2023-10-03",
+      "release_ts": 1696345326.042,
+      "release_notes": "Platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1101/2.46.5"
+    },
+    {
+      "version": "2.41.0",
+      "release_date": "2022-12-14",
+      "release_ts": 1670989559.143,
+      "release_notes": "Initial Public Release",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1101/2.41.0"
+    }
+  ]
+}

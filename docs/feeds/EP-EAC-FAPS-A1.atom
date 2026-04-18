@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AXS PEDAL SENSOR (EP-EAC-FAPS-A1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM EP-EAC-FAPS-A1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EP-EAC-FAPS-A1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EP-EAC-FAPS-A1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2024-05-30T15:34:52Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>AXS PEDAL SENSOR (EP-EAC-FAPS-A1) — firmware 2.48.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EP-EAC-FAPS-A1.atom#2.48.4</id>
+    <updated>2024-05-30T15:34:52Z</updated>
+    <published>2024-05-30T15:34:52Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1040/2.48.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;AXS PEDAL SENSOR&lt;/strong&gt; &lt;code&gt;EP-EAC-FAPS-A1&lt;/code&gt; — firmware 2.48.4&lt;/p&gt;&lt;p&gt;Part: Eagle DUB AXS Pedal Sensor&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.
+Firmware version 2.48.4 provides improved app connectivity for Eagle Powertrain systems equipped with Flight Attendant. A new profile has been added to allow E-bike ANT signals for Flight Attendant pedaling source. General improvements to Flight Attendant systems are also included in this update to forks, shocks, and pedal sensors.&lt;/p&gt;&lt;p&gt;Released: 2024-05-30&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>AXS PEDAL SENSOR (EP-EAC-FAPS-A1) — firmware 2.19.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EP-EAC-FAPS-A1.atom#2.19.5</id>
+    <updated>2021-09-30T22:14:36Z</updated>
+    <published>2021-09-30T22:14:36Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1040/2.19.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;AXS PEDAL SENSOR&lt;/strong&gt; &lt;code&gt;EP-EAC-FAPS-A1&lt;/code&gt; — firmware 2.19.5&lt;/p&gt;&lt;p&gt;Part: Eagle DUB AXS Pedal Sensor&lt;/p&gt;&lt;p&gt;Version 2.19.5 for release to AXS mobile application  This is the initial public release of Flight Attendant Pedal Sensor firmware.&lt;/p&gt;&lt;p&gt;Released: 2021-09-30&lt;/p&gt;</summary>
+  </entry>
+</feed>

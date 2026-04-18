@@ -1,0 +1,22 @@
+{
+  "model_code": "WH-TRWZ-C1",
+  "model_id": 1125,
+  "display_name": "ZIPP AXS WHEEL SENSOR",
+  "part_description": "ZIPPWIZ",
+  "history": [
+    {
+      "version": "1.5.2",
+      "release_date": "2025-09-11",
+      "release_ts": 1757598217.031,
+      "release_notes": "Address edge cases where reference pressure was unable to be changed under very specific circumstances",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1125/1.5.2"
+    },
+    {
+      "version": "1.5.1",
+      "release_date": "2025-02-10",
+      "release_ts": 1739229822.024,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store\n\n      -Update to the \u201cShake to Wake\u201d feature to bring up both ANT and BLE interfaces.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1125/1.5.1"
+    }
+  ]
+}

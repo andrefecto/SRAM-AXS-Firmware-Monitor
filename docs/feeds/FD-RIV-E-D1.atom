@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RIVAL FD (FD-RIV-E-D1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM FD-RIV-E-D1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RIV-E-D1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RIV-E-D1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2025-12-09T20:58:53Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>RIVAL FD (FD-RIV-E-D1) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RIV-E-D1.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:53Z</updated>
+    <published>2025-12-09T20:58:53Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1037/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL FD&lt;/strong&gt; &lt;code&gt;FD-RIV-E-D1&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: RIVAL FD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL FD (FD-RIV-E-D1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RIV-E-D1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:05Z</updated>
+    <published>2025-09-17T20:39:05Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1037/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL FD&lt;/strong&gt; &lt;code&gt;FD-RIV-E-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: RIVAL FD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL FD (FD-RIV-E-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RIV-E-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:36Z</updated>
+    <published>2024-05-29T20:59:36Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1037/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL FD&lt;/strong&gt; &lt;code&gt;FD-RIV-E-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: RIVAL FD&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL FD (FD-RIV-E-D1) — firmware 2.48.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RIV-E-D1.atom#2.48.0</id>
+    <updated>2024-02-20T00:31:40Z</updated>
+    <published>2024-02-20T00:31:40Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1037/2.48.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL FD&lt;/strong&gt; &lt;code&gt;FD-RIV-E-D1&lt;/code&gt; — firmware 2.48.0&lt;/p&gt;&lt;p&gt;Part: RIVAL FD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-02-20&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL FD (FD-RIV-E-D1) — firmware 2.46.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RIV-E-D1.atom#2.46.0</id>
+    <updated>2023-08-02T16:34:58Z</updated>
+    <published>2023-08-02T16:34:58Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1037/2.46.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL FD&lt;/strong&gt; &lt;code&gt;FD-RIV-E-D1&lt;/code&gt; — firmware 2.46.0&lt;/p&gt;&lt;p&gt;Part: RIVAL FD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-08-02&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL FD (FD-RIV-E-D1) — firmware 2.42.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RIV-E-D1.atom#2.42.1</id>
+    <updated>2023-03-15T18:30:28Z</updated>
+    <published>2023-03-15T18:30:28Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1037/2.42.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL FD&lt;/strong&gt; &lt;code&gt;FD-RIV-E-D1&lt;/code&gt; — firmware 2.42.1&lt;/p&gt;&lt;p&gt;Part: RIVAL FD&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-03-15&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL FD (FD-RIV-E-D1) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RIV-E-D1.atom#2.41.0</id>
+    <updated>2023-01-11T20:10:23Z</updated>
+    <published>2023-01-11T20:10:23Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1037/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL FD&lt;/strong&gt; &lt;code&gt;FD-RIV-E-D1&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: RIVAL FD&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.&lt;/p&gt;&lt;p&gt;Released: 2023-01-11&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL FD (FD-RIV-E-D1) — firmware 2.32.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RIV-E-D1.atom#2.32.0</id>
+    <updated>2022-02-09T16:16:58Z</updated>
+    <published>2022-02-09T16:16:58Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1037/2.32.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL FD&lt;/strong&gt; &lt;code&gt;FD-RIV-E-D1&lt;/code&gt; — firmware 2.32.0&lt;/p&gt;&lt;p&gt;Part: RIVAL FD&lt;/p&gt;&lt;p&gt;- Improve connection reliability with the AXS App and third-party head units.  - Idle time before component enters sleep-mode increased to 5 minutes.  - New Configure Controls logic allows available shift/actuation actions to be assigned in any arrangement.  - Bug Fix - Mismatched road controller upshift/downshift settings are no longer reset when the derailleur/seat post battery is removed.  - Bug Fix - Resolved conditions where sequential shift could come out of sequence unexpectedly.&lt;/p&gt;&lt;p&gt;Released: 2022-02-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL FD (FD-RIV-E-D1) — firmware 2.7.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RIV-E-D1.atom#2.7.3</id>
+    <updated>2021-05-14T22:32:57Z</updated>
+    <published>2021-05-14T22:32:57Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1037/2.7.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL FD&lt;/strong&gt; &lt;code&gt;FD-RIV-E-D1&lt;/code&gt; — firmware 2.7.3&lt;/p&gt;&lt;p&gt;Part: RIVAL FD&lt;/p&gt;&lt;p&gt;Bug fixes and optimizations.&lt;/p&gt;&lt;p&gt;Released: 2021-05-14&lt;/p&gt;</summary>
+  </entry>
+</feed>

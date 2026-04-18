@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SRAM S1000 / S500 Eagle Transmission</title>
+  <subtitle>Entry-tier Eagle Transmission derailleurs.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/transmission-s1000-s500.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/transmission-s1000-s500.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2026-04-07T14:09:00Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>EAGLE RD (RD-S500-E-B1) — firmware 2.54.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-S500-E-B1.atom#2.54.2</id>
+    <updated>2026-04-07T14:09:00Z</updated>
+    <published>2026-04-07T14:09:00Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1213/2.54.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EAGLE RD&lt;/strong&gt; &lt;code&gt;RD-S500-E-B1&lt;/code&gt; — firmware 2.54.2&lt;/p&gt;&lt;p&gt;Part: EAGLE CONSOLIDATION RD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version before installing this Device Firmware Update. 
+  - This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2026-04-07&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>S1000 RD (RD-S1000-E-A1) — firmware 2.54.9</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-S1000-E-A1.atom#2.54.9</id>
+    <updated>2026-02-11T21:10:55Z</updated>
+    <published>2026-02-11T21:10:55Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1132/2.54.9"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;S1000 RD&lt;/strong&gt; &lt;code&gt;RD-S1000-E-A1&lt;/code&gt; — firmware 2.54.9&lt;/p&gt;&lt;p&gt;Part: S1000 RD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version  before installing this Device Firmware Update.
+     - Minor Bugfix and reliability improvement.&lt;/p&gt;&lt;p&gt;Released: 2026-02-11&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>S1000 RD (RD-S1000-E-A1) — firmware 2.54.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-S1000-E-A1.atom#2.54.6</id>
+    <updated>2025-12-15T14:37:58Z</updated>
+    <published>2025-12-15T14:37:58Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1132/2.54.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;S1000 RD&lt;/strong&gt; &lt;code&gt;RD-S1000-E-A1&lt;/code&gt; — firmware 2.54.6&lt;/p&gt;&lt;p&gt;Part: S1000 RD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+* This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.
+* This firmware expands the outboard MicroAdjust trim range of GX and S1000 Eagle Transmission derailleurs from 14 to 23 positions allowing you to further optimize shift performance.&lt;/p&gt;&lt;p&gt;Released: 2025-12-15&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>S1000 RD (RD-S1000-E-A1) — firmware 2.53.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-S1000-E-A1.atom#2.53.8</id>
+    <updated>2025-09-19T12:09:01Z</updated>
+    <published>2025-09-19T12:09:01Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1132/2.53.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;S1000 RD&lt;/strong&gt; &lt;code&gt;RD-S1000-E-A1&lt;/code&gt; — firmware 2.53.8&lt;/p&gt;&lt;p&gt;Part: S1000 RD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following enhancements. 
+
+    -This firmware update contains reduced Cassette Mapping shift intervals for multi-shift.&lt;/p&gt;&lt;p&gt;Released: 2025-09-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>S1000 RD (RD-S1000-E-A1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-S1000-E-A1.atom#2.53.1</id>
+    <updated>2025-09-09T13:34:51Z</updated>
+    <published>2025-09-09T13:34:51Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1132/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;S1000 RD&lt;/strong&gt; &lt;code&gt;RD-S1000-E-A1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: S1000 RD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>S1000 RD (RD-S1000-E-A1) — firmware 2.49.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-S1000-E-A1.atom#2.49.8</id>
+    <updated>2024-12-13T11:25:31Z</updated>
+    <published>2024-12-13T11:25:31Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1132/2.49.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;S1000 RD&lt;/strong&gt; &lt;code&gt;RD-S1000-E-A1&lt;/code&gt; — firmware 2.49.8&lt;/p&gt;&lt;p&gt;Part: S1000 RD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2024-12-13&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>S1000 RD (RD-S1000-E-A1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-S1000-E-A1.atom#2.49.1</id>
+    <updated>2024-05-29T21:00:04Z</updated>
+    <published>2024-05-29T21:00:04Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1132/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;S1000 RD&lt;/strong&gt; &lt;code&gt;RD-S1000-E-A1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: S1000 RD&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>S1000 RD (RD-S1000-E-A1) — firmware 2.48.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-S1000-E-A1.atom#2.48.0</id>
+    <updated>2024-02-20T00:32:16Z</updated>
+    <published>2024-02-20T00:32:16Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1132/2.48.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;S1000 RD&lt;/strong&gt; &lt;code&gt;RD-S1000-E-A1&lt;/code&gt; — firmware 2.48.0&lt;/p&gt;&lt;p&gt;Part: S1000 RD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-02-20&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>S1000 RD (RD-S1000-E-A1) — firmware 2.46.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-S1000-E-A1.atom#2.46.8</id>
+    <updated>2023-11-08T01:39:11Z</updated>
+    <published>2023-11-08T01:39:11Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1132/2.46.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;S1000 RD&lt;/strong&gt; &lt;code&gt;RD-S1000-E-A1&lt;/code&gt; — firmware 2.46.8&lt;/p&gt;&lt;p&gt;Part: S1000 RD&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-11-08&lt;/p&gt;</summary>
+  </entry>
+</feed>

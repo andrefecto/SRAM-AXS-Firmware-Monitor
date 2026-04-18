@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SID SL ULTIMATE (FS-SIDS-UFA-D1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM FS-SIDS-UFA-D1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-SIDS-UFA-D1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-SIDS-UFA-D1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2026-04-16T14:11:44Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>SID SL ULTIMATE (FS-SIDS-UFA-D1) — firmware 2.54.10</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-SIDS-UFA-D1.atom#2.54.10</id>
+    <updated>2026-04-16T14:11:44Z</updated>
+    <published>2026-04-16T14:11:44Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1087/2.54.10"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SID SL ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-SIDS-UFA-D1&lt;/code&gt; — firmware 2.54.10&lt;/p&gt;&lt;p&gt;Part: SID SL ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+- “FA Mode” data field on Karoo Bike Computer to show Error States for the Flight Attendant System, should they occur.
+- Minor bug fixes and production systems support.&lt;/p&gt;&lt;p&gt;Released: 2026-04-16&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SID SL ULTIMATE (FS-SIDS-UFA-D1) — firmware 2.54.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-SIDS-UFA-D1.atom#2.54.3</id>
+    <updated>2025-12-09T21:10:50Z</updated>
+    <published>2025-12-09T21:10:50Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1087/2.54.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SID SL ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-SIDS-UFA-D1&lt;/code&gt; — firmware 2.54.3&lt;/p&gt;&lt;p&gt;Part: SID SL ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+- This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.  
+
+- Improved Damper Shifting Performance of Fork.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SID SL ULTIMATE (FS-SIDS-UFA-D1) — firmware 2.53.9</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-SIDS-UFA-D1.atom#2.53.9</id>
+    <updated>2025-10-16T15:58:18Z</updated>
+    <published>2025-10-16T15:58:18Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1087/2.53.9"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SID SL ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-SIDS-UFA-D1&lt;/code&gt; — firmware 2.53.9&lt;/p&gt;&lt;p&gt;Part: SID SL ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and KAROO is on the latest version to activate the following improvements. This firmware update contains:
+
+New system integration features between Flight Attendant Systems and the Karoo Bike Computers.
+
+You can now track FA suspension state, operating mode, actuation counts, battery, and more in-ride on your Karoo.
+
+You can also see FA suspension state with GPS data for your ride on Hammerhead Dashboard
+
+Broadened adjustable range for Low Speed Compression settings for Pike, Lyrik, and Zeb forks with Charger 3 dampers to allow for firmer setups.
+
+You may want to decrease LSC by one click to compensate for the new range
+
+Fixed inconsistent behavior when exiting Override mode going back to Auto mode.&lt;/p&gt;&lt;p&gt;Released: 2025-10-16&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SID SL ULTIMATE (FS-SIDS-UFA-D1) — firmware 2.48.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-SIDS-UFA-D1.atom#2.48.8</id>
+    <updated>2025-08-12T13:26:48Z</updated>
+    <published>2025-08-12T13:26:48Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1087/2.48.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SID SL ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-SIDS-UFA-D1&lt;/code&gt; — firmware 2.48.8&lt;/p&gt;&lt;p&gt;Part: SID SL ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store before installing this update
+
+This Firmware update allows for the disabling of the pedal suspension state in Auto Mode&lt;/p&gt;&lt;p&gt;Released: 2025-08-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SID SL ULTIMATE (FS-SIDS-UFA-D1) — firmware 2.48.7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-SIDS-UFA-D1.atom#2.48.7</id>
+    <updated>2025-03-13T19:56:23Z</updated>
+    <published>2025-03-13T19:56:23Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1087/2.48.7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SID SL ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-SIDS-UFA-D1&lt;/code&gt; — firmware 2.48.7&lt;/p&gt;&lt;p&gt;Part: SID SL ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store before installing this update
+
+-New Flight Attendant Feature: Auto Mode for Fork-only/Hardtail systems
+
+-Improved behavior when exiting override mode back to auto mode&lt;/p&gt;&lt;p&gt;Released: 2025-03-13&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SID SL ULTIMATE (FS-SIDS-UFA-D1) — firmware 2.48.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-SIDS-UFA-D1.atom#2.48.6</id>
+    <updated>2024-08-12T17:40:19Z</updated>
+    <published>2024-08-12T17:40:19Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1087/2.48.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SID SL ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-SIDS-UFA-D1&lt;/code&gt; — firmware 2.48.6&lt;/p&gt;&lt;p&gt;Part: SID SL ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.
+ 
+-Firmware version 2.48.6 improves damper actuation recovery protocol when errors are detected by the Flight Attendant fork module. See the Flight Attendant Guide in the AXS app for more information on Damper Error Mode.
+-Improved app connectivity for Flight Attendant when paired to Eagle Powertrain systems.
+-A new profile has been added to allow E-bike ANT signals for Flight Attendant pedaling source.&lt;/p&gt;&lt;p&gt;Released: 2024-08-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SID SL ULTIMATE (FS-SIDS-UFA-D1) — firmware 2.44.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-SIDS-UFA-D1.atom#2.44.6</id>
+    <updated>2023-08-28T22:59:40Z</updated>
+    <published>2023-08-28T22:59:40Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1087/2.44.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SID SL ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-SIDS-UFA-D1&lt;/code&gt; — firmware 2.44.6&lt;/p&gt;&lt;p&gt;Part: SID SL ULTIMATE&lt;/p&gt;&lt;p&gt;Algorithm advancements, Race Day damper support, power meter integration&lt;/p&gt;&lt;p&gt;Released: 2023-08-28&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,43 @@
+{
+  "model_code": "RD-RED-E1",
+  "model_id": 1082,
+  "display_name": "RED RD",
+  "part_description": "Red24 2x",
+  "history": [
+    {
+      "version": "2.54.4",
+      "release_date": "2025-12-09",
+      "release_ts": 1765314817.183,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.\n\n \n\n- This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.  \n\n- Future Product Support",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1082/2.54.4"
+    },
+    {
+      "version": "2.53.1",
+      "release_date": "2025-09-17",
+      "release_ts": 1758141547.268,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1082/2.53.1"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016397.78,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1082/2.49.1"
+    },
+    {
+      "version": "2.48.2",
+      "release_date": "2024-04-19",
+      "release_ts": 1713489206.519,
+      "release_notes": "Platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1082/2.48.2"
+    },
+    {
+      "version": "2.46.8",
+      "release_date": "2023-11-08",
+      "release_ts": 1699407549.933,
+      "release_notes": "Platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1082/2.46.8"
+    }
+  ]
+}

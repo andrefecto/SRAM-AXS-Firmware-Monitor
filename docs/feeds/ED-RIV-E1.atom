@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RIVAL CONTROLLER (L) (ED-RIV-E1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM ED-RIV-E1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RIV-E1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RIV-E1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2025-09-17T20:39:14Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>RIVAL CONTROLLER (L) (ED-RIV-E1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RIV-E1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:14Z</updated>
+    <published>2025-09-17T20:39:14Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1179/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL CONTROLLER (L)&lt;/strong&gt; &lt;code&gt;ED-RIV-E1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FIVAL Rival ED (L)&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RIVAL CONTROLLER (L) (ED-RIV-E1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RIV-E1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:51Z</updated>
+    <published>2024-05-29T20:59:51Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1179/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL CONTROLLER (L)&lt;/strong&gt; &lt;code&gt;ED-RIV-E1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FIVAL Rival ED (L)&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+</feed>

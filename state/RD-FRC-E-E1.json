@@ -1,0 +1,29 @@
+{
+  "model_code": "RD-FRC-E-E1",
+  "model_id": 1136,
+  "display_name": "FORCE RD",
+  "part_description": "FIVAL FORCE RD 2x",
+  "history": [
+    {
+      "version": "2.54.4",
+      "release_date": "2025-12-09",
+      "release_ts": 1765314817.318,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.\n\n \n\n- This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.  \n\n- Future Product Support",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1136/2.54.4"
+    },
+    {
+      "version": "2.53.1",
+      "release_date": "2025-09-17",
+      "release_ts": 1758141550.65,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1136/2.53.1"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016398.324,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1136/2.49.1"
+    }
+  ]
+}

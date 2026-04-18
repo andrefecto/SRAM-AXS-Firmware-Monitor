@@ -1,0 +1,57 @@
+{
+  "model_code": "EB-FRC-D1",
+  "model_id": 1010,
+  "display_name": "FORCE CONTROLLER (R)",
+  "part_description": "EB R FORCE",
+  "history": [
+    {
+      "version": "2.53.2",
+      "release_date": "2025-09-17",
+      "release_ts": 1758141880.671,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.\u00a0\n\nThis firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.53.2"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016373.816,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.49.1"
+    },
+    {
+      "version": "2.42.0",
+      "release_date": "2023-01-12",
+      "release_ts": 1673557612.474,
+      "release_notes": "General bug fixes and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.42.0"
+    },
+    {
+      "version": "2.29.6",
+      "release_date": "2022-02-07",
+      "release_ts": 1644264051.207,
+      "release_notes": "* Fixed bug: rapidly pressing Clics or Blips prevents derailleur(s) from actuating * Fixed bug: pressing and holding a brake-shift lever AXS button for an extended period can unpair shifter from system",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.29.6"
+    },
+    {
+      "version": "2.29.4",
+      "release_date": "2021-12-02",
+      "release_ts": 1638466354.969,
+      "release_notes": "Battery life improvements \u2013 LED illuminates for a shorter period of time when shifter powers up with a low battery. eTap 11-speed derailleur compatibility added \u2013 RED and Force eTap AXS 12-speed shift-brake levers and eTap AXS BlipBox can now be paired with legacy eTap 11-speed front and rear derailleurs.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.29.4"
+    },
+    {
+      "version": "2.3.6",
+      "release_date": "2020-06-12",
+      "release_ts": 1591996876.709,
+      "release_notes": "Resolved issue with high battery consumption in some units.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.3.6"
+    },
+    {
+      "version": "2.3.2",
+      "release_date": "2020-06-12",
+      "release_ts": 1591996862.377,
+      "release_notes": "Initial release.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1010/2.3.2"
+    }
+  ]
+}

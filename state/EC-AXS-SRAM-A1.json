@@ -1,0 +1,43 @@
+{
+  "model_code": "EC-AXS-SRAM-A1",
+  "model_id": 1015,
+  "display_name": "AXS CONTROLLER (R)",
+  "part_description": "ES XX1",
+  "history": [
+    {
+      "version": "2.53.1",
+      "release_date": "2025-09-09",
+      "release_ts": 1757424889.965,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1015/2.53.1"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016388.165,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1015/2.49.1"
+    },
+    {
+      "version": "2.42.0",
+      "release_date": "2023-01-12",
+      "release_ts": 1673557614.906,
+      "release_notes": "General bug fixes and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1015/2.42.0"
+    },
+    {
+      "version": "2.7.8",
+      "release_date": "2022-12-14",
+      "release_ts": 1670989181.57,
+      "release_notes": "Supports regular SRAM production changes, contains no functional alterations or enhancements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1015/2.7.8"
+    },
+    {
+      "version": "2.3.0",
+      "release_date": "2020-06-12",
+      "release_ts": 1591997016.866,
+      "release_notes": "Initial release.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1015/2.3.0"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM RD-FRC1-E-D1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2025-12-09T20:58:53Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:53Z</updated>
+    <published>2025-12-09T20:58:53Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:06Z</updated>
+    <published>2025-09-17T20:39:06Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.49.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.49.6</id>
+    <updated>2024-10-05T00:23:55Z</updated>
+    <published>2024-10-05T00:23:55Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.49.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.49.6&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements. 
+FW 2.49.6 contains improvements in the support and verification of the Firmware during the factory production of the Rear Derailleur.&lt;/p&gt;&lt;p&gt;Released: 2024-10-05&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.49.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.49.4</id>
+    <updated>2024-08-14T22:31:35Z</updated>
+    <published>2024-08-14T22:31:35Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.49.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.49.4&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Minor Bug Fixes, Platform updates, and reliability improvements&lt;/p&gt;&lt;p&gt;Released: 2024-08-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.49.1</id>
+    <updated>2024-05-29T20:59:44Z</updated>
+    <published>2024-05-29T20:59:44Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;* Minor Bug Fixes, Platform updates and reliability improvements 
+* Default shift assignment added for wireless blips&lt;/p&gt;&lt;p&gt;Released: 2024-05-29&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.48.2</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.48.2</id>
+    <updated>2024-04-19T01:13:23Z</updated>
+    <published>2024-04-19T01:13:23Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.48.2"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.48.2&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2024-04-19&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.46.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.46.5</id>
+    <updated>2023-10-03T15:02:05Z</updated>
+    <published>2023-10-03T15:02:05Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.46.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.46.5&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2023-10-03&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.41.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.41.0</id>
+    <updated>2022-12-14T03:45:58Z</updated>
+    <published>2022-12-14T03:45:58Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.41.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.41.0&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;General bug fixes and reliability improvements. General improvements to Ant+ gear position and battery status reporting.&lt;/p&gt;&lt;p&gt;Released: 2022-12-14&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.32.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.32.0</id>
+    <updated>2022-02-09T16:15:19Z</updated>
+    <published>2022-02-09T16:15:19Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.32.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.32.0&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;- Improve connection reliability with the AXS App and third-party head units.  - Idle time before component enters sleep-mode increased to 5 minutes.  - New Configure Controls logic allows available shift/actuation actions to be assigned in any arrangement.  - Bug Fix - Mismatched road controller upshift/downshift settings are no longer reset when the derailleur/seat post battery is removed.  - Bug Fix - Resolved conditions where sequential shift could come out of sequence unexpectedly.&lt;/p&gt;&lt;p&gt;Released: 2022-02-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.7.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.7.6</id>
+    <updated>2021-08-09T22:26:31Z</updated>
+    <published>2021-08-09T22:26:31Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.7.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.7.6&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Additional product support.&lt;/p&gt;&lt;p&gt;Released: 2021-08-09&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,43 @@
+{
+  "model_code": "RS-SIDL-STFA-A2",
+  "model_id": 1131,
+  "display_name": "SIDLUXE SCOTT ULTIMATE AXS",
+  "part_description": "SIDLUXE SCOTT ULTIMATE AXS",
+  "history": [
+    {
+      "version": "2.54.10",
+      "release_date": "2026-04-16",
+      "release_ts": 1776348705.596,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version \u00a0before installing this Device Firmware Update.\n- \u201cFA Mode\u201d data field on Karoo Bike Computer to show Error States for the Flight Attendant System, should they occur.\n- Minor bug fixes and production systems support.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1131/2.54.10"
+    },
+    {
+      "version": "2.54.3",
+      "release_date": "2025-12-09",
+      "release_ts": 1765314650.845,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.\n\n \n\nThis firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1131/2.54.3"
+    },
+    {
+      "version": "2.53.10",
+      "release_date": "2025-10-16",
+      "release_ts": 1760630335.998,
+      "release_notes": "Please ensure your AXS App and KAROO is on the latest version to activate the following improvements. This firmware update contains:\n\nNew system integration features between Flight Attendant Systems and the Karoo Bike Computers.\n\nYou can now track FA suspension state, operating mode, actuation counts, battery, and more in-ride on your Karoo.\n\nYou can also see FA suspension state with GPS data for your ride on Hammerhead Dashboard",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1131/2.53.10"
+    },
+    {
+      "version": "2.48.4",
+      "release_date": "2024-05-30",
+      "release_ts": 1717083294.079,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.\nFirmware version 2.48.4 provides improved app connectivity for Eagle Powertrain systems equipped with Flight Attendant. A new profile has been added to allow E-bike ANT signals for Flight Attendant pedaling source. General improvements to Flight Attendant systems are also included in this update to forks, shocks, and pedal sensors.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1131/2.48.4"
+    },
+    {
+      "version": "2.44.8",
+      "release_date": "2024-01-11",
+      "release_ts": 1704991937.39,
+      "release_notes": "Algorithm advancements, SIDLuxe support",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1131/2.44.8"
+    }
+  ]
+}

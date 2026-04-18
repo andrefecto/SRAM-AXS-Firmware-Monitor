@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZEB ULTIMATE (FS-ZEB-UFA-XX) — firmware</title>
+  <subtitle>Production firmware releases for SRAM FS-ZEB-UFA-XX.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2026-04-16T14:11:43Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>ZEB ULTIMATE (FS-ZEB-UFA-XX) — firmware 2.54.10</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom#2.54.10</id>
+    <updated>2026-04-16T14:11:43Z</updated>
+    <published>2026-04-16T14:11:43Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.54.10"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;ZEB ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-ZEB-UFA-XX&lt;/code&gt; — firmware 2.54.10&lt;/p&gt;&lt;p&gt;Part: ZEB ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+- “FA Mode” data field on Karoo Bike Computer to show Error States for the Flight Attendant System, should they occur.
+- Minor bug fixes and production systems support.&lt;/p&gt;&lt;p&gt;Released: 2026-04-16&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZEB ULTIMATE (FS-ZEB-UFA-XX) — firmware 2.53.9</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom#2.53.9</id>
+    <updated>2025-10-16T15:58:18Z</updated>
+    <published>2025-10-16T15:58:18Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.53.9"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;ZEB ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-ZEB-UFA-XX&lt;/code&gt; — firmware 2.53.9&lt;/p&gt;&lt;p&gt;Part: ZEB ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and KAROO is on the latest version to activate the following improvements. This firmware update contains:
+
+New system integration features between Flight Attendant Systems and the Karoo Bike Computers.
+
+You can now track FA suspension state, operating mode, actuation counts, battery, and more in-ride on your Karoo.
+
+You can also see FA suspension state with GPS data for your ride on Hammerhead Dashboard
+
+Broadened adjustable range for Low Speed Compression settings for Pike, Lyrik, and Zeb forks with Charger 3 dampers to allow for firmer setups.
+
+You may want to decrease LSC by one click to compensate for the new range
+
+Fixed inconsistent behavior when exiting Override mode going back to Auto mode.&lt;/p&gt;&lt;p&gt;Released: 2025-10-16&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZEB ULTIMATE (FS-ZEB-UFA-XX) — firmware 2.48.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom#2.48.8</id>
+    <updated>2025-08-12T13:26:48Z</updated>
+    <published>2025-08-12T13:26:48Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.48.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;ZEB ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-ZEB-UFA-XX&lt;/code&gt; — firmware 2.48.8&lt;/p&gt;&lt;p&gt;Part: ZEB ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store before installing this update
+
+This Firmware update allows for the disabling of the pedal suspension state in Auto Mode&lt;/p&gt;&lt;p&gt;Released: 2025-08-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZEB ULTIMATE (FS-ZEB-UFA-XX) — firmware 2.48.7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom#2.48.7</id>
+    <updated>2025-03-13T19:56:22Z</updated>
+    <published>2025-03-13T19:56:22Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.48.7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;ZEB ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-ZEB-UFA-XX&lt;/code&gt; — firmware 2.48.7&lt;/p&gt;&lt;p&gt;Part: ZEB ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store before installing this update
+
+-New Flight Attendant Feature: Auto Mode for Fork-only/Hardtail systems
+
+-Improved behavior when exiting override mode back to auto mode&lt;/p&gt;&lt;p&gt;Released: 2025-03-13&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZEB ULTIMATE (FS-ZEB-UFA-XX) — firmware 2.48.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom#2.48.6</id>
+    <updated>2024-08-12T17:40:18Z</updated>
+    <published>2024-08-12T17:40:18Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.48.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;ZEB ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-ZEB-UFA-XX&lt;/code&gt; — firmware 2.48.6&lt;/p&gt;&lt;p&gt;Part: ZEB ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.
+ 
+-Firmware version 2.48.6 improves damper actuation recovery protocol when errors are detected by the Flight Attendant fork module. See the Flight Attendant Guide in the AXS app for more information on Damper Error Mode.
+-Improved app connectivity for Flight Attendant when paired to Eagle Powertrain systems.
+-A new profile has been added to allow E-bike ANT signals for Flight Attendant pedaling source.&lt;/p&gt;&lt;p&gt;Released: 2024-08-12&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZEB ULTIMATE (FS-ZEB-UFA-XX) — firmware 2.44.7</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom#2.44.7</id>
+    <updated>2023-09-13T20:53:07Z</updated>
+    <published>2023-09-13T20:53:07Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.44.7"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;ZEB ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-ZEB-UFA-XX&lt;/code&gt; — firmware 2.44.7&lt;/p&gt;&lt;p&gt;Part: ZEB ULTIMATE&lt;/p&gt;&lt;p&gt;Algorithm advancements, power meter integration for Pike, Lyrik and Zeb&lt;/p&gt;&lt;p&gt;Released: 2023-09-13&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZEB ULTIMATE (FS-ZEB-UFA-XX) — firmware 2.44.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom#2.44.0</id>
+    <updated>2023-03-21T15:43:47Z</updated>
+    <published>2023-03-21T15:43:47Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.44.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;ZEB ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-ZEB-UFA-XX&lt;/code&gt; — firmware 2.44.0&lt;/p&gt;&lt;p&gt;Part: ZEB ULTIMATE&lt;/p&gt;&lt;p&gt;Power meter compatibility and performance improvements&lt;/p&gt;&lt;p&gt;Released: 2023-03-21&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZEB ULTIMATE (FS-ZEB-UFA-XX) — firmware 2.19.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom#2.19.5</id>
+    <updated>2021-09-30T22:12:19Z</updated>
+    <published>2021-09-30T22:12:19Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.19.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;ZEB ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-ZEB-UFA-XX&lt;/code&gt; — firmware 2.19.5&lt;/p&gt;&lt;p&gt;Part: ZEB ULTIMATE&lt;/p&gt;&lt;p&gt;Version 2.19.5 for release to AXS mobile application  This is the initial public release of Flight Attendant Front Suspension firmware.&lt;/p&gt;&lt;p&gt;Released: 2021-09-30&lt;/p&gt;</summary>
+  </entry>
+</feed>

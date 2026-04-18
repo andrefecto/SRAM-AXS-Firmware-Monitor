@@ -1,0 +1,50 @@
+{
+  "model_code": "EP-ETP-DSP-A1",
+  "model_id": 1076,
+  "display_name": "EAGLE POWERTRAIN DISPLAY",
+  "part_description": "Apollo HMI",
+  "history": [
+    {
+      "version": "2.52.4",
+      "release_date": "2025-05-08",
+      "release_ts": 1746708790.031,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store. It is recommended to perform this update through the System Firmware menu to update the entire Powertrain System.\n\nPowertrain improvements in Display version 2.52.4 include; Auto Shift activation and faster outboard shifting, improved cutoff behavior near the speed limit, and other bug fixes and system improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1076/2.52.4"
+    },
+    {
+      "version": "2.50.16",
+      "release_date": "2025-01-13",
+      "release_ts": 1736774396.669,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.\n\nFirmware version 2.50.16 provides Powertrain system support updates for 600 Wh and 720 Wh batteries along with improved stability with dual mode batteries when connected to Range Extender. Also included are improvements to the inboard shifting speed on Powertrain equipped systems. Lastly, a new error screen to appear during installation of mismatched motor and drive unit serial numbers .",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1076/2.50.16"
+    },
+    {
+      "version": "1.6.4",
+      "release_date": "2024-05-03",
+      "release_ts": 1714729427.604,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store before installing this update.\n\nDisplay firmware 1.6.4 provides a critical system update to prepare Eagle Powertrain for Drive Unit configurations and future battery updates. Display firmware 1.6.4 also prepares the bike to enable the 12V light port and adjust the display brightness via the AXS App for night riding. A bug related to repetitive Saver Mode errors has been resolved and accuracy of AutoShift function has been improved.\n\nFollowing this update, it is required to update the bike to System Firmware 2.0.6 to update the Drive Unit and configuration.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1076/1.6.4"
+    },
+    {
+      "version": "1.5.0",
+      "release_date": "2024-02-09",
+      "release_ts": 1707468335.237,
+      "release_notes": "Display version 1.5.0 contains multiple performance improvements. Enhanced AutoShift performance allows faster inboard shifts in hilly terrain. Drive Unit odometer enabled for read out in the AXS App. Ride mode reporting over the ANT+ protocol has been improved to facilitate compatibility with head units. Improved system integration with Range Extender batteries.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1076/1.5.0"
+    },
+    {
+      "version": "1.4.6",
+      "release_date": "2023-10-13",
+      "release_ts": 1697219077.573,
+      "release_notes": "This update introduces enhanced functionality to the Powertrain Display and AXS App, enabling the distribution of firmware updates to Powertrain Drive Unit and batteries. After performing this update, Powertrain system updates can be conveniently performed via the Eagle Powertrain menu within the AXS App.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1076/1.4.6"
+    },
+    {
+      "version": "1.3.6",
+      "release_date": "2023-09-11",
+      "release_ts": 1694413289.598,
+      "release_notes": "Initial public release",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1076/1.3.6"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+[
+  {
+    "id": "force-axs-road",
+    "title": "SRAM Force AXS (road)",
+    "description": "All generations of Force AXS road groupsets — derailleurs, shifters, Force power meter.",
+    "models": [
+      "RD-FRC-E-D1", "RD-FRC-E-D2", "RD-FRC-E-E1",
+      "RD-FRC1-E-D1", "RD-FRC-1E-D2", "RD-FRC-1E-E1",
+      "FD-FRC-E-D1", "FD-FRC-E-D2", "FD-FRC-E-E1",
+      "FD-FRC-EW-D1", "FD-FRC-EW-D2",
+      "ED-FRC-D1", "ED-FRC-D2", "ED-FRC-E1",
+      "EB-FRC-D1",
+      "FC-FRC-1P-D2", "PM-DZ-A1"
+    ]
+  },
+  {
+    "id": "red-axs-road",
+    "title": "SRAM RED AXS (road)",
+    "description": "All generations of RED AXS road groupsets — derailleurs, shifters, RED power meters.",
+    "models": [
+      "RD-RED-E-D1", "RD-RED-E-A2", "RD-RED-E1",
+      "RD-RED1-E-D1", "RD-RED-1E-E1",
+      "FD-RED-E-D1", "FD-RED-E1",
+      "ED-RED-D1", "ED-RED-E1",
+      "EB-RED-D1",
+      "PM-RED-D1", "PM-RED-1-D1", "PM-RED-1-D1-AERO"
+    ]
+  },
+  {
+    "id": "rival-axs-road",
+    "title": "SRAM Rival AXS (road)",
+    "description": "Rival AXS road groupsets.",
+    "models": [
+      "RD-RIV-E-D1", "RD-RIV-E-E1", "RD-RIV1-E-D1", "RD-RIV-1E-E1",
+      "FD-RIV-E-D1", "FD-RIV-E-E1", "FD-RIV-EW-D1",
+      "ED-RIV-D1", "ED-RIV-E1"
+    ]
+  },
+  {
+    "id": "apex-axs-road",
+    "title": "SRAM Apex AXS (road / gravel)",
+    "description": "Apex AXS XPLR drivetrain.",
+    "models": ["RD-APX-1E-D1", "ED-APX-D1"]
+  },
+  {
+    "id": "transmission-xx",
+    "title": "SRAM XX / XX SL Transmission (MTB)",
+    "description": "XX and XX SL T-Type rear derailleurs.",
+    "models": ["RD-XX-E-B1", "RD-XX-SLE-B1", "RD-XX-DHE-A1", "RD-XX-1E-A1", "RD-87-E-A1"]
+  },
+  {
+    "id": "transmission-x0",
+    "title": "SRAM X0 Transmission (MTB)",
+    "description": "X0 T-Type rear derailleurs.",
+    "models": ["RD-XO-E-B1", "RD-X0-1E-A1"]
+  },
+  {
+    "id": "transmission-gx",
+    "title": "SRAM GX Transmission (MTB)",
+    "description": "GX T-Type rear derailleurs (incl. body-kit refurb).",
+    "models": ["RD-GX-E-B1", "RD-GX-1E-A1", "RD-UPK-GXTE-A1"]
+  },
+  {
+    "id": "transmission-s1000-s500",
+    "title": "SRAM S1000 / S500 Eagle Transmission",
+    "description": "Entry-tier Eagle Transmission derailleurs.",
+    "models": ["RD-S1000-E-A1", "RD-S500-E-B1"]
+  },
+  {
+    "id": "eagle-axs-mtb-legacy",
+    "title": "SRAM Eagle AXS (pre-Transmission MTB)",
+    "description": "Pre-Transmission Eagle AXS derailleurs (XX1, X01, GX, Apex Eagle) and controllers.",
+    "models": ["RD-XX-1E-A1", "RD-X0-1E-A1", "RD-GX-1E-A1", "RD-X-1E-A1", "EC-AXS-SRAM-A1"]
+  },
+  {
+    "id": "pod-controllers",
+    "title": "AXS POD controllers",
+    "description": "T-Type / Eagle Transmission POD shifters.",
+    "models": ["EC-AXS-POD-B1"]
+  },
+  {
+    "id": "blips",
+    "title": "Wireless Blips",
+    "description": "Standalone Blips (satellite shifter buttons).",
+    "models": ["EC-BLIP-B1", "ES-EAC-BBOX-D1"]
+  },
+  {
+    "id": "eagle-powertrain",
+    "title": "SRAM Eagle Powertrain (eMTB)",
+    "description": "Eagle Powertrain display and pedal sensor.",
+    "models": ["EP-ETP-DSP-A1", "EP-EAC-FAPS-A1"]
+  },
+  {
+    "id": "tt-aero-controls",
+    "title": "TT / Aero control add-ons",
+    "description": "VukaShift bar-end shifters and Blips — pair with your road groupset feed of choice.",
+    "models": ["EC-AXS-ZIPP-A1", "EC-BLIP-B1"]
+  },
+  {
+    "id": "rockshox-forks-ultimate",
+    "title": "RockShox Flight Attendant / Ultimate forks",
+    "description": "AXS-enabled RockShox suspension forks.",
+    "models": ["FS-LYRK-UFA-XX", "FS-PIKE-UFA-XX", "FS-SID-UFA-D1", "FS-SIDS-UFA-D1", "FS-ZEB-UFA-XX"]
+  },
+  {
+    "id": "rockshox-shocks-ultimate",
+    "title": "RockShox Flight Attendant / Ultimate shocks",
+    "description": "AXS-enabled RockShox rear shocks.",
+    "models": [
+      "RS-SDLX-THRU-C1", "RS-SDLX-UFA-C1", "RS-SDLX-UFA-C2", "RS-SDLX-ULT-C1",
+      "RS-SIDL-ISFA-A1", "RS-SIDL-STFA-A2", "RS-SIDL-UFA-A2",
+      "RS-VIVC-UFA-C1", "RS-VIVD-UFA-C1"
+    ]
+  },
+  {
+    "id": "reverb-axs-droppers",
+    "title": "RockShox Reverb AXS dropper posts",
+    "description": "Wireless dropper seatposts.",
+    "models": ["SP-RVB-AXS-A1", "SP-RVB-AXS-B1", "SP-RVB-XPLR-A1", "EC-AXS-RKSX-A1"]
+  },
+  {
+    "id": "quarq-power-meters",
+    "title": "Quarq power meters",
+    "description": "Quarq DZero + DUB (Ship-In-A-Bottle) and older Quarq devices.",
+    "models": ["PM-DZ-A1", "PM-ASSY-D1"]
+  },
+  {
+    "id": "red-power-meters",
+    "title": "RED power meters",
+    "description": "RED spider-based power meters.",
+    "models": ["PM-RED-D1", "PM-RED-1-D1", "PM-RED-1-D1-AERO"]
+  },
+  {
+    "id": "tyrewiz",
+    "title": "Quarq TyreWiz / ZippWiz",
+    "description": "Tire-pressure sensors.",
+    "models": ["WH-TRWZ-A1", "WH-TRWZ-B1", "WH-TRWZ-C1", "WH-TRWZ-E1"]
+  },
+  {
+    "id": "shockwiz",
+    "title": "Quarq ShockWiz",
+    "description": "Suspension-tuning sensor.",
+    "models": ["FS-SHWZ-A1"]
+  },
+  {
+    "id": "powertap",
+    "title": "PowerTap (legacy)",
+    "description": "PowerTap hubs and pedals. Legacy — rare updates.",
+    "models": ["HU-PWTP-G3-A1", "PD-PWTP-P1-A1", "PD-PWTP-P2-A1"]
+  }
+]

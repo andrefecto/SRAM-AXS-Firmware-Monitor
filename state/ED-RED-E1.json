@@ -1,0 +1,29 @@
+{
+  "model_code": "ED-RED-E1",
+  "model_id": 1083,
+  "display_name": "RED CONTROLLER (R)",
+  "part_description": "ED R RED24",
+  "history": [
+    {
+      "version": "2.53.1",
+      "release_date": "2025-09-17",
+      "release_ts": 1758141547.405,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1083/2.53.1"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016392.703,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1083/2.49.1"
+    },
+    {
+      "version": "2.46.9",
+      "release_date": "2024-01-03",
+      "release_ts": 1704312828.666,
+      "release_notes": "Platform updates, future product support, and reliability improvements. Shifter AXS button indicates state of charge (SoC).",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1083/2.46.9"
+    }
+  ]
+}

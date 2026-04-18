@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>XX DH AXS Transmission RD (RD-XX-DHE-A1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM RD-XX-DHE-A1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-DHE-A1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-DHE-A1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2026-02-24T15:02:18Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>XX DH AXS Transmission RD (RD-XX-DHE-A1) — firmware 2.54.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-XX-DHE-A1.atom#2.54.6</id>
+    <updated>2026-02-24T15:02:18Z</updated>
+    <published>2026-02-24T15:02:18Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1133/2.54.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;XX DH AXS Transmission RD&lt;/strong&gt; &lt;code&gt;RD-XX-DHE-A1&lt;/code&gt; — firmware 2.54.6&lt;/p&gt;&lt;p&gt;Part: RD TopGun DH&lt;/p&gt;&lt;p&gt;Initial Public Release&lt;/p&gt;&lt;p&gt;Released: 2026-02-24&lt;/p&gt;</summary>
+  </entry>
+</feed>

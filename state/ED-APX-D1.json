@@ -1,0 +1,36 @@
+{
+  "model_code": "ED-APX-D1",
+  "model_id": 1092,
+  "display_name": "APEX CONTROLLER (L)",
+  "part_description": "Apex ED (L)",
+  "history": [
+    {
+      "version": "2.53.1",
+      "release_date": "2025-09-17",
+      "release_ts": 1758141547.941,
+      "release_notes": "Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1092/2.53.1"
+    },
+    {
+      "version": "2.49.1",
+      "release_date": "2024-05-29",
+      "release_ts": 1717016358.549,
+      "release_notes": "* Minor Bug Fixes, Platform updates and reliability improvements \n* Default shift assignment added for wireless blips",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1092/2.49.1"
+    },
+    {
+      "version": "2.46.2",
+      "release_date": "2023-09-21",
+      "release_ts": 1695304677.684,
+      "release_notes": "Platform updates, future product support, and reliability improvements. Shifter AXS button indicates state of charge (SoC).",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1092/2.46.2"
+    },
+    {
+      "version": "2.42.1",
+      "release_date": "2023-06-16",
+      "release_ts": 1686948343.161,
+      "release_notes": "Initial Public Release",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1092/2.42.1"
+    }
+  ]
+}

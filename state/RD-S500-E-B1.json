@@ -1,0 +1,15 @@
+{
+  "model_code": "RD-S500-E-B1",
+  "model_id": 1213,
+  "display_name": "EAGLE RD",
+  "part_description": "EAGLE CONSOLIDATION RD",
+  "history": [
+    {
+      "version": "2.54.2",
+      "release_date": "2026-04-07",
+      "release_ts": 1775570940.678,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version before installing this Device Firmware Update. \n  - This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1213/2.54.2"
+    }
+  ]
+}

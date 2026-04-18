@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SUPER DELUXE ULTIMATE (RS-SDLX-UFA-C1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM RS-SDLX-UFA-C1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2026-04-16T14:11:43Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>SUPER DELUXE ULTIMATE (RS-SDLX-UFA-C1) — firmware 2.54.10</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom#2.54.10</id>
+    <updated>2026-04-16T14:11:43Z</updated>
+    <published>2026-04-16T14:11:43Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1039/2.54.10"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SUPER DELUXE ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-SDLX-UFA-C1&lt;/code&gt; — firmware 2.54.10&lt;/p&gt;&lt;p&gt;Part: SUPER DELUXE ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+- “FA Mode” data field on Karoo Bike Computer to show Error States for the Flight Attendant System, should they occur.
+- Minor bug fixes and production systems support.&lt;/p&gt;&lt;p&gt;Released: 2026-04-16&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SUPER DELUXE ULTIMATE (RS-SDLX-UFA-C1) — firmware 2.54.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom#2.54.5</id>
+    <updated>2025-12-09T21:12:00Z</updated>
+    <published>2025-12-09T21:12:00Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1039/2.54.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SUPER DELUXE ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-SDLX-UFA-C1&lt;/code&gt; — firmware 2.54.5&lt;/p&gt;&lt;p&gt;Part: SUPER DELUXE ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+- This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.  
+
+- Future Product Support.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SUPER DELUXE ULTIMATE (RS-SDLX-UFA-C1) — firmware 2.53.9</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom#2.53.9</id>
+    <updated>2025-10-16T15:58:18Z</updated>
+    <published>2025-10-16T15:58:18Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1039/2.53.9"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SUPER DELUXE ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-SDLX-UFA-C1&lt;/code&gt; — firmware 2.53.9&lt;/p&gt;&lt;p&gt;Part: SUPER DELUXE ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and KAROO is on the latest version to activate the following improvements. This firmware update contains:
+
+New system integration features between Flight Attendant Systems and the Karoo Bike Computers.
+
+You can now track FA suspension state, operating mode, actuation counts, battery, and more in-ride on your Karoo.
+
+You can also see FA suspension state with GPS data for your ride on Hammerhead Dashboard&lt;/p&gt;&lt;p&gt;Released: 2025-10-16&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SUPER DELUXE ULTIMATE (RS-SDLX-UFA-C1) — firmware 2.48.4</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom#2.48.4</id>
+    <updated>2024-05-30T15:34:54Z</updated>
+    <published>2024-05-30T15:34:54Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1039/2.48.4"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SUPER DELUXE ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-SDLX-UFA-C1&lt;/code&gt; — firmware 2.48.4&lt;/p&gt;&lt;p&gt;Part: SUPER DELUXE ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.
+Firmware version 2.48.4 provides improved app connectivity for Eagle Powertrain systems equipped with Flight Attendant. A new profile has been added to allow E-bike ANT signals for Flight Attendant pedaling source. General improvements to Flight Attendant systems are also included in this update to forks, shocks, and pedal sensors.&lt;/p&gt;&lt;p&gt;Released: 2024-05-30&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SUPER DELUXE ULTIMATE (RS-SDLX-UFA-C1) — firmware 2.44.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom#2.44.8</id>
+    <updated>2023-10-25T21:24:32Z</updated>
+    <published>2023-10-25T21:24:32Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1039/2.44.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SUPER DELUXE ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-SDLX-UFA-C1&lt;/code&gt; — firmware 2.44.8&lt;/p&gt;&lt;p&gt;Part: SUPER DELUXE ULTIMATE&lt;/p&gt;&lt;p&gt;Algorithm advancements, SIDLuxe support&lt;/p&gt;&lt;p&gt;Released: 2023-10-25&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SUPER DELUXE ULTIMATE (RS-SDLX-UFA-C1) — firmware 2.44.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom#2.44.1</id>
+    <updated>2023-04-04T22:41:47Z</updated>
+    <published>2023-04-04T22:41:47Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1039/2.44.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SUPER DELUXE ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-SDLX-UFA-C1&lt;/code&gt; — firmware 2.44.1&lt;/p&gt;&lt;p&gt;Part: SUPER DELUXE ULTIMATE&lt;/p&gt;&lt;p&gt;Power meter compatibility and performance improvements&lt;/p&gt;&lt;p&gt;Released: 2023-04-04&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SUPER DELUXE ULTIMATE (RS-SDLX-UFA-C1) — firmware 2.19.5</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom#2.19.5</id>
+    <updated>2021-09-30T22:13:39Z</updated>
+    <published>2021-09-30T22:13:39Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1039/2.19.5"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SUPER DELUXE ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-SDLX-UFA-C1&lt;/code&gt; — firmware 2.19.5&lt;/p&gt;&lt;p&gt;Part: SUPER DELUXE ULTIMATE&lt;/p&gt;&lt;p&gt;Version 2.19.5 for release to AXS mobile application  This is the initial public release of Flight Attendant Rear Suspension firmware.&lt;/p&gt;&lt;p&gt;Released: 2021-09-30&lt;/p&gt;</summary>
+  </entry>
+</feed>

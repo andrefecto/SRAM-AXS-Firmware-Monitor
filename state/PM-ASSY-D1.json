@@ -1,0 +1,50 @@
+{
+  "model_code": "PM-ASSY-D1",
+  "model_id": 1052,
+  "display_name": "QUARQ DUB POWER METER",
+  "part_description": "SHIP IN A BOTTLE",
+  "history": [
+    {
+      "version": "1.4.2",
+      "release_date": "2024-10-10",
+      "release_ts": 1728580972.089,
+      "release_notes": "Improves recovery from an error state caused by impacts where the power meter reports zero power while reporting non-zero cadence. The error recovery improves the power meter interface to Flight Attendant systems.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1052/1.4.2"
+    },
+    {
+      "version": "1.2.8",
+      "release_date": "2022-08-30",
+      "release_ts": 1661889734.138,
+      "release_notes": "Bug Fix - resolved setup calibration issue causing the power meter to become unresponsive until the battery is removed and reinstalled.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1052/1.2.8"
+    },
+    {
+      "version": "1.1.17",
+      "release_date": "2022-08-25",
+      "release_ts": 1661453466.399,
+      "release_notes": "Fix for a small percentage of devices that use too much battery in sleep.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1052/1.1.17"
+    },
+    {
+      "version": "1.3.3",
+      "release_date": "2022-08-10",
+      "release_ts": 1660141684.807,
+      "release_notes": "Platform updates, future product support, and battery indication corrections.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1052/1.3.3"
+    },
+    {
+      "version": "1.1.16",
+      "release_date": "2021-10-05",
+      "release_ts": 1633445793.765,
+      "release_notes": "Improve power accuracy in certain rare edge cases.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1052/1.1.16"
+    },
+    {
+      "version": "1.1.12",
+      "release_date": "2021-04-15",
+      "release_ts": 1618496528.999,
+      "release_notes": "Various bug fixes and performance improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1052/1.1.12"
+    }
+  ]
+}
