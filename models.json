@@ -648,6 +648,14 @@
     "firmware_type": "bambam"
   },
   {
+    "model_code": "SDLX FA D1",
+    "model_id": 1216,
+    "device_type": 131,
+    "part_description": "SUPER DELUXE ULTIMATE",
+    "display_name": "SUPER DELUXE ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
     "model_code": "SP-RVB-AXS-A1",
     "model_id": 1018,
     "device_type": 132,
@@ -669,6 +677,22 @@
     "device_type": 132,
     "part_description": "SP 27.2 50 350",
     "display_name": "REVERB AXS XPLR",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "VIVID COIL FA D1",
+    "model_id": 1218,
+    "device_type": 131,
+    "part_description": "VIVID COIL ULTIMATE",
+    "display_name": "VIVID COIL ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "VIVID FA D1",
+    "model_id": 1217,
+    "device_type": 131,
+    "part_description": "VIVID AIR ULTIMATE",
+    "display_name": "VIVID AIR ULTIMATE",
     "firmware_type": "bambam"
   },
   {
