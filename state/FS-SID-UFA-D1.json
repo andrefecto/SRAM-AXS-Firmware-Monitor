@@ -5,6 +5,13 @@
   "part_description": "SID ULTIMATE",
   "history": [
     {
+      "version": "2.55.3",
+      "release_date": "2026-06-23",
+      "release_ts": 1782234158.49,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.\n     - This firmware update addresses some instances of \u201cDamper Error State\u201d on  Flight Attendant Front Suspension devices. \n    - It also contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1086/2.55.3"
+    },
+    {
       "version": "2.54.10",
       "release_date": "2026-04-16",
       "release_ts": 1776348704.197,

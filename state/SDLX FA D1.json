@@ -1,0 +1,15 @@
+{
+  "model_code": "SDLX FA D1",
+  "model_id": 1216,
+  "display_name": "SUPER DELUXE ULTIMATE",
+  "part_description": "SUPER DELUXE ULTIMATE",
+  "history": [
+    {
+      "version": "2.55.3",
+      "release_date": "2026-06-23",
+      "release_ts": 1782234159.901,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.\n     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1216/2.55.3"
+    }
+  ]
+}

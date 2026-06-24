@@ -5,8 +5,18 @@
   <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/blips.atom</id>
   <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/blips.atom"/>
   <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
-  <updated>2025-09-17T20:44:40Z</updated>
+  <updated>2026-06-23T16:54:07Z</updated>
   <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>BLIPBOX (ES-EAC-BBOX-D1) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ES-EAC-BBOX-D1.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:07Z</updated>
+    <published>2026-06-23T16:54:07Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1012/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;BLIPBOX&lt;/strong&gt; &lt;code&gt;ES-EAC-BBOX-D1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: ES&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>BLIPBOX (ES-EAC-BBOX-D1) — firmware 2.53.2</title>
     <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ES-EAC-BBOX-D1.atom#2.53.2</id>

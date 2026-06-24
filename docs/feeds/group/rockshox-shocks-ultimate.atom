@@ -5,8 +5,78 @@
   <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/rockshox-shocks-ultimate.atom</id>
   <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/rockshox-shocks-ultimate.atom"/>
   <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
-  <updated>2026-04-16T14:11:45Z</updated>
+  <updated>2026-06-23T17:02:39Z</updated>
   <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>SIDLUXE SCOTT ULTIMATE AXS (RS-SIDL-STFA-A2) — firmware 2.55.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SIDL-STFA-A2.atom#2.55.3</id>
+    <updated>2026-06-23T17:02:39Z</updated>
+    <published>2026-06-23T17:02:39Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1131/2.55.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SIDLUXE SCOTT ULTIMATE AXS&lt;/strong&gt; &lt;code&gt;RS-SIDL-STFA-A2&lt;/code&gt; — firmware 2.55.3&lt;/p&gt;&lt;p&gt;Part: SIDLUXE SCOTT ULTIMATE AXS&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SIDLUXE ISOSTRUT ULTIMATE AXS (RS-SIDL-ISFA-A1) — firmware 2.55.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SIDL-ISFA-A1.atom#2.55.3</id>
+    <updated>2026-06-23T17:02:39Z</updated>
+    <published>2026-06-23T17:02:39Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1130/2.55.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SIDLUXE ISOSTRUT ULTIMATE AXS&lt;/strong&gt; &lt;code&gt;RS-SIDL-ISFA-A1&lt;/code&gt; — firmware 2.55.3&lt;/p&gt;&lt;p&gt;Part: SIDLUXE ISOSTRUT ULTIMATE AXS&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SUPER DELUXE ULTIMATE (RS-SDLX-UFA-C2) — firmware 2.55.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C2.atom#2.55.3</id>
+    <updated>2026-06-23T17:02:39Z</updated>
+    <published>2026-06-23T17:02:39Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1128/2.55.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SUPER DELUXE ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-SDLX-UFA-C2&lt;/code&gt; — firmware 2.55.3&lt;/p&gt;&lt;p&gt;Part: SUPER DELUXE ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>VIVID AIR ULTIMATE (RS-VIVD-UFA-C1) — firmware 2.55.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-VIVD-UFA-C1.atom#2.55.3</id>
+    <updated>2026-06-23T17:02:38Z</updated>
+    <published>2026-06-23T17:02:38Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1089/2.55.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;VIVID AIR ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-VIVD-UFA-C1&lt;/code&gt; — firmware 2.55.3&lt;/p&gt;&lt;p&gt;Part: VIVID AIR ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>VIVID COIL ULTIMATE (RS-VIVC-UFA-C1) — firmware 2.55.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-VIVC-UFA-C1.atom#2.55.3</id>
+    <updated>2026-06-23T17:02:38Z</updated>
+    <published>2026-06-23T17:02:38Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1088/2.55.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;VIVID COIL ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-VIVC-UFA-C1&lt;/code&gt; — firmware 2.55.3&lt;/p&gt;&lt;p&gt;Part: VIVID COIL ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SIDLUXE ULTIMATE (RS-SIDL-UFA-A2) — firmware 2.55.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SIDL-UFA-A2.atom#2.55.3</id>
+    <updated>2026-06-23T17:02:38Z</updated>
+    <published>2026-06-23T17:02:38Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1085/2.55.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SIDLUXE ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-SIDL-UFA-A2&lt;/code&gt; — firmware 2.55.3&lt;/p&gt;&lt;p&gt;Part: SIDLUXE ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>SUPER DELUXE ULTIMATE (RS-SDLX-UFA-C1) — firmware 2.55.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom#2.55.3</id>
+    <updated>2026-06-23T17:02:37Z</updated>
+    <published>2026-06-23T17:02:37Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1039/2.55.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SUPER DELUXE ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-SDLX-UFA-C1&lt;/code&gt; — firmware 2.55.3&lt;/p&gt;&lt;p&gt;Part: SUPER DELUXE ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>SIDLUXE SCOTT ULTIMATE AXS (RS-SIDL-STFA-A2) — firmware 2.54.10</title>
     <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SIDL-STFA-A2.atom#2.54.10</id>

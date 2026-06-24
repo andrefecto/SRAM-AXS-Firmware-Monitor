@@ -5,8 +5,19 @@
   <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom</id>
   <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom"/>
   <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
-  <updated>2026-04-16T14:11:43Z</updated>
+  <updated>2026-06-23T17:02:38Z</updated>
   <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>ZEB ULTIMATE (FS-ZEB-UFA-XX) — firmware 2.55.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom#2.55.3</id>
+    <updated>2026-06-23T17:02:38Z</updated>
+    <published>2026-06-23T17:02:38Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.55.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;ZEB ULTIMATE&lt;/strong&gt; &lt;code&gt;FS-ZEB-UFA-XX&lt;/code&gt; — firmware 2.55.3&lt;/p&gt;&lt;p&gt;Part: ZEB ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update addresses some instances of “Damper Error State” on  Flight Attendant Front Suspension devices. 
+    - It also contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ZEB ULTIMATE (FS-ZEB-UFA-XX) — firmware 2.54.10</title>
     <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FS-ZEB-UFA-XX.atom#2.54.10</id>

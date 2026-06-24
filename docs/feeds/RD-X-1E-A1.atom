@@ -5,8 +5,18 @@
   <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-X-1E-A1.atom</id>
   <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-X-1E-A1.atom"/>
   <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
-  <updated>2025-12-09T21:06:56Z</updated>
+  <updated>2026-06-23T16:54:15Z</updated>
   <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>X1 EAGLE RD (RD-X-1E-A1) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-X-1E-A1.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:15Z</updated>
+    <published>2026-06-23T16:54:15Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1102/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;X1 EAGLE RD&lt;/strong&gt; &lt;code&gt;RD-X-1E-A1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: APEX RD EAGLE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>X1 EAGLE RD (RD-X-1E-A1) — firmware 2.54.2</title>
     <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-X-1E-A1.atom#2.54.2</id>

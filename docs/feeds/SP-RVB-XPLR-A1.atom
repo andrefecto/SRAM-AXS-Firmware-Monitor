@@ -5,8 +5,18 @@
   <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-XPLR-A1.atom</id>
   <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-XPLR-A1.atom"/>
   <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
-  <updated>2026-01-06T15:30:13Z</updated>
+  <updated>2026-06-23T16:54:12Z</updated>
   <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>REVERB AXS XPLR (SP-RVB-XPLR-A1) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-XPLR-A1.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:12Z</updated>
+    <published>2026-06-23T16:54:12Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1067/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB AXS XPLR&lt;/strong&gt; &lt;code&gt;SP-RVB-XPLR-A1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: SP 27.2 50 350&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>REVERB AXS XPLR (SP-RVB-XPLR-A1) — firmware 2.48.0</title>
     <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-XPLR-A1.atom#2.48.0</id>

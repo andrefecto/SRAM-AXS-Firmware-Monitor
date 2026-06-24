@@ -5,8 +5,98 @@
   <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/red-axs-road.atom</id>
   <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/group/red-axs-road.atom"/>
   <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
-  <updated>2026-03-04T19:43:15Z</updated>
+  <updated>2026-06-23T17:04:05Z</updated>
   <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>RED RD XPLR MAX 46T (RD-RED-1E-E1) — firmware 2.55.6</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-1E-E1.atom#2.55.6</id>
+    <updated>2026-06-23T17:04:05Z</updated>
+    <published>2026-06-23T17:04:05Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1081/2.55.6"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 46T&lt;/strong&gt; &lt;code&gt;RD-RED-1E-E1&lt;/code&gt; — firmware 2.55.6&lt;/p&gt;&lt;p&gt;Part: RED24 1x RD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E1) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E1.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:16Z</updated>
+    <published>2026-06-23T16:54:16Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1118/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: FD RED24&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (ED-RED-E1) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RED-E1.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:13Z</updated>
+    <published>2026-06-23T16:54:13Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1083/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-RED-E1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: ED R RED24&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E1) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E1.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:13Z</updated>
+    <published>2026-06-23T16:54:13Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1082/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: Red24 2x&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD XPLR MAX 44T (RD-RED1-E-D1) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED1-E-D1.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:12Z</updated>
+    <published>2026-06-23T16:54:12Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1070/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RED1-E-D1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: RED RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (EB-RED-D1) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EB-RED-D1.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:07Z</updated>
+    <published>2026-06-23T16:54:07Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1008/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;EB-RED-D1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: EB R RED&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED CONTROLLER (R) (ED-RED-D1) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/ED-RED-D1.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:06Z</updated>
+    <published>2026-06-23T16:54:06Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1004/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED CONTROLLER (R)&lt;/strong&gt; &lt;code&gt;ED-RED-D1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: ED R RED&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED FD (FD-RED-E-D1) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RED-E-D1.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:06Z</updated>
+    <published>2026-06-23T16:54:06Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1002/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED FD&lt;/strong&gt; &lt;code&gt;FD-RED-E-D1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: FD RED&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>RED RD (RD-RED-E-D1) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-E-D1.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:05Z</updated>
+    <published>2026-06-23T16:54:05Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1000/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E-D1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: RD RED&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>RED RD XPLR MAX 46T (RD-RED-1E-E1) — firmware 2.54.9</title>
     <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED-1E-E1.atom#2.54.9</id>

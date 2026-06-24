@@ -5,6 +5,13 @@
   "part_description": "RD RED",
   "history": [
     {
+      "version": "2.55.1",
+      "release_date": "2026-06-23",
+      "release_ts": 1782233645.946,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.\n     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1000/2.55.1"
+    },
+    {
       "version": "2.54.0",
       "release_date": "2025-12-09",
       "release_ts": 1765313932.413,

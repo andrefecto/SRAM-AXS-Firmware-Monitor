@@ -1,0 +1,15 @@
+{
+  "model_code": "VIVID FA D1",
+  "model_id": 1217,
+  "display_name": "VIVID AIR ULTIMATE",
+  "part_description": "VIVID AIR ULTIMATE",
+  "history": [
+    {
+      "version": "2.55.3",
+      "release_date": "2026-06-23",
+      "release_ts": 1782234160.057,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.\n     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1217/2.55.3"
+    }
+  ]
+}

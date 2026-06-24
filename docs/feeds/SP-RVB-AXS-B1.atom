@@ -5,8 +5,18 @@
   <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-B1.atom</id>
   <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-B1.atom"/>
   <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
-  <updated>2025-12-09T20:58:55Z</updated>
+  <updated>2026-06-23T16:54:17Z</updated>
   <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-B1) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-B1.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:17Z</updated>
+    <published>2026-06-23T16:54:17Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1150/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-B1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: SP2 30.9 100&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and Seatpost reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>REVERB SEATPOST (SP-RVB-AXS-B1) — firmware 2.54.0</title>
     <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-B1.atom#2.54.0</id>

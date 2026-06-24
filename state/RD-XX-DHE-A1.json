@@ -5,6 +5,13 @@
   "part_description": "RD TopGun DH",
   "history": [
     {
+      "version": "2.55.6",
+      "release_date": "2026-06-23",
+      "release_ts": 1782234245.436,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.\n     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1133/2.55.6"
+    },
+    {
       "version": "2.54.6",
       "release_date": "2026-02-24",
       "release_ts": 1771945338.929,

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>VIVID COIL ULTIMATE (VIVID COIL FA D1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM VIVID COIL FA D1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/VIVID COIL FA D1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/VIVID COIL FA D1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2026-06-23T17:02:40Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>VIVID COIL ULTIMATE (VIVID COIL FA D1) — firmware 2.55.3</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/VIVID COIL FA D1.atom#2.55.3</id>
+    <updated>2026-06-23T17:02:40Z</updated>
+    <published>2026-06-23T17:02:40Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1218/2.55.3"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;VIVID COIL ULTIMATE&lt;/strong&gt; &lt;code&gt;VIVID COIL FA D1&lt;/code&gt; — firmware 2.55.3&lt;/p&gt;&lt;p&gt;Part: VIVID COIL ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+</feed>
