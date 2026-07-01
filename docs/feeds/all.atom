@@ -283,6 +283,16 @@
      - This firmware update contains minor bug fixes, platform updates, future product support, and Seatpost reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
   </entry>
   <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-B2) — firmware 2.55.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-B2.atom#2.55.1</id>
+    <updated>2026-06-23T16:54:17Z</updated>
+    <published>2026-06-23T16:54:17Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1150/2.55.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-B2&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: SP2 30.9 100&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+     - This firmware update contains minor bug fixes, platform updates, future product support, and Seatpost reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
     <title>RIVAL RD (RD-RIV-E-E1) — firmware 2.55.1</title>
     <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RIV-E-E1.atom#2.55.1</id>
     <updated>2026-06-23T16:54:17Z</updated>
@@ -721,6 +731,15 @@
     <author><name>SRAM AXS Firmware Monitor</name></author>
     <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD&lt;/strong&gt; &lt;code&gt;RD-RED-E-D1&lt;/code&gt; — firmware 2.55.1&lt;/p&gt;&lt;p&gt;Part: RD RED&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
      - This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2026-06-23&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>AXS Stealth Controller (L) (EC-AXS-ST-A1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-ST-A1.atom#2.49.1</id>
+    <updated>2026-06-01T14:56:53Z</updated>
+    <published>2026-06-01T14:56:53Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1182/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;AXS Stealth Controller (L)&lt;/strong&gt; &lt;code&gt;EC-AXS-ST-A1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: EC AXS Stealth (L)&lt;/p&gt;&lt;p&gt;Initial Public Firmware&lt;/p&gt;&lt;p&gt;Released: 2026-06-01&lt;/p&gt;</summary>
   </entry>
   <entry>
     <title>SIDLUXE SCOTT ULTIMATE AXS (RS-SIDL-STFA-A2) — firmware 2.54.10</title>
@@ -1320,6 +1339,19 @@ This firmware supports SRAM's next generation Bluetooth protocol, SB2, which imp
     <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1150/2.54.0"/>
     <author><name>SRAM AXS Firmware Monitor</name></author>
     <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-B1&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: SP2 30.9 100&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+
+ 
+
+This firmware supports SRAM's next generation Bluetooth protocol, SB2, which improves BLE communication between AXS components, the AXS App, and Karoo bike computers. All older generation AXS components, SB1, are also supported.&lt;/p&gt;&lt;p&gt;Released: 2025-12-09&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-B2) — firmware 2.54.0</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-B2.atom#2.54.0</id>
+    <updated>2025-12-09T20:58:55Z</updated>
+    <published>2025-12-09T20:58:55Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1150/2.54.0"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-B2&lt;/code&gt; — firmware 2.54.0&lt;/p&gt;&lt;p&gt;Part: SP2 30.9 100&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
 
  
 
@@ -2011,6 +2043,15 @@ This firmware update contains minor bug fixes, platform updates, future product 
     <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-B1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: SP2 30.9 100&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
   </entry>
   <entry>
+    <title>REVERB SEATPOST (SP-RVB-AXS-B2) — firmware 2.53.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/SP-RVB-AXS-B2.atom#2.53.1</id>
+    <updated>2025-09-17T20:39:11Z</updated>
+    <published>2025-09-17T20:39:11Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1150/2.53.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;REVERB SEATPOST&lt;/strong&gt; &lt;code&gt;SP-RVB-AXS-B2&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: SP2 30.9 100&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
+  </entry>
+  <entry>
     <title>RIVAL RD XPLR MAX 46T (RD-RIV-1E-E1) — firmware 2.53.1</title>
     <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RIV-1E-E1.atom#2.53.1</id>
     <updated>2025-09-17T20:39:11Z</updated>
@@ -2171,41 +2212,5 @@ This firmware update contains minor bug fixes, platform updates, future product 
     <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1074/2.53.1"/>
     <author><name>SRAM AXS Firmware Monitor</name></author>
     <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RIV1-E-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: RIVAL RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>POD (EC-AXS-POD-B1) — firmware 2.53.1</title>
-    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-POD-B1.atom#2.53.1</id>
-    <updated>2025-09-17T20:39:06Z</updated>
-    <published>2025-09-17T20:39:06Z</published>
-    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1072/2.53.1"/>
-    <author><name>SRAM AXS Firmware Monitor</name></author>
-    <summary type="html">&lt;p&gt;&lt;strong&gt;POD&lt;/strong&gt; &lt;code&gt;EC-AXS-POD-B1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: EC AXS POD&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>FORCE RD XPLR MAX 44T (RD-FRC1-E-D1) — firmware 2.53.1</title>
-    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-FRC1-E-D1.atom#2.53.1</id>
-    <updated>2025-09-17T20:39:06Z</updated>
-    <published>2025-09-17T20:39:06Z</published>
-    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1071/2.53.1"/>
-    <author><name>SRAM AXS Firmware Monitor</name></author>
-    <summary type="html">&lt;p&gt;&lt;strong&gt;FORCE RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-FRC1-E-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: FORCE RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>RED RD XPLR MAX 44T (RD-RED1-E-D1) — firmware 2.53.1</title>
-    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RD-RED1-E-D1.atom#2.53.1</id>
-    <updated>2025-09-17T20:39:06Z</updated>
-    <published>2025-09-17T20:39:06Z</published>
-    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1070/2.53.1"/>
-    <author><name>SRAM AXS Firmware Monitor</name></author>
-    <summary type="html">&lt;p&gt;&lt;strong&gt;RED RD XPLR MAX 44T&lt;/strong&gt; &lt;code&gt;RD-RED1-E-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: RED RD MAX 44T&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>RIVAL FD WIDE (FD-RIV-EW-D1) — firmware 2.53.1</title>
-    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/FD-RIV-EW-D1.atom#2.53.1</id>
-    <updated>2025-09-17T20:39:05Z</updated>
-    <published>2025-09-17T20:39:05Z</published>
-    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1051/2.53.1"/>
-    <author><name>SRAM AXS Firmware Monitor</name></author>
-    <summary type="html">&lt;p&gt;&lt;strong&gt;RIVAL FD WIDE&lt;/strong&gt; &lt;code&gt;FD-RIV-EW-D1&lt;/code&gt; — firmware 2.53.1&lt;/p&gt;&lt;p&gt;Part: RIVAL FD WIDE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App is on the latest version from the app store to activate the following improvements.  This firmware update contains minor bug fixes, platform updates, future product support, and reliability improvements.&lt;/p&gt;&lt;p&gt;Released: 2025-09-17&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AXS Stealth Controller (L) (EC-AXS-ST-A1) — firmware</title>
+  <subtitle>Production firmware releases for SRAM EC-AXS-ST-A1.</subtitle>
+  <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-ST-A1.atom</id>
+  <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-ST-A1.atom"/>
+  <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
+  <updated>2026-06-01T14:56:53Z</updated>
+  <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>AXS Stealth Controller (L) (EC-AXS-ST-A1) — firmware 2.49.1</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/EC-AXS-ST-A1.atom#2.49.1</id>
+    <updated>2026-06-01T14:56:53Z</updated>
+    <published>2026-06-01T14:56:53Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1182/2.49.1"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;AXS Stealth Controller (L)&lt;/strong&gt; &lt;code&gt;EC-AXS-ST-A1&lt;/code&gt; — firmware 2.49.1&lt;/p&gt;&lt;p&gt;Part: EC AXS Stealth (L)&lt;/p&gt;&lt;p&gt;Initial Public Firmware&lt;/p&gt;&lt;p&gt;Released: 2026-06-01&lt;/p&gt;</summary>
+  </entry>
+</feed>

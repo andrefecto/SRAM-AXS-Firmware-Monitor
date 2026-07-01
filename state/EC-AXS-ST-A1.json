@@ -1,0 +1,15 @@
+{
+  "model_code": "EC-AXS-ST-A1",
+  "model_id": 1182,
+  "display_name": "AXS Stealth Controller (L)",
+  "part_description": "EC AXS Stealth (L)",
+  "history": [
+    {
+      "version": "2.49.1",
+      "release_date": "2026-06-01",
+      "release_ts": 1780325813.569,
+      "release_notes": "Initial Public Firmware",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1182/2.49.1"
+    }
+  ]
+}
