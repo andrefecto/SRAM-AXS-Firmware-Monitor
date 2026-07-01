@@ -40,6 +40,14 @@
     "firmware_type": "bambam"
   },
   {
+    "model_code": "EC-AXS-ST-A1",
+    "model_id": 1182,
+    "device_type": 3,
+    "part_description": "EC AXS Stealth (L)",
+    "display_name": "AXS Stealth Controller (L)",
+    "firmware_type": "bambam"
+  },
+  {
     "model_code": "EC-AXS-ZIPP-A1",
     "model_id": 1046,
     "device_type": 0,
@@ -664,7 +672,7 @@
     "firmware_type": "bambam"
   },
   {
-    "model_code": "SP-RVB-AXS-B1",
+    "model_code": "SP-RVB-AXS-B2",
     "model_id": 1150,
     "device_type": 132,
     "part_description": "SP2 30.9 100",
