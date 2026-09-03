@@ -5,6 +5,13 @@
   "part_description": "Eagle DUB AXS Pedal Sensor",
   "history": [
     {
+      "version": "2.55.8",
+      "release_date": "2026-09-03",
+      "release_ts": 1788444086.369,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.\n    - This firmware update supports future product integration.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1040/2.55.8"
+    },
+    {
       "version": "2.48.4",
       "release_date": "2024-05-30",
       "release_ts": 1717083292.426,

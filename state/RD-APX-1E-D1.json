@@ -5,6 +5,13 @@
   "part_description": "APEX RD XPLR",
   "history": [
     {
+      "version": "2.55.8",
+      "release_date": "2026-09-03",
+      "release_ts": 1788444089.408,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.\n    - This firmware update supports future product integration.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1101/2.55.8"
+    },
+    {
       "version": "2.55.1",
       "release_date": "2026-06-23",
       "release_ts": 1782233655.244,

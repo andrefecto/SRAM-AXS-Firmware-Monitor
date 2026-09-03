@@ -5,8 +5,18 @@
   <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom</id>
   <link rel="self" href="https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom"/>
   <link rel="alternate" href="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor"/>
-  <updated>2026-06-23T17:02:37Z</updated>
+  <updated>2026-09-03T14:01:26Z</updated>
   <generator uri="https://github.com/andrefecto/SRAM-AXS-Firmware-Monitor">SRAM AXS Firmware Monitor</generator>
+  <entry>
+    <title>SUPER DELUXE ULTIMATE (RS-SDLX-UFA-C1) — firmware 2.55.8</title>
+    <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom#2.55.8</id>
+    <updated>2026-09-03T14:01:26Z</updated>
+    <published>2026-09-03T14:01:26Z</published>
+    <link rel="alternate" href="https://api.axs.sram.com/firmware-service/v2/firmware/1039/2.55.8"/>
+    <author><name>SRAM AXS Firmware Monitor</name></author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;SUPER DELUXE ULTIMATE&lt;/strong&gt; &lt;code&gt;RS-SDLX-UFA-C1&lt;/code&gt; — firmware 2.55.8&lt;/p&gt;&lt;p&gt;Part: SUPER DELUXE ULTIMATE&lt;/p&gt;&lt;p&gt;Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.
+    - This firmware update supports future product integration.&lt;/p&gt;&lt;p&gt;Released: 2026-09-03&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>SUPER DELUXE ULTIMATE (RS-SDLX-UFA-C1) — firmware 2.55.3</title>
     <id>https://andrefecto.github.io/SRAM-AXS-Firmware-Monitor/feeds/RS-SDLX-UFA-C1.atom#2.55.3</id>
