@@ -5,6 +5,13 @@
   "part_description": "ZEB ULTIMATE",
   "history": [
     {
+      "version": "2.55.13",
+      "release_date": "2026-09-28",
+      "release_ts": 1790606420.52,
+      "release_notes": "Please ensure your AXS App and Karoo Bike Computer are on the latest version  before installing this Device Firmware Update.\n     - This firmware update contains additional improvements to further reduce instances of \"Damper Error State\u201d on  Flight Attendant Front Suspension devices.",
+      "link": "https://api.axs.sram.com/firmware-service/v2/firmware/1049/2.55.13"
+    },
+    {
       "version": "2.55.8",
       "release_date": "2026-09-03",
       "release_ts": 1788444086.652,
