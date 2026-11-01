@@ -240,11 +240,27 @@
     "firmware_type": "bambam"
   },
   {
+    "model_code": "FS-LEFTY",
+    "model_id": 1191,
+    "device_type": 130,
+    "part_description": "LEFTY ULTIMATE",
+    "display_name": "LEFTY ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
     "model_code": "FS-LYRK-UFA-XX",
     "model_id": 1048,
     "device_type": 130,
     "part_description": "LYRIK ULTIMATE",
     "display_name": "LYRIK ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FS-PIKE-UFA-MY28",
+    "model_id": 1254,
+    "device_type": 130,
+    "part_description": "PIKE ULTIMATE MY28 29\"",
+    "display_name": "PIKE ULTIMATE MY28 29\"",
     "firmware_type": "bambam"
   },
   {
@@ -269,6 +285,14 @@
     "device_type": 130,
     "part_description": "SID ULTIMATE",
     "display_name": "SID ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "FS-SID-UFA-MY28",
+    "model_id": 1226,
+    "device_type": 130,
+    "part_description": "SID ULTIMATE MY28 29\"",
+    "display_name": "SID ULTIMATE MY28 29\"",
     "firmware_type": "bambam"
   },
   {
@@ -616,6 +640,14 @@
     "firmware_type": "bambam"
   },
   {
+    "model_code": "RS-SIDL-FATU-B1",
+    "model_id": 1224,
+    "device_type": 131,
+    "part_description": "SIDLUXE ULTIMATE SCOTT TUNED",
+    "display_name": "SIDLUXE ULTIMATE SCOTT TUNED",
+    "firmware_type": "bambam"
+  },
+  {
     "model_code": "RS-SIDL-ISFA-A1",
     "model_id": 1130,
     "device_type": 131,
@@ -634,6 +666,14 @@
   {
     "model_code": "RS-SIDL-UFA-A2",
     "model_id": 1085,
+    "device_type": 131,
+    "part_description": "SIDLUXE ULTIMATE",
+    "display_name": "SIDLUXE ULTIMATE",
+    "firmware_type": "bambam"
+  },
+  {
+    "model_code": "RS-UFA-XC-SID-B1",
+    "model_id": 1223,
     "device_type": 131,
     "part_description": "SIDLUXE ULTIMATE",
     "display_name": "SIDLUXE ULTIMATE",
